@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".carousel").carousel();qwerty=setTimeout(function(){$("#foo2").carouFredSel({circular:!0,infinite:!1,auto:!1,prev:{button:"#foo2_prev",key:"left"},next:{button:"#foo2_next",key:"right"}})},100)});
