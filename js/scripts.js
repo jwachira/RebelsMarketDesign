@@ -1,3 +1,26 @@
+$(window).load(function() {
+
+//packery
+  	var container = document.querySelector('#container');
+	var pckry = new Packery( container, {
+	  // options
+	  itemSelector: '.galry-item'
+	});
+	
+	
+  $('.flexslider').flexslider({
+    animation: "slide"
+  });
+  
+
+	//Nice scroll
+	function() { 
+   		 $("#listItem, #populaBar").niceScroll({cursorcolor:"#e0ecec"});
+	}
+
+	
+});
+
 $(document).ready(function() {
 	
     $('.carousel').carousel();
