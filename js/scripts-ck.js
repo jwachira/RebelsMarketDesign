@@ -1,5 +1,4 @@
 $(window).load(function() {
-
 //packery
   	var container = document.querySelector('#container');
 	var pckry = new Packery( container, {
@@ -16,7 +15,7 @@ $(window).load(function() {
 	//Nice scroll
 	function() { 
    		 $("#listItem, #populaBar").niceScroll({cursorcolor:"#e0ecec"});
-	}
+	}	
 
 	
 });

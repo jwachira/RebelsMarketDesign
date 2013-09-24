@@ -2420,7 +2420,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2447,7 +2447,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2473,7 +2473,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2496,7 +2496,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2519,7 +2519,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2542,7 +2542,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2565,7 +2565,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2625,7 +2625,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2652,7 +2652,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2678,7 +2678,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2701,7 +2701,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2724,7 +2724,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2747,7 +2747,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2770,7 +2770,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2793,7 +2793,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2816,7 +2816,7 @@
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
                     <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -2965,6 +2965,11 @@
                   itemSelector: '.galry-item'
                 });  
 
+                $(".share").click(function(){
+                    $(".share-popup").slideUp('slow');
+                    $(this).parent().parent().parent().find(".share-popup").slideToggle(); 
+                })
+
           });
                                  
         </script>
@@ -2996,7 +3001,5 @@
 	</div>
 
 	<button type="button">SIGN UP</button>
-
-</div>on>
 
 </div>
