@@ -3714,6 +3714,75 @@ input[type='submit']:hover{
 		}
 	}
 }
+.categoryMain{
+	margin-bottom: 20px;
+	h1{
+		color: #000;
+		border-bottom: 1px #7d7d7d dotted;
+		padding-bottom: 20px;
+		margin: 0 0 25px;
+		span{
+			color: @red;
+		}
+	}
+	p{
+		line-height: 21px;
+	}
+	.boxGrey {
+		min-width: 293px;
+					position: relative;
+		img {
+			width: 130px;
+			height: 130px;
+		}
+		.desc {
+			display: block;
+			margin-left: 145px;
+						position: relative;
+			a.setting {
+					outline:none;
+						
+						position: absolute;
+						bottom: -60px;
+						left: 0;
+					img{
+						width: 16px;
+						height: 16px;
+					}
+				}
+				a.setting strong {line-height:30px;}
+				a.setting:hover {text-decoration:none;} 
+				a.setting span {
+				    z-index:10;
+				    display:none; 
+				    padding:5px 20px;
+				    margin-top:-34px; 
+				    margin-left:-30px;
+				    width:auto;
+				    opacity: 0.8;
+				}
+				a.setting:hover span{
+				    display:inline; position:absolute; 
+				    background:#313131;
+				    .rounded (@radius:3px);
+				    color: #fff;
+				    opacity: 1;
+				}
+				    
+				/*CSS3 extras*/
+				a.setting span
+				{
+				    border-radius:2px;
+				    -moz-border-radius: 2px;
+				    -webkit-border-radius: 2px;
+				     
+				}
+
+
+		}
+	}
+
+}
 /*Media query starts */
 @media screen and (min-width:768px) {
 	.popularNow .column-3 {
