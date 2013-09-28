@@ -1,8 +1,16 @@
 $(window).load(function() {
 	//share popup
 	$(".share").click(function(){
+		var current_popup = $(this).parent().parent().parent().find(".share-popup");
 		$(".share-popup").slideUp('slow');
-		$(this).parent().parent().parent().find(".share-popup").slideToggle(); 
+		
+		if(current_popup.is(":visible")){
+			current_popup.slideUp('slow');
+		}else{
+			current_popup.slideDown('slow');
+		}
+		
+		//$(this).parent().parent().parent().find(".share-popup").slideToggle(); 
 		
 	})
 	
