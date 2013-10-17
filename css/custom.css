@@ -123,11 +123,12 @@ ul{
 	float: right;
 }
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
-	background-color: #ef3f3b;
+	background-color: #a3a1a1;
 	color: #fff !important;
 }
 .container{
 	max-width: 960px;
+	position:relative;
 }
 .red-btn{
 	border: 0;
@@ -159,8 +160,13 @@ Top Section CSS
 #top-section{
 	background: #020101;
 	height: 40px;
-	position: relative;
+	position: fixed;
 	z-index: 1;
+	left:0;
+	width:100%;
+}
+.head-wrap{
+	margin-top: 40px;	
 }
 #top-section .container{
 	padding: 0;
@@ -181,6 +187,7 @@ Top Section CSS
 #top-section .nav>li>a:hover, 
 #top-section .nav>li>a:focus {
 	text-decoration: none;
+	background:#1a1919;
 }
 .navbar-nav>li>a {
 	padding-top: 10px;
@@ -200,10 +207,13 @@ Top Section CSS
 }
 
 .navbar-nav.top-rightsection li{
-	margin: 0px 14px 0px 0px;
+	margin:0;
 }
 .navbar-nav.top-rightsection li a{
-	padding: 12px 15px;
+	padding-top: 35px;
+	height: 66px;
+	width: 60px;
+	text-align: center;
 }
 .navbar-nav.top-rightsection.pull-right>li>.dropdown-menu, 
 .navbar-nav.top-rightsection>li>.dropdown-menu.pull-right{
@@ -212,23 +222,28 @@ Top Section CSS
 }
 .top-user span,
 .top-hearth span,
-.top-msg span{
+.top-msg span,
+.top-cart span{
 	display: block;
-	width: 16px;
-	height: 16px;
+	width: 20px;
+	height: 20px;
 	display: block;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
+	margin:auto;
 }
 .top-user span{
-	background: url(../img/top-user.png);
+	background: url(../img/new-user-icon.png);
 }
 .top-hearth span{
-	background: url(../img/top-hearth.png);
+	background: url(../img/new-heart-icon.png);
 }
 .top-msg span{
-	background: url(../img/top-msg.png);
+	background: url(../img/new-msg-icon.png);
+}
+.top-cart span{
+	background: url(../img/new-cart-icon.png);
 }
 .navbar-nav.top-rightsection span{
 	position: relative;
@@ -236,8 +251,8 @@ Top Section CSS
 .navbar-nav.top-rightsection span.notification{
 	background: #ef3f3b;
 	position: absolute;
-	right: -11px;
-	top: 2px;
+	left: 17px;
+	top: 9px;
 	text-indent: 0%;
 	width: auto;
 	height: auto;
@@ -255,7 +270,7 @@ Top Section CSS
 	left: 0;
 	z-index: 1000;
 	float: left;
-	min-width: 160px;
+	min-width: 200px;
 	padding: 5px 0 0;
 	margin: 0px 0 0;
 	font-size: 14px;
@@ -267,14 +282,18 @@ Top Section CSS
 	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0.175);
 	box-shadow: 0 0px 0px rgba(0,0,0,0.175);
 	background-clip: padding-box;
+	border-bottom:#262525 solid 3px;
 }
 .navbar-nav.top-rightsection .dropdown-menu li{
 	margin: 0;
 	border-bottom: 1px dotted #cfcfcf;
 }
 .navbar-nav.top-rightsection .dropdown-menu li a {
-	padding: 10px 15px;
+	padding: 6px 15px;
 	font-weight: normal !important;
+	width: 100%;
+	text-align: left;
+	height: 34px;
 }
 .navbar-nav.top-rightsection .dropdown-menu .top-name{
 	padding: 5px 12px;
@@ -287,6 +306,8 @@ Top Section CSS
 	-moz-border-radius: 4px;
 	border-radius: 4px;
 	margin-right: 5px;
+	width:32px;
+	height:32px;
 }
 /*
 ====================================================
@@ -299,13 +320,14 @@ Header CSS
 	position: relative;
 }
 #header #menu{
-	background: #010000;
-	height: 50px;
+	background: #2c2b2b;
+	height: 62px;
 }
 #header .menu{
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	margin-top: 9px;
 }
 #header .menu li.main{
 	display: inline-block;
@@ -348,16 +370,14 @@ Header CSS
 #header .menu .main a:hover{ 
 	color: #949494;
 }
-#header .menu li.sell{
-	background:#ef3f3b;
-	border: 1px solid #f47774;
-	text-shadow:1px 1px #bf322f;
-	padding-bottom: 0;
+#header .menu li.sell a{
+  	color:#ef3f3b;
 }
 #header .menu .sell:hover{
-	background: #e83d39 !important;
 	color: #f9f7f7;
 }
+
+
 #header .menu .sell a:hover{
 	color: #f9f7f7;
 }
@@ -372,11 +392,10 @@ Header CSS
 }
 #logo{
 	display: block;
-	width: 220px;
-	height: 52px;
-	background: url(../img/logo.png) no-repeat center center;
+	width: 150px;
+	height: 36px;
+	background: url(../img/rebel-logo.png) no-repeat center center;
 	background-size: contain;
-	margin: 22px 0px 23px 18px;
 }
 #header .cart {
 	background: url(../img/cartbg.png);
@@ -484,7 +503,7 @@ Header CSS
 	background: #e73f3a;
 }
 #header .dropdown-menu.cart-dropdown a.red-btn:hover{
-	background: #c42626;
+	background:red;
 }
 #header .cart-dropdown .cartbtn{
 	padding: 10px 10px;

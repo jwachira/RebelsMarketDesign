@@ -1,4 +1,5 @@
 $(window).load(function() {
+	
 	//share popup
 	$(".share").click(function(){
 		var current_popup = $(this).parent().parent().parent().find(".share-popup");
@@ -20,6 +21,9 @@ $(window).load(function() {
 			});
 	
 	})
+	$('.closebox').click(function(){
+		 $('#floatingbox').fadeOut();
+	});
 	
 	//Home page carousel
     $('.carousel').carousel();
@@ -56,6 +60,11 @@ $(window).load(function() {
 	 $('#universal,  #otherItems, #otherSeller, #slideCol').bxSlider({
 		 	pager :false,
 		 });
+
+	 	//about page slider
+	 $('#aboutPager').bxSlider({
+		 	pager :true,
+		 });
 		
 		 //ORGANIC TABS
 		$("#item_description_pad2").organicTabs({
@@ -86,7 +95,7 @@ $(window).load(function() {
 		animation: "slide"
 	  });
   
-	
+
 
 	
 		
