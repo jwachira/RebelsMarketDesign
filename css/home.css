@@ -343,7 +343,7 @@ HOME what people are saiyng CSS
 	padding: 0;
 	overflow: hidden;
 	position: relative;
-	height: 146px;
+	height: 142px;
 	padding-left: 147px;
 	width: 31.333333%;
 }
@@ -357,12 +357,12 @@ HOME what people are saiyng CSS
 }
 #what-people-are-saying .col-md-4 .arw{
 	position: absolute;
-	z-index: 10;
+	z-index: 1;
 	display: block;
 	background: url(../img/peoplearw.png);
 	width: 9px;
 	height: 17px;
-	left: 131px;
+	left: 127px;
 	top: 22px;
 }
 #what-people-are-saying .col-md-4 h4{
@@ -378,7 +378,7 @@ HOME what people are saiyng CSS
 	font-size: 12px;
 	line-height: 13px;
 	background: url(../img/peoplebg.png) no-repeat;
-	padding: 10px 8px;
+	padding: 10px 8px 10px 0;
 	margin: 0;
 }
 #what-people-are-saying a{

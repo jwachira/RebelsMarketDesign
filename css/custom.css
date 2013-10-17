@@ -159,7 +159,7 @@ Top Section CSS
 */
 #top-section{
 	background: #020101;
-	height: 40px;
+	height: 42px;
 	position: fixed;
 	z-index: 1;
 	left:0;
@@ -335,8 +335,8 @@ Header CSS
 }
 #header .menu li.main a{
 	color: #e9e9e9;
-	font-size: 14px;
-	font-weight: bold;
+	font-size: 13px;
+	font-weight: 300;
 }
 #header .menu li.main:hover{
 	background: url(../img/category-arw.png) bottom center no-repeat;
@@ -356,7 +356,7 @@ Header CSS
 #header .menu li.main{
 	float:left;
 	position:relative;/* ie needs position:relative here*/
-	margin: 8px 8px 0px;
+	margin: 8px 13px 0px;
 }
 #header .menu .main a{
 	text-decoration:none;
@@ -397,6 +397,15 @@ Header CSS
 	background: url(../img/rebel-logo.png) no-repeat center center;
 	background-size: contain;
 }
+#blog-logo{
+	display: block;
+	width: 150px;
+	height: 36px;
+	background: url(../img/logo.png) no-repeat center center;
+	background-size: contain;
+	margin-top: 10px;
+	margin-right: 50px;
+}	
 #header .cart {
 	background: url(../img/cartbg.png);
 	width: 180px;
@@ -598,10 +607,10 @@ Header CSS
 #header .menu li#menu-category-dropdown{
 	position: absolute;
 	width: 100%;
-	background: #fff;
+	background: #EEE;
 	z-index: 20;
 	margin: 0;
-	top: 50px;
+	top: 48px;
 	text-align: left;
 }
 #menu-category-dropdown .dropdown-jewery,

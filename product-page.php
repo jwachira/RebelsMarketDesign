@@ -2,7 +2,7 @@
 <?php include('header.php'); ?>
 <div id="content">
 
-  <div class="container">
+  <div class="container headerMarginTop">
           <div class="clearfix">
              <div class="searchNav">
                     <a href=""><img src="img/homeIcon.png"></a>

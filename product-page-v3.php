@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
     <div id="content">
 
-      <div class="container">
+      <div class="container headerMarginTop">
               <div class="clearfix">
                  <div class="searchNav">
                         <a href=""><img src="img/homeIcon.png"></a>
@@ -13,15 +13,18 @@
               <div class="block">
     	<div id="item_img_pad">
         <div class="slider" id="product_slider">
-            <div class="bx-wrapper item_slider" style="max-width: 100%;">
+            <div class="bx-wrapper" style="max-width: 100%;">
                 <div class="bx-viewport">
-                    <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 350px;"><ul class="bxslider" style="width: 415%; position: relative; transition: 0s; -webkit-transition: 0s; -webkit-transform: translate3d(-350px, 0, 0);"><li style="float: left; list-style: none; position: relative; width: 350px;" class="bx-clone"><img src="img/samples/1b.png"></li>
-                    <li style="float: left; list-style: none; position: relative; width: 350px;"><img src="img/samples/1.png?timestamp=1379248637985"></li>
-                    <li style="float: left; list-style: none; position: relative; width: 350px;"><img src="img/samples/1b.png"></li><li style="float: left; list-style: none; position: relative; width: 350px;" class="bx-clone"><img src="img/samples/1.png?timestamp=1379248637985"></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div><!-- bxslider ends -->
-                </div><!-- bx-viewport ends -->
-                <div class="bx-controls bx-has-controls-direction">
-                	<div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div>
-                </div><!-- bx-controls ends -->
+                    <div class="bx-wrapper">
+                    <ul class="bxslider">
+                        <li><img src="img/samples/1.png"></li>
+                        <li><img src="img/samples/1b.png"></li>
+                    </ul>
+                    </div>
+                        <div class="bx-controls bx-has-controls-direction">
+                        <div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div>
+                    </div>
+                    </div><!-- bx-viewport ends -->
             </div><!-- bx-wrapper ends -->
             <div id="bx-pager">
                 <a data-slide-index="0" href="" class="active"><img src="img/samples/thumbnail/1.png"></a>
@@ -927,7 +930,7 @@
 
           <div class="clearfix"></div>
  
-        <h3>Cusomer Reviews</h3>
+        <h3 class="customeReview">Cusomer Reviews</h3>
     	<ul id="customer_comment">
         	<li>
                 <ul class="review_stars_wrapper">
@@ -1065,4 +1068,12 @@
     </div><!-- end of #content -->
 <?php include('footer.php'); ?>
 
-   
+   	    <script type="text/javascript">
+	$(document).ready(function(){
+	 //PRODUCT SLIDER
+			$('.bxslider').bxSlider({
+				pagerCustom: '#bx-pager'
+			});
+	});
+    		 
+    </script>

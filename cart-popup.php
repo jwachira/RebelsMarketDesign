@@ -63,7 +63,7 @@
   <?php include('header.php'); ?>
     <div id="content">
 
-      <div class="container">
+      <div class="container headerMarginTop">
         <div class="casualBanner">
           <img src="img/casual-visitor-banner.jpg" alt="">
           <div class="intro">

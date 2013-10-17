@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <div id="content">
 
-  <div class="container">
+  <div class="container headerMarginTop">
 		  <div class="clearfix">
 			 <div class="searchNav">
 					<a href=""><img src="img/homeIcon.png"></a>
@@ -175,7 +175,7 @@
 			</section>
 		
 			<div class="filterMain clearfix">
-			  <h2>Popular items</h2>
+			  <h2 class="popularTitle">Popular items</h2>
 			</div>
 			
 			

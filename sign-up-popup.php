@@ -1,41 +1,45 @@
-
-<!--Dialog box starts-->
-<div class="overlay"></div>
-<div class="overlayWrap">
-    <div class="popWrap clearfix messagePopup">
-        <div class="closeBtn"></div>
-        <h1>Login to RebelsMarket</h1>
-          <form>
-           <label class="labelTxt">Email Address or Username</label>
-           <input type="text">
-           <label class="labelTxt">Password</label>
-           <input type="text">
-           <div class="buttonSpace clearfix">
-                <input type="submit" value="Login">
-                <a href="" class="floatLeft">I forgot my password</a>
-          </div>
-
-           <div class="formHalf clearfix">
-              <div class="left">
-                 <a href="" class="fbconnect clearfix">
-                    <span class="icon"></span> 
-                    <span class="txtInfo">Login with Facebook</span>
-                  </a>
+<?php include('header.php'); ?>
+    <!--Dialog box starts-->
+  <div class="overlay"></div>
+  <div class="overlayWrap">
+  		<div class="popWrap clearfix messagePopup">
+            <div class="closeBtn"></div>
+            <h1>
+               <img src="img/logoBlack.png">
+            </h1>
+        	  <form>
+               <p class="disclaimer">
+                  RebelsMarket is the No. 1 alternative community
+for buying &amp; selling anti-mainstream items for 
+subcultural lifestyles. <span>Join today!</span>
+               </p>
+               <label class="labelTxt">Password</label>
+               <input type="text">
+               <div class="buttonSpace clearfix">
+                    <input type="submit" value="Sign up">
               </div>
-              <div class="right">
-                 <a href="" class="twtConnect clearfix">
-                       <span class="icon"></span> 
-                      <span class="txtInfo">Login with Twitter</span>
-                 </a>
-              </div>
-          </div>
-          <p class="notice">Not a member yet?  <a href="">Sign Up Now!</a> </p>
 
-        </form>
-    </div>
-</div>
-<!--Dialog box ends-->
-  <?php include('header.php'); ?>
+               <div class="formHalf clearfix">
+                  <div class="left">
+                     <a href="" class="fbconnect clearfix">
+                        <span class="icon"></span> 
+                        <span class="txtInfo">Login with Facebook</span>
+                      </a>
+                  </div>
+                  <div class="right">
+                     <a href="" class="twtConnect clearfix">
+                           <span class="icon"></span> 
+                          <span class="txtInfo">Login with Twitter</span>
+                     </a>
+                  </div>
+              </div>
+              <p class="notice">Already a member?   <a href="">Login</a> </p>
+
+            </form>
+        </div>
+  </div>
+
+
     <div id="content">
 
       <div class="container headerMarginTop">
@@ -604,4 +608,4 @@ for buying and selling everything counterculture
 
     </div><!-- end of #content -->
 	</div>
- <?php include('footer.php'); ?>
+<?php include('footer.php'); ?>

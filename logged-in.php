@@ -1,6 +1,6 @@
    <?php include('header.php'); ?>
     <div id="content">
-      <div class="container">
+      <div class="container headerMarginTop">
 
         <div id="carousel-home" class="carousel slide">
 
