@@ -1,5 +1,8 @@
 $(window).load(function() {
-	
+	//mobile menu action
+	$('.menuIcon').click(function(){
+			$('#mobileMenu').slideToggle();
+		});
 	//share popup
 	$(".share").click(function(){
 		var current_popup = $(this).parent().parent().parent().find(".share-popup");

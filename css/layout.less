@@ -221,6 +221,8 @@
 			width: 100%;
 			position: relative;
 			.rounded (@radius:5px 5px 0 0);
+			max-width: 286px;
+			max-height: 251px;
 		}
 		.dicText{
 			position: absolute;
@@ -5050,9 +5052,123 @@ margin: 10px 0 20px;
 .headerMarginTop{
 		margin-top: 128px;
 }
+.mobileHeader1{
+	background:#030202;
+	display: none;
+	.full{
+			padding: 20px;
+	}
+	.smallogo{
+		float: left;
+		width: 150px;
+		img{
+			width: 100%;
+		}
+	}
+	.menuIcon{
+		width: 32px;
+		height: 32px;
+		float: right;
+	}
+	#mobileMenu{
+		  display: none;
+	}
+	.mobileMenu ul {
+	    margin: 0;
+	    padding:0;
+	    list-style-type: none;
+	    width:100%;
+	    background: #313131;
 
+	}
+	 
+	.mobileMenu li a {
+	    color: #fff;
+	    display: block;
+	    border-bottom: 1px dotted #807B7B;
+	    padding: 7px 20px 7px 20px;
+	    text-decoration: none;
+	    font-weight: 300;
+	}
+	 
+	.mobileMenu li a:hover {
+		background-color:#030202;
+		color:#fff;
+	}
+	.mobileSearch{
+		padding: 20px;
+		input[type="text"] {
+			-webkit-appearance: none;
+			width: 78%;
+			padding:1.7em 2.5%;
+			background: #fff;
+			height: 3em;
+			.rounded (@radius:5px 0px 0px 5px);
+		}
+		input[type="submit"] {
+			line-height: 1em;
+			position: relative;
+			right: 2%;
+			float: right;
+			width: 20%;
+			height: 2.4em;
+			color: #000;
+			background:#d0cece;
+			font-size: 18px;
+			.box-sizing;
+			.rounded (@radius:0px 5px 5px 0px);
+			&:hover{
+				background:#eaeaea;
+			}
+		}
+
+
+	}
+}
+.mobileHeader2{
+	background: #2c2b2b;
+	padding:10px 20px;
+	display: none;
+	ul.nav {
+		margin: 0 !important;
+		position: relative;
+		left: 0;
+		top: 0;
+		width: 100%;
+	}
+	.nav>li {
+		position: static;
+	}
+	.navbar-nav.top-rightsection.pull-right>li>.dropdown-menu, .navbar-nav.top-rightsection>li>.dropdown-menu.pull-right {
+		left: 0;
+		right: 0;
+		position: absolute;
+		width: 100%;
+	}
+	.cartMenus{
+		float: left;
+		width: 100%;
+	}
+	.cartMenus .notLoginMenus ul li a {
+		float: left;
+		text-decoration: none;
+		color:#fff;
+		padding:5px 20px 0;
+		height: 33px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		font-size: 14px;
+		&:hover{
+			color:#333;
+		}
+	}
+}
+.carousel {
+	padding-top: 15px;
+}
 /*Media query starts */
-@media screen and (min-width:768px) {
+@media screen and (min-width:770px) {
 	.popularNow .column-3 {
 		width: 31%;
 	}
@@ -5060,7 +5176,85 @@ margin: 10px 0 20px;
 	
 
 }
-@media screen and (max-width:766px) {
+@media screen and (max-width:960px) {
+	.fixedHeader{
+		display: none;
+	}
+	.mobileHeader1, .mobileHeader2{
+		display: block;
+	}
+	.headerMarginTop {
+		margin-top: 0;
+	}
+}
+@media screen and (max-width:768px) {
+	body{
+		font-size: 1.2em;
+	}
+	#pre-footer .ftraboutimg {
+		float: left;
+		margin-right: 0;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	#pre-footer p.excerpt a {
+		margin-left: 0;
+		margin-top: 10px;
+		float: left;
+	}
+	#what-people-are-saying {
+		margin: 30px 0px 10px;
+	}
+	#pre-footer .container .goup {
+		display: none;
+	}
+	#home-popular-search {
+		margin: 0px 0px 20px 0px;
+	}
+	#what-people-are-saying .col-md-4 {
+		height: auto !important;
+		padding-left: 0;
+		width: 100%;
+		margin: 10px 0px !important;
+		padding-bottom: 10px;
+	}
+	#what-people-are-saying .col-md-4 .arw {
+		display: none;
+	}
+	#what-people-are-saying .col-md-4 img {
+		width: 100%;
+		float: left;
+		position: relative;
+		height: auto !important;
+	}
+	#what-people-are-saying .col-md-4 h4 {
+		float: left;
+		width: 100%;
+		padding: 0 15px;
+		.box-sizing;
+	}
+	#what-people-are-saying p {
+		float: left;
+		width: 100%;
+		padding:15px;
+		.box-sizing;
+		font-size: 1em;
+		line-height: 1.3em;
+	}
+	#what-people-are-saying a {
+		margin: 6px 15px;
+		float: left;
+	}
+	#browse-by-style h3, #featured-shop h3, #explore-by-country h3, #what-people-are-saying h3, #home-popular-search h3{
+		margin:15px 0;
+		padding:0;
+	}
+	#featured-shop .shop .left img {
+		margin-right: 0;
+		width: 100%;
+		margin-bottom: 10px;
+		height: auto !important;
+	}
 	.staffMain .contactDetail{
 		width:100%;
 		margin:0 0 20px 0;
@@ -5077,6 +5271,12 @@ margin: 10px 0 20px;
 		float: right;
 		margin-top: 16px;
 	}
+	.popularNow .column .pdctImg img {
+		width: 100%;
+		max-width: 100%;
+		max-height: 100%;
+	}
+
 	.mainContent {
 		width:100%;
 		float: left;

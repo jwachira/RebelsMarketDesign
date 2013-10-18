@@ -34,6 +34,50 @@
   </head>
 
   <body>
+  <!--mobile header starts here-->
+ <div class="mobileHeader1 clearfix">
+ 	<div class="full clearfix">
+    		<div class="smallogo">
+    			<a href="#"><img src="img/rebel-logo.png"></a>
+            </div>
+            <div class="menuIcon">
+                <img src="img/menu-icon.png">
+            </div>
+    </div>
+    <div class="mobileMenu" id="mobileMenu">
+        <ul>
+            <li><a href="#">Woman</a></li>
+            <li><a href="#">Man</a></li>
+            <li><a href="#">Artwork</a></li>
+            <li><a href="#">Clothing</a></li>
+            <li><a href="#">Decor</a></li>
+            <li><a href="#">Gadgets</a></li>
+            <li><a href="#">House-ware</a></li>
+            <li><a href="#">Jewery &amp; Accessories</a></li>
+            <li><a href="#">Sell</a></li>
+            <div class="mobileSearch">
+            	<form action="">
+                	<input type="text" placeholder="Search...">
+                    <input type="submit" value="Go">
+                </form>
+            </div>
+        </ul>
+    </div>
+    
+ </div>
+ <div class="mobileHeader2 clearfix" id="mobileHeader2">
+   <!-- None logged in users-->
+   		<div class="cartMenus">
+         <div class="notLoginMenus">
+            <ul>
+                <li><a href="#">Sign up</a></li>
+                <li><a href="#">Login</a></li>
+            </ul>
+        </div>       
+    </div>
+    
+ </div>
+<!--mobile header ends here-->
   
   <div class="fixedHeader">  
           <section class="headerOne">

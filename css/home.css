@@ -425,7 +425,9 @@ HOME popular search terms CSS
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 	margin-right: 10px;
-	line-height: 31px;
+	line-height: 17px;
+	float: left;
+	margin-bottom: 10px;
 }
 #home-popular-search .search-term:hover{
 	text-decoration: none;
