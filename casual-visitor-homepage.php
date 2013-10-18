@@ -158,8 +158,8 @@ for buying and selling everything counterculture
                 
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -186,8 +186,8 @@ for buying and selling everything counterculture
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -213,8 +213,8 @@ for buying and selling everything counterculture
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -239,8 +239,8 @@ for buying and selling everything counterculture
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -262,8 +262,8 @@ for buying and selling everything counterculture
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -285,8 +285,8 @@ for buying and selling everything counterculture
                 <a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS</a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -308,8 +308,8 @@ for buying and selling everything counterculture
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -331,8 +331,8 @@ for buying and selling everything counterculture
                 <a href="#" class="pdctImg"><img src="img/display-tshirt5.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy">by <a href="#">MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">

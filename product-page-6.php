@@ -18,7 +18,7 @@
 			 </div>
 			 
 		<div class="clearfix">
-			<aside class="sideBar">
+			<aside class="sideBar displayNone">
 			<h2>Featured</h2>
 			<div class="sideBarMenu">
 				<ul>

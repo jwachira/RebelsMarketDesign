@@ -267,15 +267,27 @@
 				padding: 7px 15px;
 				h2{
 					margin: 0;
-					color: #737373;
+					
 					font-size: 13px;
 					font-weight: bold;
+					a{
+						color: #737373;
+						&:hover{
+							color:#333;
+						}
+					}
 				}
 				.dataBy{
-					color: #969696;
+				
 					font-size: 10px;
 					font-style: italic;
 					float: left;
+					a{
+						color: #969696;
+						&:hover{
+							color:@hover;
+						}
+					}
 				}
 				.price{
 					color: #dc0000;
@@ -5086,7 +5098,7 @@ margin: 10px 0 20px;
 	    color: #fff;
 	    display: block;
 	    border-bottom: 1px dotted #807B7B;
-	    padding: 7px 20px 7px 20px;
+	    padding: 10px 20px;
 	    text-decoration: none;
 	    font-weight: 300;
 	}
@@ -5190,6 +5202,172 @@ margin: 10px 0 20px;
 @media screen and (max-width:768px) {
 	body{
 		font-size: 1.2em;
+	}
+	.sideBar {
+		width: 100%;
+		padding-right: 0;
+	}
+	.finalCart {
+		.leftPane {
+			width: 100%;
+			padding-right: 0;
+			.orderNumber {
+				width: 100%;
+			}
+		}
+		.rightPane {
+			float: left;
+			width: 100%;
+			padding-left:0px;
+			.cartNav {
+				margin-top: 20px;
+				width: 100%;
+			}
+		}
+	}
+	.prodctShop .prct_row .singlePrdct {
+		width: 100%;
+		margin: 0px 0 10px;
+	}
+	.displayNone{
+		display: none;
+	}
+	.prdctContent .titleBlock h1 {
+		margin-top: 20px;
+	}
+	.prdctContent .prdctShow .column-3 {
+		width: 100%;
+		float: left;
+	}
+	.prdctContent{
+		.leftBlock {
+			width: 100%;
+			padding-right: 0;
+			margin-bottom: 20px;
+		}
+		.rightBlock {
+			width: 100%;
+			float: left;
+			padding-left: 0;
+			border-left: none;
+			.colGrp .colDesc {
+				width: 100%;
+				float: left;
+				text-align: left;
+			}
+			.colGrp .colImg {
+				width: 100%;
+				float: left;
+				text-align: center;
+				img{
+					width: 50%;
+				}
+			}
+		}
+	}
+	.productWrap{
+		 .leftColumn {
+			width: 100%;
+			padding-right: 0;
+			.bx-wrapper img {
+				width: 100%;
+			}
+			.infoTabs .tab {
+				margin-bottom: 20px;
+			}
+		}
+		.rightColumn {
+			width: 100%;
+			padding-top: 20px;
+		}
+	}
+
+	#customer_comment {
+		padding: 20px 20px 20px;
+		height: auto;
+	}
+	.block_80 {
+		padding: 0 20px 20px;
+		margin-left: 45px;
+		float: none !important;
+	}
+	.item_img2 {
+		width: 100%;
+		height: auto;
+	}
+	.user_img1{
+		margin-left: 20px;
+	}
+	.activity_pad {
+		padding: 0;
+		.item_img3 {
+			width: 100%;
+			margin-right: 0;
+			height: auto;
+			margin-bottom: 20px;
+		}
+		.block_right {
+			float: left;
+			width: 100%;
+			padding: 0 20px;
+			margin-bottom: 20px;
+			.box-sizing;
+		}
+		.txt_grey {
+			color: #878787;
+			margin:0;
+		}
+	}
+
+
+	.paddingTB_20 .user_img2 {
+		display: none;
+	}
+	.product-page .leftWing .lovedBy a {
+		float: left;
+		margin-right: 0;
+		width: 100%;
+	}
+	.shippinBar img {
+		display: none;
+	}
+	.btnsMain .button{
+		display: inline-block;
+		margin-bottom: 20px;
+	}
+	.casualBanner .intro {
+		padding: 0 30px 5px !important;
+		height: auto;
+	}
+	.casualBanner .intro {
+		position: relative;
+		background: #2c2b2b;
+		margin: 0;
+	}
+	.casualBanner .intro h1 {
+		font-size: 1.8em !important;
+		line-height: 1.4em !important;
+		margin: 0 !important;
+		padding-top: 20px;
+	}
+	.overlayWrap {
+		top: 40px;
+	}
+	.formHalf .left {
+		width: 100%;
+		margin-bottom: 20px;
+		padding-right: 0;
+	}
+	.formHalf .right {
+		width: 100%;
+		padding-left: 0;
+	}
+	.mainContent .filterMain h2 {
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	#search_side_bar{
+		display: none;
 	}
 	#pre-footer .ftraboutimg {
 		float: left;
