@@ -3,6 +3,19 @@
 <div id="content">
 
 <div class="container headerMarginTop">
+	 <div id="top_nav">
+		<ul id="purchase_steps">
+        	<li id="current"><a class="Shopping_Cart" href="Shopping_Cart.html"><span>1</span>Shopping Cart</a></li>
+        	<li><a class="Payment_Method" href="Payment_Method.html"><span>2</span>Payment Method</a></li>
+        	<li><a class="Place_Order" href="Place_Order.html"><span>3</span>Place Order</a></li>
+        </ul><!-- purchase steps ends -->
+    	<div id="product_list_wrapper">
+            <div class="lock">
+                <h2>Secure Payments</h2>
+                <p>This is a secure 128 bit SSL encrypted payment </p>
+            </div>  
+        </div><!-- product list wrapper ends -->
+    </div>
 	 <div class="block">
 <h2>Shopping Cart</h2>
 <div class="block_570 float_left">
@@ -17,7 +30,7 @@
 	<input type="button" class="button_five marginT_10 block_130 marginB_10"  value="Guest checkout" />
 	</form>
 </div><!-- block_570 ends -->
-<div class="float_right border_l paddingL_20">
+<div class="block_300 float_right border_l paddingL_20">
 <h2>Your Order</h2>
 <p class="txt_italic marginB_10">Reserved time: <span class="txt_red">19 : 44</span> minutes left</p>
 <div class="block border_b border_t paddingTB_5">

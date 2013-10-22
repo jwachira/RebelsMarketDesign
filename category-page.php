@@ -22,10 +22,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Steampunk</a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -34,10 +34,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="folowStr">Follow</button>
+			   <h5><a href="#">Avant Grande</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -46,10 +46,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Boho</a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -58,10 +58,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Burlesque</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -70,10 +70,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Fantasy </a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -82,10 +82,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="folowStr">Follow</button>
+			   <h5><a href="#">Goth</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -94,10 +94,10 @@ Follow the stuff that exited you.
 		   <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">High Fashion</a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -106,10 +106,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Hipster</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -118,11 +118,11 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="folowStr">Follow</button>
+			   <h5><a href="#">Home</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
-				  <span>Setting</span>
+				  <img src="img/setting.png" alt="" id="setting">
+				  <span>Historical</span>
 			  </a>
 			</div>
 		  </div>
@@ -130,10 +130,10 @@ Follow the stuff that exited you.
 		   <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Horror</a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -142,10 +142,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="linkBar">Follow</button>
+			   <h5><a href="#">Industrial</a></h5>
+			   <button class="folow_btn">Follow</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>
@@ -154,10 +154,10 @@ Follow the stuff that exited you.
 		  <div class="boxGrey">
 			<img src="img/people1.png" alt="">
 			<div class="desc">
-			   <h5>Home</h5>
-			   <button class="folowStr">Follow</button>
+			   <h5><a href="#">Kawaii</a></h5>
+			   <button class="folowing_btn">Following</button>
 			   <a href="#" class="setting">
-				  <img src="img/setting.png" alt="">
+				  <img src="img/setting.png" alt="" id="setting">
 				  <span>Setting</span>
 			  </a>
 			</div>

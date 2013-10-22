@@ -1,7 +1,19 @@
 <?php include('header.php'); ?>
     <div id="content">
-
       <div class="container headerMarginTop">
+      <div id="top_nav">
+		<ul id="purchase_steps">
+        	<li id="current"><a class="Shopping_Cart" href="Shopping_Cart.html"><span>1</span>Shopping Cart</a></li>
+        	<li><a class="Payment_Method" href="Payment_Method.html"><span>2</span>Payment Method</a></li>
+        	<li><a class="Place_Order" href="Place_Order.html"><span>3</span>Place Order</a></li>
+        </ul><!-- purchase steps ends -->
+    	<div id="product_list_wrapper">
+            <div class="lock">
+                <h2>Secure Payments</h2>
+                <p>This is a secure 128 bit SSL encrypted payment </p>
+            </div>  
+        </div><!-- product list wrapper ends -->
+    </div>
               <div class="block">
     <h2>Enter Your Shipping Address</h2>
     <form>
@@ -52,7 +64,7 @@
             <input class="input_pad_two block_300" type="text" />
             <input type="submit" value="Submit" class="submitBtn" />
     </div><!-- block_570 ends -->
-    <div class="block_230 float_right border_l paddingL_20">
+    <div class="block_300 float_right border_l paddingL_20">
     	<h2>Your total is <span class="txt_bold">$201.46</span></h2>
         <p class="marginB_10">Estimated total based on shipping to United States</p>
         <input class="button_five marginB_10 marginT_10 block_150" type="button" value="Continue Checkout" />

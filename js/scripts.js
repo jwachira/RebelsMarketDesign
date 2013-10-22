@@ -1,4 +1,13 @@
 $(window).load(function() {
+	//settings icon
+	$('.setting').hover(function(){
+			$(this).parent().find('span').show();
+	}, function(){
+		$(this).parent().find('span').hide();
+		}
+	
+	);
+	
 	//mobile menu action
 	$('.menuIcon').click(function(){
 			$('#mobileMenu').slideToggle();
@@ -14,8 +23,7 @@ $(window).load(function() {
 			current_popup.slideDown('slow');
 		}
 		
-		//$(this).parent().parent().parent().find(".share-popup").slideToggle(); 
-		
+	
 	})
 	
 	$(".closeBtn").click(function(){

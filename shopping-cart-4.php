@@ -3,6 +3,19 @@
 <div id="content">
 
   <div class="container headerMarginTop">
+  			<div id="top_nav">
+		<ul id="purchase_steps">
+        	<li id="current"><a class="Shopping_Cart" href="Shopping_Cart.html"><span>1</span>Shopping Cart</a></li>
+        	<li><a class="Payment_Method" href="Payment_Method.html"><span>2</span>Payment Method</a></li>
+        	<li><a class="Place_Order" href="Place_Order.html"><span>3</span>Place Order</a></li>
+        </ul><!-- purchase steps ends -->
+    	<div id="product_list_wrapper">
+            <div class="lock">
+                <h2>Secure Payments</h2>
+                <p>This is a secure 128 bit SSL encrypted payment </p>
+            </div>  
+        </div><!-- product list wrapper ends -->
+    </div>
 		
 		  <section id="cartSection" class="cartSection clearfix">
 			  <article class="finalCart clearfix">
@@ -124,8 +137,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -148,8 +161,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -172,8 +185,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -196,8 +209,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -222,8 +235,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -246,8 +259,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -270,8 +283,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -294,8 +307,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -320,8 +333,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -344,8 +357,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -368,8 +381,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -392,8 +405,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -418,8 +431,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -442,8 +455,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -466,8 +479,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">
@@ -490,8 +503,8 @@ Us 94063 <br />
 									<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
 									<div class="displayInfo">
 									  <div class="subDetails clearfix">
-										<h2>Fashion Universe Star</h2>
-										<span class="dataBy">by MEAN KIDS </span>
+										<h2><a href="#">Fashion Universe Star</a></h2>
+										<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
 										<span class="price">USD $ 48.37</span>
 									  </div>
 									  <div class="shareIcons">

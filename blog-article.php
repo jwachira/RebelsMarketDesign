@@ -81,7 +81,7 @@
 
           <div class="head-wrap">
 
-            <div class="col-md-left">
+            <div class="col-md-left leftBlog clearfix">
 
               <a href="#" id="blog-logo"></a>
               <h1 class="blogTitle">Blog</h1>

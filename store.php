@@ -218,8 +218,8 @@
                 
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -246,14 +246,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -273,14 +272,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -299,14 +297,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -322,14 +319,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -345,14 +341,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -368,14 +363,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -391,14 +385,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt5.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -423,8 +416,8 @@
                 
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
@@ -451,14 +444,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -478,14 +470,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -504,14 +495,13 @@
                 </div>
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -527,14 +517,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -550,14 +539,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -573,14 +561,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt4.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -596,14 +583,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt5.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -619,14 +605,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt5.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">
@@ -642,14 +627,13 @@
                 <a href="#" class="pdctImg"><img src="img/display-tshirt5.jpg" alt=""></a>  
                 <div class="displayInfo">
                   <div class="subDetails clearfix">
-                    <h2>Fashion Universe Star</h2>
-                    <span class="dataBy">by MEAN KIDS </span>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                     <span class="price">USD $ 48.37</span>
                   </div>
                   <div class="shareIcons">
                     <a href="#" class="heart">92</a>
-                    <a href="#" class="star">138</a>
-                    <a href="#" class="share">24</a>
+                    <a href="#" class="star">138</a><a href="javascript:void(0)" class="share">24</a>
                   </div>
                 </div>
                 <div class="share-popup">

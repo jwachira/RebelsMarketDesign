@@ -3,11 +3,24 @@
 <div id="content">
 
   <div class="container headerMarginTop">
+  		  <div id="top_nav">
+		<ul id="purchase_steps">
+        	<li id="current"><a class="Shopping_Cart" href="Shopping_Cart.html"><span>1</span>Shopping Cart</a></li>
+        	<li><a class="Payment_Method" href="Payment_Method.html"><span>2</span>Payment Method</a></li>
+        	<li><a class="Place_Order" href="Place_Order.html"><span>3</span>Place Order</a></li>
+        </ul><!-- purchase steps ends -->
+    	<div id="product_list_wrapper">
+            <div class="lock">
+                <h2>Secure Payments</h2>
+                <p>This is a secure 128 bit SSL encrypted payment </p>
+            </div>  
+        </div><!-- product list wrapper ends -->
+    </div>
           <section id="cartSection" class="cartSection clearfix">
             <div class="rightWing">
               <h1>Shopping Cart</h1>
               <div class="leftCol">
-                 <p>Order from  <span>Lorem Ipsum</span></p>
+                 <p>Order from  <span><a href="#">Lorem Ipsum</a></span></p>
                  <div class="productPair clearfix">
                    <div class="detaileft">
                      <img src="img/display-tshirt5.jpg" alt="">
@@ -102,17 +115,17 @@
 
 
               <div class="rightCol">
-                  <p>Order Reference# H25335106766</p>
+                  <p>Order Reference #H25335106766</p>
                   <p>Ship my order to</p>
                   <form action="">
-                    <label> Country <span>(?)</span> </label>
+                    <label> Country <span title="Lorem Ipsum">(?)</span> </label>
                     <select name="" id="">
                       <option value="">United states</option>
                       <option value="">Canada</option>
                       <option value="">United Kingdom</option>
                     </select>
 
-                    <label> Select State(Required) <span>(?)</span> </label>
+                    <label> Select State(Required) <span title="Lorem Ipsum">(?)</span> </label>
                     <select name="" id="">
                       <option value="">Califonia</option>
                       <option value="">Washington</option>

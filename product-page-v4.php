@@ -8,9 +8,9 @@
             	<h1>Save to Collection</h1>
                 <div class="leftInner">
                 	<img src="img/popup_img.jpg" />
-                    <h2>Fashion Universe Star</h2>
+                    <h2><a href="#">Fashion Universe Star</a></h2>
                     <div>
-                    	<span class="dataBy">by MEAN KIDS </span>
+                    	<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
                         <span class="price">USD $ 48.37</span>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                 <article class="clearfix">
                 	<div class="leftColumn">
                     	<h1>Be An Ace Tee Men's White</h1>
-                		<h2>By Arquebus</h2>
+                		<h2><a href="#">By Arquebus</a></h2>
                     	<section class="prdctSlider">
                         		<ul class="bxslider" id="slideCol">
                                   <li><img src="img/sliderBanner.jpg" /></li>
@@ -133,7 +133,7 @@
 </p>
 <p>
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                        </p>
+                                      </p>
                                         <h3>Lorem Ipsum is simply dummy</h3>
                                         <p>
                                         	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
@@ -144,7 +144,7 @@ It has survived not only five centuries, but also the leap into electronic types
 </p>
 <p>
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                        </p>
+                                      </p>
                                         <h3>Lorem Ipsum is simply dummy</h3>
                                         <p>
                                         	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
@@ -155,7 +155,7 @@ It has survived not only five centuries, but also the leap into electronic types
 </p>
 <p>
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                        </p>
+                                      </p>
                                         
                                   </div>
                                   </div>
@@ -189,7 +189,7 @@ It has survived not only five centuries, but also the leap into electronic types
                                                           </tr>
                                                     </tbody>
                                                 </table>
-                       						 </div>
+                   						  </div>
                                             
                                             <h3>Lorem Ipsum is simply dummy</h3>
                                         	<p>
@@ -207,7 +207,7 @@ It has survived not only five centuries, but also the leap into electronic types
                             	<span>Like the product?</span>
                                 <a href="">ADD TO FAVORITES </a>
                             </div>
-                            <div class="love_icon">+100</div>
+                            <div class="love_icon"><a href="#">+100</a></div>
                         </div>
                         
                         <div class="priceTag">
@@ -359,34 +359,27 @@ It has survived not only five centuries, but also the leap into electronic types
                             	<span>Like the product?</span>
                                 <a href="">ADD TO FAVORITES </a>
                             </div>
-                            <div class="love_icon">+100</div>
+                            <div class="love_icon"><a href="#">+100</a></div>
                         </div>
                         
-                        <div class="grey_share">
+                        <div class="grey_share clearfix">
                         	<span class="mic_mc"></span>
-                        	<a href="">
+                        	<a href="" class="share_float">
                             	<img src="img/share_tweet.png" />
                             </a>
-                            <a href="">
+                            <a href="" class="share_float">
                             	<img src="img/share_fb.png" />
                             </a>
-                            <a href="">
+                            <a href="" class="share_float">
                             	<img src="img/share_tumblr.png" />
                             </a>
                             
-                                                        <!-- Place this tag where you want the +1 button to render. -->
-                                <div class="g-plusone" data-size="medium"></div>
-                                
-                                <!-- Place this tag after the last +1 button tag. -->
-                                <script type="text/javascript">
-                                  (function() {
-                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                    po.src = 'https://apis.google.com/js/plusone.js';
-                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                                  })();
-                                </script>
-                                
-                                 <div class="disc">
+                            <!--Pinterest share icon-->
+                            <div class="share_float">
+                            	<a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="none"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a>
+                            </div>
+                            <!--facebook like starts-->
+                            <div class="share_float">
                             <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
                           </div>
                                 
@@ -406,8 +399,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -430,8 +422,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -454,8 +445,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -478,8 +468,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -504,8 +493,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -528,8 +516,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -552,8 +539,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -576,8 +562,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -602,8 +587,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -626,8 +610,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -650,8 +633,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -674,8 +656,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -700,8 +681,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -724,8 +704,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -748,8 +727,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -772,8 +750,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -809,8 +786,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -833,8 +809,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -857,8 +832,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -881,8 +855,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -907,8 +880,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -931,8 +903,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -955,8 +926,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -979,8 +949,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1005,8 +974,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1029,8 +997,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1053,8 +1020,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1077,8 +1043,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1103,8 +1068,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1127,8 +1091,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1151,8 +1114,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1175,8 +1137,7 @@ It has survived not only five centuries, but also the leap into electronic types
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
                                           <div class="subDetails clearfix">
-                                            <h2>Fashion Universe Star</h2>
-                                            <span class="dataBy">by MEAN KIDS </span>
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
                                             <span class="price">USD $ 48.37</span>
                                           </div>
                                           <div class="shareIcons">
@@ -1343,4 +1304,5 @@ It has survived not only five centuries, but also the leap into electronic types
     </div><!-- end of #content -->
     
    <?php include('footer.php'); ?>
+   <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 	

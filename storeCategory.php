@@ -54,49 +54,43 @@
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/store-avatar.jpg" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/aside-ad.jpg" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/store-avatar.jpg" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/aside-ad.jpg" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="linkBar">Following</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folowing_btn">Following</button>
                 </div>
               </div>
 
@@ -107,49 +101,43 @@
               
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
                    <button class="folowStr">Follow</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="folowStr">Follow</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folow_btn">Follow</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="folowStr">Follow</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folow_btn">Follow</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="folowStr">Follow</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folow_btn">Follow</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="folowStr">Follow</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folow_btn">Follow</button>
                 </div>
               </div>
 
               <div class="boxGrey">
                 <img src="img/people1.png" alt="">
-                <div class="desc">
-                   <h5>Home</h5>
-                   <button class="folowStr">Follow</button>
+                <div class="desc"> <h5><a href="">Lorem Ipsum</a></h5>
+                   <button class="folow_btn">Follow</button>
                 </div>
               </div>
 

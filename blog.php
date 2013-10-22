@@ -75,20 +75,16 @@
 
       <div class="container">
 
-          <div class="head-wrap">
+          <div class="head-wrap clearfix">
 
-            <div class="col-md-left">
+            <div class="col-md-left leftBlog clearfix">
 
               <a href="#" id="blog-logo"></a>
               <h1 class="blogTitle">Blog</h1>
 
             </div><!-- end of col md -->
 
-
-          <div class="clearfix"></div>
-
        </div><!-- end of head wrap -->
-     <div class="clearfix"></div>
   
       </div><!-- end of .container -->
 

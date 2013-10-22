@@ -11,21 +11,67 @@
 			 </div>
 		  </div> 
 		  
-		 <div id="info_pad">
-	<a href="user_page.html" class="profile_img avt_2"><img src="img/store-avatar.jpg" alt=""></a>
-	<div class="block_5 float_left">
-		<a href="user_page.html" class="title_1 contentlink">Lorem Ipsum</a>
-		<p class="marginT_20">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-		<div class="info_addons">
-			<div class="float_left block_6" id="info_active"><a href="user_page.html" class="info_link"><span class="txt_two">47</span><span class="labelTxt">Products</span></a></div>
-			<div class="float_left block_6"><a href="user_loves.html" class="info_link"><span class="txt_two">3000</span><span class="labelTxt">Followers</span></a></div>
-			<div class="float_left block_6"><a href="follow_template.html" class="info_link"><span class="txt_two">34</span><span class="labelTxt">Stores</span></a></div>
-			<div class="float_left block_6"><a href="follow_template.html" class="info_link"><span class="txt_two">350</span><span class="labelTxt">Reviews</span></a></div>
-			
-		</div>
-	</div><!-- block_5 ends -->
-	<a href="#" class="follow_btn btn_red">Follow</a>
-</div>
+		 <section class="store_abt_top clearfix">
+        	<aside class="sideBar">
+		  <div class="storeCol">
+			<img src="img/store-avatar.jpg" alt=""> 
+		  </div>
+		</aside>  
+			<section class="mainContent clearfix">
+			<div class="storeGen">
+			   <h1>mismad3</h1>
+			   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially.</p>
+			   <div class="wrap clearfix">
+				   <div class="leftWing">
+					 <div class="datagrid">
+						<table>
+						  <tbody>
+							<tr>
+							  <td>
+								  <a href="">
+									<h1>349</h1>
+									<p>Products sold</p>
+								  </a>
+								  
+							  </td>
+							  <td>
+								<a href="">
+								  <h1>470</h1>
+								  <p>Products</p>
+								</a>
+								  
+							  </td>
+							  <td>
+								<a href="">
+								  <h1>3500</h1>
+								  <p>Followers</p>
+								</a>
+							  </td>
+							  <td>
+								<a href="">
+								  <h1>34</h1>
+								  <p>Stores</p>
+								</a>  
+							  </td>
+							  <td>
+								<a href="">
+								  <h1>455</h1>
+								  <p>Reviews</p>
+								</a>
+								  
+							  </td>
+							</tr>
+						  </tbody>
+						</table>
+					</div>
+				 </div>
+				 <div class="rightWing">
+				   <button>Follow</button>
+				 </div>
+			   </div>
+			</div>
+		</section>
+        </section>
 		 
 			  <div class="block info_wrapper">
 	<h2 class="marginB_20">Product</h2>

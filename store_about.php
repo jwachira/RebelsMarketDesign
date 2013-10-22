@@ -10,13 +10,14 @@
 			 </div>
 		  </div>
 		
-		<aside class="sideBar">
+		<section class="store_abt_top clearfix">
+        	<aside class="sideBar">
 		  <div class="storeCol">
 			<img src="img/store-avatar.jpg" alt=""> 
 			<div class="aboutLink">About us</div>
 		  </div>
 		</aside>  
-		<section class="mainContent clearfix">
+			<section class="mainContent clearfix">
 			<div class="storeGen">
 			   <h1>mismad3</h1>
 			   <div class="boxInfo clearfix">
@@ -74,6 +75,7 @@
 			   </div>
 			</div>
 		</section>
+        </section>
 	  
 	  <section class="storeAbout clearfix">
 		<div class="leftWing">

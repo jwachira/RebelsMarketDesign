@@ -12,7 +12,7 @@
   
 		  <!-- product upload page starts -->
 			  <div class="uploadMain clearfix">
-				<h1>Product Upload</h1>
+				<h1>Product Upload</h1
 				
 				<form action="" method="get">
 					  <div class="sideBlock clearfix">
@@ -242,22 +242,22 @@
 							
 							<div class="colBlock clearfix borderBtm">
 								<div class="formCol-3 twenty">
-								  <label>I can ship to <i>?</i></label>
+								  <label>I can ship to <i title="Lorem ipsum dolor">?</i></label>
 								  <h3>Worldwide</h3>
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Cost(USD) <i>?</i></label>
+								  <label>Cost(USD) <i title="Lorem ipsum">?</i></label>
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Ship with another item<i>?</i></label>
+								  <label>Ship with another item<i title="Lorem ipsum dolor">?</i></label>
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Estimated Arrival<i>?</i></label>
+								  <label>Estimated Arrival<i title="Lorem dolor">?</i></label>
 								  <select class="full">
 									<option>Select a category</option>
 									<option>Lorem ipsum 2</option>
