@@ -5357,6 +5357,99 @@ margin: 10px 0 20px;
 	float: left;
 	margin-right: 10px;
 }
+.searchFilter{
+	padding:5px 20px;
+	.box-sizing;
+	.rounded (@radius:3px);
+	background: #f5f5f5;
+	border:#d9d9d9 solid 1px;
+	margin-bottom: 25px;
+	height: 40px;
+	.magnifyIcon{
+		background: url('../img/magnify-icon.png') no-repeat center left;
+		float: left;
+		height: 28px;
+		padding: 3px 25px 0 27px;
+		font-weight: bold;
+		font-size: 14px;
+	}
+	.tagsMain{
+		float: left;
+		padding-top: 4px;
+		.tag_term{
+			background: url('../img/tag_close.png') no-repeat center right;
+			color: #16a085;
+			float: left;
+			padding-right: 25px;
+			padding-top: 1px;
+			margin-right: 30px;
+			cursor: pointer;
+			&:hover{
+				color:@hover;
+			}
+		}
+	}
+	.clear_all{
+		float: right;
+		font-style: italic;
+		padding-top: 5px;
+		cursor: pointer;
+		&:hover{
+			color:@hover;
+			text-decoration: underline;
+		}
+	}
+}
+.error_main{
+	max-width: 690px;
+	margin:50px auto;
+	text-align: center;
+	a{
+		color: #5d9e9e;
+		&:hover{
+			color:@hover;
+		}
+	}
+	p{
+		font-size: 14px;
+	}
+	.info_box{
+		background: #f7f7f7;
+		border: #dadada solid 1px;
+		.rounded (@radius:3px);
+		padding: 20px;
+		text-align: left;
+		margin:25px 0;
+		h4{
+			margin: 0 0 15px;
+		}
+		h3{
+			margin: 0 0 20px;
+			padding: 0;
+			font-size: 16px;
+			font-weight: bold;
+		}
+		.error_options{
+			margin-bottom:20px; 
+			font-size: 14px;
+			li{
+				list-style-type: disc;
+				margin-left: 20px;
+				margin-bottom: 10px;
+			}
+		}
+		.errorSearch{
+			border: #ededed solid 8px;
+			.rounded (@radius:5px);
+			width: 470px;
+		}
+		.topSearch{
+			float: none;
+			margin:auto;
+			
+		}
+	}
+}
 /*Media query starts */
 @media screen and (min-width:770px) {
 	.popularNow .column-3 {

@@ -1,4 +1,17 @@
 $(window).load(function() {
+	
+	//search filter tags close
+	$('.tag_term').click(function(){
+		$(this).fadeOut();
+	});
+	$('#clearAll').click(function(){
+		$('.tag_term').fadeOut(
+			function(){
+					$('#clearAll').fadeOut();
+				}
+		);
+	});
+	
 	//settings icon
 	$('.setting').hover(function(){
 			$(this).parent().find('span').show();

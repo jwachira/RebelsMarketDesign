@@ -122,6 +122,18 @@
                     </form>
                 </div>
                 
+               <div class="searchFilter clearfix">
+               		<form action="" method="get">
+                    	<div class="magnifyIcon">Your selection:</div>
+                        <div class="tagsMain">
+                        	<div class="tag_term">Goth</div>
+                            <div class="tag_term">Tees</div>
+                            <div class="tag_term">Man</div>
+                            <div class="tag_term">New Arrival</div>
+                        </div>
+                        <div class="clear_all" id="clearAll">Clear all</div>
+                    </form>
+               </div>
                 
             <div class="popularNow">
             <div class="colWrap clearfix">
