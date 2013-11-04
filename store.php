@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
     <div id="content">
 
-      <div class="container headerMarginTop">
+      <div class="container headerMarginTop storeOnly">
               <div class="clearfix">
                  <div class="searchNav">
                         <a href=""><img src="img/homeIcon.png"></a>
@@ -9,128 +9,8 @@
                         <a href="">Page2</a>
                  </div>
               </div>
-            
-			<aside class="sideBar">
-            	<div class="storeCol">
-                <img src="img/store-avatar.jpg" alt=""> 
-                <div class="boxMenu">
-                  <a href="">About us</a> 
-                  <a href="">Policies</a>
-                </div>
-
-                <div class="boxMenu">
-                  <h3>Have a question?</h3>
-                  <p>
-                    <a href="">Contact the shop owner</a>
-                  </p>
-                </div>
-
-                <div class="detailist">
-                   <h2>Free Shipping</h2>
-                   <p>Lorem Ipsum is simply dummy text of the printing</p>
-                   <a href="">Learn More</a>
-                </div>
-
-                 <div class="detailist">
-                   <h2 class="first">Free Returns</h2>
-                   <p>Lorem Ipsum is simply dummy text of the printing</p>
-                   <a href="">Learn More</a>
-                </div>
-
-                 <div class="detailist">
-                   <h2 class="second">Best Price Match</h2>
-                   <p>Lorem Ipsum is simply dummy text of the printing</p>
-                   <a href="">Learn More</a>
-                </div>
-
-                 <div class="detailist">
-                   <h2 class="third">Call this Store</h2>
-                   <p>Lorem Ipsum is simply dummy text of the printing</p>
-                   <a href="">Learn More</a>
-                </div>
-
-
-              </div>
-                
-                <h2>Search by category</h2>
-                <div class="sideBarMenu">
-                    <ul>
-                        <li><a href="#">Women</a></li>
-                        <li><a href="#">Men</a></li>
-                        <li><a href="#">Children</a></li>
-                        <li><a href="#">Clothing</a></li>
-                        <li><a href="#">Artwork</a></li>
-                        <li><a href="#">Gadgets</a></li>
-                        <li><a href="#">Houseware (lifestyle)</a></li>
-                        <li><a href="#">Jewewlry &amp; Accessories</a></li>
-                        <li><a href="#">Outdoor fun &amp; lifestyle</a></li>
-                        <li><a href="#">Pets</a></li>
-                        <li><a href="#">Shoes</a></li>
-                    </ul>
-                </div>
-                
-                <h2>Color</h2>
-                <div class="colorPelets clearfix">
-                	<a href="" class="black" title="Black"></a>
-                    <a href="" class="blue" title="Blue"></a>
-                    <a href="" class="brown" title="Brown"></a>
-                    <a href="" class="yellow" title="Yellow"></a>
-                    <a href="" class="grey" title="Grey"></a>
-                    <a href="" class="green" title="Green"></a>
-                    <a href="" class="cream" title="Cream"></a>
-                    <a href="" class="orange" title="Orange"></a>
-                    <a href="" class="pink" title="Pink"></a>
-                    <a href="" class="purple" title="Purple"></a>
-                    <a href="" class="red" title="Red"></a>
-                    <a href="" class="white" title="White"></a>
-                    <a href="" class="light-grey" title="Light Grey"></a>
-                    <a href="" class="beij" title="Beij"></a>
-                    
-                    
-                </div>
-                
-                <h2>Search by interest</h2>
-                <div class="sideBarMenu">
-                    <ul>
-                        <li><a href="#">Avant Garde</a></li>
-                        <li><a href="#">Boho</a></li>
-                        <li><a href="#"> Burlesque </a></li>
-                        <li><a href="#">Fantasy </a></li>
-                        <li><a href="#">Goth</a></li>
-                        <li><a href="#">High Fashion </a></li>
-                        <li><a href="#">Hip Hop </a></li>
-                        <li><a href="#">Hipster</a></li>
-                        <li><a href="#">Historical</a></li>
-                        <li><a href="#">Horror</a></li>
-                        <li><a href="#">Industrial</a></li>
-                        <li><a href="#">Kawaii </a></li>
-                        <li><a href="#">Kitsch</a></li>
-                        <li><a href="#">Modern</a></li>
-                        <li><a href="#">Punk</a></li>
-                        <li><a href="#">Pyschobilly</a></li>
-                        <li><a href="#">Retro</a></li>
-                        <li><a href="#">Rockabilly</a></li>
-                        <li><a href="#">Rocker</a></li>                    
-                        <li><a href="#">Sci Fi </a></li>
-                        <li><a href="#">Spooky </a></li>
-                        <li><a href="#">Kitsch</a></li>
-                        <li><a href="#">Steampunk</a></li>
-                        <li><a href="#">Tattoo</a></li>
-                        <li><a href="#">Traditional Tribal </a></li>
-                        <li><a href="#">Victorian</a></li>
-                    </ul>
-                </div>
-                
-                 <h2>Ship anywhere</h2>
-                <div class="shipingCountry">
-                        <span>Italy</span>
-                        <a href="#"><span>Change</span></a></li>
-                </div>
-                
-                
-                
-            </aside>	
-            <section class="mainContent clearfix">
+			  
+			<section class="mainContent clearfix">
                 <div class="storeGen">
                    <h1>mismad3</h1>
                    <div class="boxInfo clearfix">
@@ -664,6 +544,128 @@
 
         </div>
             </section>
+            
+			<aside class="sideBar">
+            	<div class="storeCol">
+                <img src="img/store-avatar.jpg" alt=""> 
+                <div class="boxMenu">
+                  <a href="">About us</a> 
+                  <a href="">Policies</a>
+                </div>
+
+                <div class="boxMenu">
+                  <h3>Have a question?</h3>
+                  <p>
+                    <a href="">Contact the shop owner</a>
+                  </p>
+                </div>
+
+                <div class="detailist">
+                   <h2>Free Shipping</h2>
+                   <p>Lorem Ipsum is simply dummy text of the printing</p>
+                   <a href="">Learn More</a>
+                </div>
+
+                 <div class="detailist">
+                   <h2 class="first">Free Returns</h2>
+                   <p>Lorem Ipsum is simply dummy text of the printing</p>
+                   <a href="">Learn More</a>
+                </div>
+
+                 <div class="detailist">
+                   <h2 class="second">Best Price Match</h2>
+                   <p>Lorem Ipsum is simply dummy text of the printing</p>
+                   <a href="">Learn More</a>
+                </div>
+
+                 <div class="detailist">
+                   <h2 class="third">Call this Store</h2>
+                   <p>Lorem Ipsum is simply dummy text of the printing</p>
+                   <a href="">Learn More</a>
+                </div>
+
+
+              </div>
+                
+                <h2>Search by category</h2>
+                <div class="sideBarMenu">
+                    <ul>
+                        <li><a href="#">Women</a></li>
+                        <li><a href="#">Men</a></li>
+                        <li><a href="#">Children</a></li>
+                        <li><a href="#">Clothing</a></li>
+                        <li><a href="#">Artwork</a></li>
+                        <li><a href="#">Gadgets</a></li>
+                        <li><a href="#">Houseware (lifestyle)</a></li>
+                        <li><a href="#">Jewewlry &amp; Accessories</a></li>
+                        <li><a href="#">Outdoor fun &amp; lifestyle</a></li>
+                        <li><a href="#">Pets</a></li>
+                        <li><a href="#">Shoes</a></li>
+                    </ul>
+                </div>
+                
+                <h2>Color</h2>
+                <div class="colorPelets clearfix">
+                	<a href="" class="black" title="Black"></a>
+                    <a href="" class="blue" title="Blue"></a>
+                    <a href="" class="brown" title="Brown"></a>
+                    <a href="" class="yellow" title="Yellow"></a>
+                    <a href="" class="grey" title="Grey"></a>
+                    <a href="" class="green" title="Green"></a>
+                    <a href="" class="cream" title="Cream"></a>
+                    <a href="" class="orange" title="Orange"></a>
+                    <a href="" class="pink" title="Pink"></a>
+                    <a href="" class="purple" title="Purple"></a>
+                    <a href="" class="red" title="Red"></a>
+                    <a href="" class="white" title="White"></a>
+                    <a href="" class="light-grey" title="Light Grey"></a>
+                    <a href="" class="beij" title="Beij"></a>
+                    
+                    
+                </div>
+                
+                <h2>Search by interest</h2>
+                <div class="sideBarMenu">
+                    <ul>
+                        <li><a href="#">Avant Garde</a></li>
+                        <li><a href="#">Boho</a></li>
+                        <li><a href="#"> Burlesque </a></li>
+                        <li><a href="#">Fantasy </a></li>
+                        <li><a href="#">Goth</a></li>
+                        <li><a href="#">High Fashion </a></li>
+                        <li><a href="#">Hip Hop </a></li>
+                        <li><a href="#">Hipster</a></li>
+                        <li><a href="#">Historical</a></li>
+                        <li><a href="#">Horror</a></li>
+                        <li><a href="#">Industrial</a></li>
+                        <li><a href="#">Kawaii </a></li>
+                        <li><a href="#">Kitsch</a></li>
+                        <li><a href="#">Modern</a></li>
+                        <li><a href="#">Punk</a></li>
+                        <li><a href="#">Pyschobilly</a></li>
+                        <li><a href="#">Retro</a></li>
+                        <li><a href="#">Rockabilly</a></li>
+                        <li><a href="#">Rocker</a></li>                    
+                        <li><a href="#">Sci Fi </a></li>
+                        <li><a href="#">Spooky </a></li>
+                        <li><a href="#">Kitsch</a></li>
+                        <li><a href="#">Steampunk</a></li>
+                        <li><a href="#">Tattoo</a></li>
+                        <li><a href="#">Traditional Tribal </a></li>
+                        <li><a href="#">Victorian</a></li>
+                    </ul>
+                </div>
+                
+                 <h2>Ship anywhere</h2>
+                <div class="shipingCountry">
+                        <span>Italy</span>
+                        <a href="#"><span>Change</span></a></li>
+                </div>
+                
+                
+                
+            </aside>	
+            
 
 
 
