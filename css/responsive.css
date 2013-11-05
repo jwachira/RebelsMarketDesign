@@ -387,7 +387,10 @@ left: 131px;
 .storeOnly .mainContent {float:right !important}
 .storeOnly .sideBar {float:left !important;}
 .prodctShop .prct_row .singlePrdct img {max-width:100%;}
-}
+.product_pad {height: auto !important; }
+.dispalygal .imgGal {width:29% !important; margin:0 4% 4% 0 !important}
+.dispalygal .imgGal .imgDesc {padding:0 3% 0 0 !important;}
+.dispalygal .imgGal .imgDesc h1 {margin-top:5%}
 
 @media screen and (min-width:876px) and (max-width:965px) {
 #top_nav {width:100% !important;}
@@ -398,6 +401,13 @@ left: 131px;
 #product_list_wrapper {float:left !important; height:63px !important; padding-top: 7px; width:100% !important}
 .block_570 {width:60% !important;}
 .block_300 {width:35% !important;}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:46% !important; margin:0 4% 4% 0 !important}
+#browse-discover .left {width:228px !important; margin:0 10px 0 0;}
+#browse-discover .item.big {width:228px !important; background-position:center top !important; background-size:cover !important}
+#browse-discover .left .item.big {width:100% !important; }
+#browse-discover .left .item.small {width:45% !important; background-position:center top !important; background-size:cover !important}
+#browse-discover .item.high {width:197px !important; background-position:center top !important;}
 }
 
 @media screen and (min-width:769px) and (max-width:875px) {
@@ -417,6 +427,18 @@ left: 131px;
 #what-people-are-saying .col-md-4 {width: 47%; margin: 10px 20px 10px 0 !important;}
 #what-people-are-saying .col-md-4 img {width: auto !important; }
 #pre-footer p.excerpt a, #featured-shop .shop .left a {float: none !important;}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:46% !important; margin:0 4% 4% 0 !important}
+#browse-discover .left {width:22% !important; margin:0 10px 0 0;}
+#browse-discover .item {width:20% !important; background-position:center top !important;}
+#browse-discover .item.big {width:22% !important; background-position:center top !important;}
+#browse-discover .left .item.big {width:100% !important; }
+#browse-discover .left .item.small {width:44% !important; background-position:center top !important; background-size:cover !important}
+#browse-discover .left .item.small p {font-size:14px}
+#browse-discover .col {width:20% !important;}
+#browse-discover .col .item {width:100% !important;}
+#browse-discover .item.wide {width:32% !important;  background-size:cover !important}
+#browse-discover .item.high {width:30% !important; margin-left:10px;}
 }
 
 @media screen and (min-width:670px) and (max-width:768px) {
@@ -450,6 +472,30 @@ left: 131px;
 .prdctContent .rightBlock .colGrp {padding:15px!important; width: 25% !important; float: left !important;border-right:1px dotted #B2B2B2}
 .prodctShop .prct_row .singlePrdct {width: 30% !important; float: left !important; margin:0 10px 20px !important}
 .prodctShop .prct_row .singlePrdct img {height: auto !important; max-height: none !important; }
+.button_five {margin: 0 0 20px !important;}
+.input_pad_two {height:30px !important}
+.product_pad {width: 30% !important; float: left !important; margin:0 10px 20px !important}
+.storeAbout .leftWing, .storeAbout .rightWing {width:100% !important;}
+.follow_post {height: auto !important;}
+.staffMain .contactDetail img {width: auto !important;}
+.popWrap .imgSide {display:none;}
+.contextSheet {width:100% !important; max-width: none !important;}
+.uploadMain .regionL, .uploadMain .regionR {width:100% !important; padding-left:0 !important; padding-right:0 !important}
+.uploadMain .regionL {margin:0 0 20px}
+.colBlock .formCol-3 {width:100% !important; padding-right:0 !important; margin:0 0 20px !important;}
+.uploadMain .submitBlock {margin-left: 0 !important}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:46% !important; margin:0 4% 4% 0 !important}
+#browse-discover .left {width:22% !important; margin:0 10px 0 0;}
+#browse-discover .item {width:19% !important; background-position:center top !important;}
+#browse-discover .item.big {width:22% !important; background-position:center top !important;}
+#browse-discover .left .item.big {width:100% !important; }
+#browse-discover .left .item.small {width:100% !important; background-position:center top !important; }
+#browse-discover .left .item.small p {font-size:14px}
+#browse-discover .col {width:20% !important;}
+#browse-discover .col .item {width:100% !important;}
+#browse-discover .item.wide {width:32% !important;  background-size:cover !important}
+#browse-discover .item.high {width:29% !important; margin-left:10px;}
 }
 @media screen and (min-width:481px) and (max-width:669px) {
 .popularNow .column-3 {width:45% !important; margin:0 15px 20px 0 !important;}
@@ -489,6 +535,42 @@ left: 131px;
 .prdctContent .rightBlock .colGrp {padding:15px!important; width: 33% !important; float: left !important;border-right:1px dotted #B2B2B2}
 .prodctShop .prct_row .singlePrdct {width: 28% !important; float: left !important; margin:0 10px 20px !important}
 .prodctShop .prct_row .singlePrdct img {height: auto !important; max-height: none !important; }
+.button_five {margin: 0 0 20px !important;}
+.input_pad_two {height:30px !important}
+.product_pad {width: 28% !important; float: left !important; margin:0 10px 20px !important}
+.storeAbout .leftWing, .storeAbout .rightWing {width:100% !important;}
+.follow_post {height: auto !important;}
+.staffMain .contactDetail img {width: auto !important;}
+.popWrap .imgSide {display:none;}
+.contextSheet {width:100% !important; max-width: none !important;}
+.uploadMain .regionL, .uploadMain .regionR {width:100% !important; padding-left:0 !important; padding-right:0 !important}
+.uploadMain .regionL {margin:0 0 20px}
+.colBlock .formCol-3 {width:100% !important; padding-right:0 !important; margin:0 0 20px !important;}
+.uploadMain .submitBlock {margin-left: 0 !important}
+.uploadMain .submitBlock input {margin-bottom:20px}
+.error_main .info_box .topSearch {height: auto !important; background:#EDEDED !important; overflow: hidden; width:100% !important;}
+.error_main .info_box .errorSearch {width:100% !important; background:#EDEDED !important}
+.error_main .topSearch input[type="text"] {width:96% !important; padding:2% !important; margin:0 0 20px;}
+.error_main .topSearch select {width:96% !important; padding:2% !important; margin:0 0 20px; background:#d0cece !important; }
+.error_main .topSearch input[type="submit"] {width:96% !important; padding:2% !important; background-position: 98% 50% !important;border-radius:5px !important; margin:0 0 20px; background-color:#d0cece !important;}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:48% !important; margin:0 2% 4% 0 !important}
+.dispalygal .imgGal .imgDesc h1 {font-size:19px !important;}
+.dispalygal .imgGal .imgDesc a {position: absolute !important; right:2% !important; bottom:4.5% !important}
+.signInblack .signWing .signUpStart {width:98% !important;}
+.signInblack .signWing .signUpStart .mainCol .left, .signInblack .signWing .signUpStart .mainCol .right  {width:100% !important; padding:0 !important; margin: 0 0 20px}
+#browse-discover .left {width:100% !important; max-width:none !important;}
+#browse-discover .item {width:100% !important; background-position:center top !important;}
+#browse-discover .item.wide { background-position:right top !important; text-align:center;}
+#browse-discover .col {width:100% !important;}
+/*#browse-discover .item.big {width:22% !important; background-position:center top !important;}
+#browse-discover .left .item.big {width:100% !important; }
+#browse-discover .left .item.small {width:100% !important; background-position:center top !important; }
+#browse-discover .left .item.small p {font-size:14px}
+#browse-discover .col {width:20% !important;}
+#browse-discover .col .item {width:100% !important;}
+#browse-discover .item.wide {width:32% !important;  background-size:cover !important}
+#browse-discover .item.high {width:29% !important; margin-left:10px;}*/
 }
 @media screen and (min-width:321px) and (max-width:480px) {
 .popularNow .column-3 {width:100% !important; margin:0 0px 20px 0 !important;}
@@ -521,7 +603,7 @@ left: 131px;
 .afterSignup .contentBlock .rightSide .imgBracket img { width: 41% !important; height: auto !important; margin:0 20px 20px 0 !important;}
 .boxGrey {padding: 15px 3% !important; width: 94% !important; min-width: 0 !important}
 .folowing_btn {padding:7px 10px 7px 33px !important}
-.boxGrey img {width:90px !important;}
+.boxGrey img {width:110px !important; margin: 0 10px 10px 0; height: auto !important;}
 .boxGrey .desc {margin-left: 104px !important;}
 .container.headerMarginTop #what-people-are-saying .col-md-4 {width: 100%; margin: 10px 20px 10px 0 !important;}
 #what-people-are-saying .col-md-4 img {width: auto !important; margin:0 10px 10px 0 !important }
@@ -536,6 +618,34 @@ left: 131px;
 #customer_comment .review_stars_wrapper {margin-right: 5px !important; }
 .prdctContent .rightBlock .colGrp {padding:15px!important; width: 50% !important; float: left !important;border-right:1px dotted #B2B2B2}
 .faqSection img {max-width:100%;}
+.button_five {margin: 0 0 20px !important;}
+.input_pad_two {height:30px !important}
+.product_pad {width: 42% !important; float: left !important; margin:0 10px 20px !important}
+.categoryMain .boxGrey .desc a.setting {position: relative !important; margin:10px 0 0 ;}
+.categoryMain .boxGrey .desc a.setting img {width: auto !important; }
+.storeAbout .leftWing, .storeAbout .rightWing {width:100% !important;}
+.follow_post {height: auto !important;}
+.staffMain .contactDetail img {width: auto !important;}
+.popWrap .imgSide {display:none;}
+.contextSheet {width:100% !important; max-width: none !important;}
+.cartPopup .butnFix a {display: block;}
+.uploadMain .regionL, .uploadMain .regionR {width:100% !important; padding-left:0 !important; padding-right:0 !important}
+.uploadMain .regionL {margin:0 0 20px}
+.colBlock .formCol-3 {width:100% !important; padding-right:0 !important; margin:0 0 20px !important;}
+.uploadMain .submitBlock {margin-left: 0 !important}
+.uploadMain .submitBlock input {margin-bottom:20px; width:100% !important;}
+.error_main .info_box .topSearch {height: auto !important; background:#EDEDED !important; overflow: hidden; width:100% !important;}
+.error_main .info_box .errorSearch {width:100% !important; background:#EDEDED !important}
+.error_main .topSearch input[type="text"] {width:96% !important; padding:2% !important; margin:0 0 20px;}
+.error_main .topSearch select {width:96% !important; padding:2% !important; margin:0 0 20px; background:#d0cece !important; }
+.error_main .topSearch input[type="submit"] {width:96% !important; padding:2% !important; background-position: 98% 50% !important;border-radius:5px !important; margin:0 0 20px; background-color:#d0cece !important;}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:100% !important; margin:0 2% 4% 0 !important}
+.dispalygal .imgGal .imgDesc h1 {font-size:19px !important;}
+.dispalygal .imgGal .imgDesc a {position: absolute !important; right:2% !important; bottom:4.5% !important}
+.signInblack .signWing .signUpStart {width:90% !important;}
+.signInblack .signWing .signUpStart .mainCol .left, .signInblack .signWing .signUpStart .mainCol .right  {width:100% !important; padding:0 !important; margin: 0 0 20px}
+.signInblack .signWing .signUpStart .logo img {max-width:100%;}
 }
 
 @media screen and (max-width:320px) {
@@ -568,7 +678,7 @@ left: 131px;
 .afterSignup .contentBlock .rightSide .imgBracket img { width: 38% !important; height: auto !important; margin:0 20px 20px 0 !important;}
 .boxGrey {padding: 15px 3% !important; width: 94% !important; min-width: 0 !important}
 .folowing_btn {padding:7px 10px 7px 33px !important}
-.boxGrey img {width:90px !important;}
+.boxGrey img {width:90px !important; height: auto !important;}
 .boxGrey .desc {margin-left: 104px !important;}
 .container.headerMarginTop #what-people-are-saying .col-md-4 {width: 100%; margin: 10px 20px 10px 0 !important;}
 #what-people-are-saying .col-md-4 img {width: auto !important; margin:0 10px 10px 0 !important }
@@ -583,4 +693,31 @@ left: 131px;
 #customer_comment {padding:8px !important}
 #customer_comment .review_stars_wrapper {margin-right: 0 !important; }
 .faqSection img {max-width:100%;}
+.button_five {margin: 0 0 20px !important;}
+.input_pad_two {height:30px !important}
+.categoryMain .boxGrey .desc a.setting {position: relative !important; margin:10px 0 0 ;}
+.categoryMain .boxGrey .desc a.setting img {width: auto !important;}
+.storeAbout .leftWing, .storeAbout .rightWing {width:100% !important;}
+.follow_post {height: auto !important;}
+.staffMain .contactDetail img {width: auto !important;}
+.popWrap .imgSide {display:none;}
+.contextSheet {width:100% !important; max-width: none !important;}
+.cartPopup .butnFix a {display: block;}
+.uploadMain .regionL, .uploadMain .regionR {width:100% !important; padding-left:0 !important; padding-right:0 !important}
+.uploadMain .regionL {margin:0 0 20px}
+.colBlock .formCol-3 {width:100% !important; padding-right:0 !important; margin:0 0 20px !important;}
+.uploadMain .submitBlock {margin-left: 0 !important}
+.uploadMain .submitBlock input {margin-bottom:20px; width:100% !important;}
+.error_main .info_box .topSearch {height: auto !important; background:#EDEDED !important; overflow: hidden; width:100% !important;}
+.error_main .info_box .errorSearch {width:100% !important; background:#EDEDED !important}
+.error_main .topSearch input[type="text"] {width:96% !important; padding:2% !important; margin:0 0 20px;}
+.error_main .topSearch select {width:96% !important; padding:2% !important; margin:0 0 20px; background:#d0cece !important; }
+.error_main .topSearch input[type="submit"] {width:96% !important; padding:2% !important; background-position: 98% 50% !important;border-radius:5px !important; margin:0 0 20px; background-color:#d0cece !important;}
+.blogHeader {margin: 0 !important}
+.dispalygal .imgGal {width:100% !important; margin:0 2% 4% 0 !important}
+.dispalygal .imgGal .imgDesc h1 {font-size:19px !important;}
+.dispalygal .imgGal .imgDesc a {position: absolute !important; right:2% !important; bottom:4.5% !important}
+.signInblack .signWing .signUpStart {width:90% !important;}
+.signInblack .signWing .signUpStart .mainCol .left, .signInblack .signWing .signUpStart .mainCol .right  {width:100% !important; padding:0 !important; margin: 0 0 20px}
+.signInblack .signWing .signUpStart .logo img {max-width:100%;}
 }
