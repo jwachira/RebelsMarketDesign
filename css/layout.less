@@ -5450,6 +5450,79 @@ margin: 10px 0 20px;
 		}
 	}
 }
+.story_board_main{
+	background: url('../img/wall_bg.jpg') repeat;
+	margin: 25px 0;
+	padding:20px;
+	h1{
+		font-size: 18px;
+		margin: 0 0 10px;
+		text-align: center;
+	}
+	h2{
+		font-weight: bold;
+		text-align: center;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		color: #464646;
+	}
+	.boxMin{
+		padding-top: 20px;
+	}
+	.getStart{
+		background: @red;
+		text-align: center;
+		color: #fff;
+		padding: 8px 20px;
+		.rounded (@radius:3px);
+		font-weight: bold;
+		font-size: 16px;
+		&:hover{
+			background:@hover;
+		}
+	}
+	.btnCenter{
+		margin: 30px 0 10px;
+	}
+	.discBox{
+		background: #fff;
+		padding:20px 20px 10px;
+		width: 30%;
+		margin-right: 40px;
+		.box-sizing;
+		float: left;
+		&:last-of-type{
+			margin-right: 0px;
+		}
+		&:hover{
+			background: #eee;
+		}
+		.iconSide{
+			float: left;
+			width: 33px;
+			height: 33px;
+			text-align: center;
+			padding-top: 5px;
+			.box-sizing;
+			border:#16a085 solid 1px;
+			.rounded (@radius:100%);
+		}
+		.discDesc{
+			margin-left: 50px;
+			display: block;
+			h3{
+				padding: 0;
+				margin: 0 0 5px;
+				font-weight: bold;
+				color: #16a085;
+				font-size: 16px;
+			}
+		}
+	}
+
+}
+
 /*Media query starts */
 @media screen and (min-width:770px) {
 	.popularNow .column-3 {
@@ -5484,6 +5557,11 @@ margin: 10px 0 20px;
 	.sideBar {
 		width: 100%;
 		padding-right: 0;
+	}
+	.story_board_main .discBox{
+		margin-bottom: 30px;
+		width: 44%;
+		margin-right: 30px;
 	}
 	.finalCart {
 		.leftPane {
@@ -5846,3 +5924,15 @@ margin: 10px 0 20px;
 
 
 }/*786 ends*/
+
+@media screen and (max-width:640px) {
+	.story_board_main .discBox {
+		margin-bottom: 30px;
+		width: 100%;
+		margin-right: 30px;
+		&:last-of-type{
+			margin-bottom:10px;
+		}
+	}
+
+}
