@@ -17,16 +17,16 @@
                     <div class="discBox clearfix">
                     	<div class="iconSide"><img src="img/de_search_icon.png" /></div>
                         <div class="discDesc">
-                        	<h3>Follow</h3>
-                            <p>you can follow People whose style inspired you!</p>
+                        	<h3>Discover</h3>
+                            <p>And discover amazing fashion items & stores</p>
                         </div>
                     </div>
                     
                     <div class="discBox clearfix">
                     	<div class="iconSide"><img src="img/deLoveIcon.png" /></div>
                         <div class="discDesc">
-                        	<h3>Follow</h3>
-                            <p>you can follow People whose style inspired you!</p>
+                        	<h3>Favourites</h3>
+                            <p>Save your favourite items from online stores!</p>
                         </div>
                     </div>
                     
