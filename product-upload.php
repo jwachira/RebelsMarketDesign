@@ -25,35 +25,85 @@
 					</aside>
 					<section class="regionR">
 					 
-					  <div class="uploadBlock">
-					  <a href="#" class="upload btn">
-						  <p> Upload File</p>
-						  <input type="file" class="opacity" />
-						</a>
-				  </div> 
+					 <article>
+					 	<div class="uploadCol clearfix">
+					 		 <div class="uploaTefault">
+					 		 	<div class="semiTransparent"></div>
+					 		 	<div class="upload_close"></div>
+					 		 	<img src="img/prdt-1.jpg">
+					 		 </div> 
+					 		 <div class="uploadBlock">
+							 	<a href="#" class="upload btn">
+								  <p> Upload File</p>
+								  <input type="file" class="opacity" />
+								</a>
+						 	 </div> 
 
-					  <div class="uploadBlock">
-					  <a href="#" class="upload btn">
-						  <p> Upload File</p>
-						  <input type="file" class="opacity" />
-						</a>
-				  </div> 
+						 	 <div class="checkSection">					 	 	
+						 	 	<input id="demo_box_1" class="css-checkbox" type="checkbox" />
+								<label for="demo_box_1" name="demo_lbl_1" class="css-label">Default image</label>	 
+						 	 </div>
+					 	</div>
 
-					  <div class="uploadBlock">
-					  <a href="#" class="upload btn">
-						  <p> Upload File</p>
-						  <input type="file" class="opacity" />
-						</a>
-				  </div>  
+					 	<div class="uploadCol clearfix">
+					 		 <div class="uploaTefault">
+					 		 	<div class="semiTransparent"></div>
+					 		 	<div class="upload_close"></div>
+					 		 	<img src="img/prdt-1.jpg">
+					 		 </div> 
+					 		 <div class="uploadBlock">
+							 	<a href="#" class="upload btn">
+								  <p> Upload File</p>
+								  <input type="file" class="opacity" />
+								</a>
+						 	 </div> 
 
-					  <div class="uploadBlock">
-					  <a href="#" class="upload btn">
-						  <p> Upload File</p>
-						  <input type="file" class="opacity" />
-						</a>
-				  </div> 
+						 	 <div class="checkSection">					 	 	
+						 	 	<input id="demo_box_2" class="css-checkbox" type="checkbox" />
+								<label for="demo_box_2" name="demo_lbl_1" class="css-label">Default image</label>	 
+						 	 </div>
+					 	</div>
 
+					 	<div class="uploadCol clearfix">
+					 		 <div class="uploadBlock">
+							 	<a href="#" class="upload btn">
+								  <p> Upload File</p>
+								  <input type="file" class="opacity" />
+								</a>
+						 	 </div> 
+
+						 	 <div class="checkSection">					 	 	
+						 	 	<input id="demo_box_3" class="css-checkbox" type="checkbox" />
+								<label for="demo_box_3" name="demo_lbl_1" class="css-label">Default image</label>	 
+						 	 </div>
+					 	</div>
+
+					 	<div class="uploadCol clearfix">
+					 		 <div class="uploadBlock">
+							 	<a href="#" class="upload btn">
+								  <p> Upload File</p>
+								  <input type="file" class="opacity" />
+								</a>
+						 	 </div> 
+
+						 	 <div class="checkSection">					 	 	
+						 	 	<input id="demo_box_4" class="css-checkbox" type="checkbox" />
+								<label for="demo_box_4" name="demo_lbl_1" class="css-label">Default image</label>	 
+						 	 </div>
+					 	</div>
+
+
+					 </article>
+
+					  				    
+
+						<div class="upload_info">
+								Recommended image size is 500 pixels x 500pixels
+								TIF or JPEG (or JPG) files. No GIFs, PNGs, or other formats.
+								Maximum size each image should be 100kb
+						</div>	
 					</section>
+
 				</div>
 				
 					  <div class="sideBlock clearfix">

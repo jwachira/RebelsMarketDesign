@@ -1,5 +1,10 @@
 $(window).load(function() {
-	
+	$('.upload_close').click(function(){
+		$(this).parent().fadeOut();
+	});
+	$('.story_close').click(function(){
+		$('.story_board_main').fadeOut(1300);
+	});
 	//search filter tags close
 	$('.tag_term').click(function(){
 		$(this).fadeOut();

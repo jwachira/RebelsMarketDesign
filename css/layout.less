@@ -9,6 +9,7 @@
 .box-sizing{
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	-o-box-sizing: border-box;
 	box-sizing: border-box;         /* Opera/IE 8+ */
 }
 
@@ -4453,7 +4454,7 @@ input[type='submit']:hover{
 		float: left  !important;
 }
 .floatRight{
-		float: right !important;
+	float: right !important;
 }
 .formHalf{
 	padding:20px 0;
@@ -4678,6 +4679,7 @@ input[type='submit']:hover{
 	.rounded (@radius:5px);
 	&:hover{
 		 color:white;
+		 background: @hover;
 	}
 }
 .cancl{
@@ -4755,6 +4757,7 @@ input[type='submit']:hover{
 			padding: 2px 7px;
 			margin-left: 4px;
 			.box-sizing;
+			overflow: hidden;
 
 		}
 	}
@@ -4814,7 +4817,7 @@ margin: 10px 0 20px;
 .formCol-3{
 	width: 33%;
 	float: left;
-	padding-right: 30px;
+	padding-right: 15px;
 	.box-sizing;
 	h3{
 		margin: 10px 0 0;
@@ -4875,6 +4878,9 @@ margin: 10px 0 20px;
 	margin-left:50px;
 	display: block; 
 }
+.shopingSpacing{
+	margin-top: 66px;
+}
 .priceConect{
 	border-bottom: 1px #7d7d7d dotted;
 	padding-bottom: 30px;
@@ -4916,19 +4922,60 @@ margin: 10px 0 20px;
      opacity: 0;
     }
     /*bootstrap*/    
+ .uploadCol{
+	width: 164px;
+	float: left;
+	padding:0 10px;
+	margin-bottom: 10px;
+	.box-sizing;
+	position: relative;
+ } 
+ .uploaTefault{
+ 	position: absolute;
+ 	width: 144px;
+	height: 144px;
+	margin-bottom: 10px;
+	overflow: hidden;
+	.rounded (@radius:5px);
+	z-index: 5;
+	.semiTransparent{
+		position: absolute;
+		background: url('../img/overlayBg.png') repeat;
+		width: 100%;
+		left: 0;
+		top: 0;
+		height: 100%;
+		z-index: 1;
+	}
+	.upload_close{
+		background: url('../img/upload_close.png') no-repeat;
+		position: absolute;
+		right: 10px;
+		top: 10px;
+		z-index: 2;
+		height: 21px;
+		width: 21px;
+		cursor: pointer;
+	}
+	img{
+		width: 100%;
+		height: 100%;
+	}
+ }
 .uploadBlock {
 	background: #ededed url('../img/photo.png') no-repeat center center;
 	border: #878787 dashed 2px;
-	.rounded (@radius:15px);
+	.rounded (@radius:5px);
 	padding: 30px 20px 20px;
 	text-align: center;
-	width: 152px;
-	height: 152px;
+	width: 100%;
+	height: 144px;
 	float: left;
 	margin-right: 15px;
 	margin-bottom: 10px;
 	.box-sizing;
 	position: relative;
+	z-index: 4;
 	&:hover{
 		background-color:#e4e3e3;
 	}
@@ -5454,6 +5501,13 @@ margin: 10px 0 20px;
 	background: url('../img/wall_bg.jpg') repeat;
 	margin: 25px 0;
 	padding:20px;
+	position: relative;
+	.story_close{
+		position: absolute;
+		right: 20px;
+		top: 15px;
+		cursor: pointer;
+	}
 	h1{
 		font-size: 18px;
 		margin: 0 0 10px;
@@ -5523,6 +5577,101 @@ margin: 10px 0 20px;
 	}
 
 }
+#top_footer_wrapper{
+	.animation;
+}
+.storyBanner{
+	margin: 30px 0;
+	.discBox{
+		background: #fff;
+		padding:20px 10px 10px;
+		width: 33%;
+		.box-sizing;
+		float: left;
+		.animation;
+		&:last-of-type{
+			margin-right: 0px;
+		}
+		.iconSide{
+			float: left;
+			width: 34px;
+			height: 34px;
+			margin-top: 5px;
+			-webkit-transition-duration: 0.8s;
+		    -moz-transition-duration: 0.8s;
+		    -o-transition-duration: 0.8s;
+		    transition-duration: 0.8s;
+		     
+		    -webkit-transition-property: -webkit-transform;
+		    -moz-transition-property: -moz-transform;
+		    -o-transition-property: -o-transform;
+		    transition-property: transform;
+		}
+		.discDesc{
+			margin-left: 50px;
+			display: block;
+			h3{
+				padding: 0;
+				margin: 0 0 5px;
+				font-weight: bold;
+				color: #16a085;
+				font-size: 16px;
+			}
+		}
+		&:hover{
+			background: #e7e8ea;
+			.iconSide{
+				-webkit-transform:rotate(360deg);
+			    -moz-transform:rotate(360deg);
+			    -o-transform:rotate(360deg);
+			}
+		}
+	}
+}
+.checkSection{
+	margin: auto;
+	width: 123px;
+	input[type=checkbox].css-checkbox {
+		position: absolute; 
+		overflow: hidden; 
+		clip: rect(0 0 0 0); 
+		height:1px; 
+		width:1px; 
+		margin:-1px; 
+		padding:0;
+		border:0;
+	}
+	input[type=checkbox].css-checkbox + label.css-label {
+		padding-left:24px;
+		height:14px; 
+		display:inline-block;
+		line-height:13px;
+		background-repeat:no-repeat;
+		background-position: 0 0;
+		font-size:13px;
+		vertical-align:middle;
+		cursor:pointer;
+	}
+	input[type=checkbox].css-checkbox:checked + label.css-label {
+		background-position: 0 -14px;
+		color: #1f9e84;
+	}
+	.css-label{
+		background-image:url('../img/check_mark.png');
+	}
+}
+
+
+.upload_info{
+	background: url('../img/exclamation_mark.png') no-repeat left center;
+	width: 60%;
+	color: #666;
+	font-style: italic;
+	margin-top: 10px;
+	float: left;
+	padding-left: 43px;
+	font-size: 13px;
+}
 
 /*Media query starts */
 @media screen and (min-width:770px) {
@@ -5541,6 +5690,9 @@ margin: 10px 0 20px;
 		display: block;
 	}
 	.headerMarginTop {
+		margin-top: 0;
+	}
+	.shopingSpacing {
 		margin-top: 0;
 	}
 }
@@ -5563,6 +5715,14 @@ margin: 10px 0 20px;
 		margin-bottom: 30px;
 		width: 44%;
 		margin-right: 30px;
+	}
+	.storyBanner{
+		.discBox{
+			margin-bottom: 30px;
+			width: 44%;
+			margin-right: 30px;
+			min-height: 110px;
+		}
 	}
 	.finalCart {
 		.leftPane {
@@ -5927,6 +6087,14 @@ margin: 10px 0 20px;
 }/*786 ends*/
 
 @media screen and (max-width:640px) {
+	.storyBanner{
+		.discBox{
+			margin-bottom: 20px;
+			width: 100%;
+			margin-right: 0;
+			min-height: 100%;
+		}
+	}
 	.story_board_main .discBox {
 		margin-bottom: 30px;
 		width: 100%;
@@ -5935,5 +6103,4 @@ margin: 10px 0 20px;
 			margin-bottom:10px;
 		}
 	}
-
 }

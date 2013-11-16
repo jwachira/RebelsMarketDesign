@@ -3,6 +3,9 @@
 
       <div class="container headerMarginTop">
 			<div class="story_board_main">
+                <div class="story_close">
+                    <img src="img/storyboard_close.png">
+                </div>  
             	<h1>RebelsMarket is the No. 1 counterculture community and marketplace in the world</h1>
                 <h2>Why should i join?</h2>
                 <div class="boxMin clearfix">
