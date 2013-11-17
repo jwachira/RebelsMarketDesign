@@ -74,14 +74,14 @@ HOME browse discover CSS
 	color: #ef3f3b;
 }
 #browse-discover .item p{
-	color: #cccccc;
 	width: 100%;
 	position: absolute;
 	bottom: 10px;
-	font-size: 19px;
 	font-weight: bolder;
 	margin: 0;
 	line-height: 19px;
+	color: #7f7f7f !important;
+	font-size: 1.3em !important;
 }
 #browse-discover .item.big p{
 	font-size: 27px;
@@ -239,9 +239,10 @@ HOME explore by country CSS
 }
 #featured-shop .shop .left img{
 	margin-right: 10px;
+	 
 }
 #featured-shop .shop h5{
-	color: #727272;
+	color:#4c4c4c;
 	font-size: 14px;
 	line-height: 14px;
 	margin: 5px 0 10px 0;
@@ -254,7 +255,6 @@ HOME explore by country CSS
 	margin-left: 10px;
 }
 #featured-shop .shop p{
-	color: #b1afac;
 	font-size: 12px;
 	line-height: 14px;
 	text-align: justify;
@@ -273,6 +273,29 @@ HOME explore by country CSS
 #featured-shop .shop .item:hover{
 	opacity: 0.8;
 	border: 1px solid #dd0017;
+}
+#featured-shop .shop .shop_home_content {
+	color:#666;
+}
+.fixImgs{
+	float: left;
+	width: 170px;
+}
+.fixLeft{
+	margin-left: 170px;
+	display: block;
+}
+.shopN{
+	color: #4c4c4c !important;
+	font-style: normal !important;
+	float:left !important;
+	width: 100% !important;
+	font-size: 14px !important;
+	margin-bottom: 7px !important;
+	&:hover{
+		color:@hover;
+		text-decoration:underline;
+	}
 }
 /*
 ====================================================

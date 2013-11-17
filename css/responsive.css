@@ -299,18 +299,18 @@ left: 131px;
 #browse-discover {
 	zoom: 70%;
 }
-#featured-shop .shop .right,
-#featured-shop .shop .left{
-	width: 100%;
-	float: none;
-	clear: both;
-}
-#featured-shop .shop .right{
-	padding-top: 10px;
-}
-#featured-shop .shop .right .item:last-child{
-	display: inline-block;
-}
+	/*#featured-shop .shop .right,
+	#featured-shop .shop .left{
+		width: 100%;
+		float: none;
+		clear: both;
+	}
+	#featured-shop .shop .right{
+		padding-top: 10px;
+	}
+	#featured-shop .shop .right .item:last-child{
+		display: inline-block;
+	}*/
 }
 @media screen and (max-width:685px) {
 #browse-discover {

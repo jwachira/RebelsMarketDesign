@@ -179,15 +179,17 @@
 
           <div class="shop">
 
-            <div class="left">
-
-              <img src="img/feat-shop/item1.png" alt="" class="alignleft">
-
-              <h5>Mava style</h5>
-
-              <p>We are online jewelry store features sterling silver & gold jewelry that consists of a wide collection of rings, cuff links, pendants, bracelets, necklaces, earrings....</p>
-
-              <a href="#">Read the interview</a>
+            <div class="left clearfix">
+			  <div class="fixImgs">
+               <a href="#"><img src="img/feat-shop/item1.png" alt="" class="alignleft"></a>
+              </div>
+             
+              <div class="fixLeft">
+              	 <a href="#" class="shopN">Mava style</a>
+                 <p>We are online jewelry store features sterling silver & gold jewelry that consists of a wide collection of rings, cuff links, pendants, bracelets, necklaces, earrings....</p>
+                 <a href="#">Read the interview</a>
+              </div>
+             
 
             </div><!-- end of left -->
 
@@ -384,7 +386,6 @@
             </div><!-- end of col md -->
 
           <div class="clearfix"></div>
-
         </div><!-- end of what-people-are-saying -->
 
 

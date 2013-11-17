@@ -5,7 +5,61 @@
         <div id="carousel-home" class="carousel slide">
 
                 <ol class="carousel-indicators">
+<div id="featured-shop">
 
+          <h3>Featured Shop <a href="#">See more</a></h3>
+
+          <div class="shop">
+
+            <div class="left clearfix">
+			  <div class="fixImgs">
+               <a href="#"><img src="img/feat-shop/item1.png" alt="" class="alignleft"></a>
+              </div>
+             
+              <div class="fixLeft">
+              	 <a href="#" class="shopN">Mava style</a>
+                 <p>We are online jewelry store features sterling silver & gold jewelry that consists of a wide collection of rings, cuff links, pendants, bracelets, necklaces, earrings....</p>
+                 <a href="#">Read the interview</a>
+              </div>
+             
+
+            </div><!-- end of left -->
+
+            <div class="right">
+
+              <h5>Mava style <a href="#">See more</a></h5>
+
+              <a href="#" class="item one">
+
+                <img src="img/feat-shop/item2.png" alt="">
+
+              </a><!-- end of item -->
+
+              <a href="#" class="item two">
+
+                <img src="img/feat-shop/item3.png" alt="">
+
+              </a><!-- end of item -->
+
+              <a href="#" class="item three">
+
+                <img src="img/feat-shop/item4.png" alt="">
+
+              </a><!-- end of item -->
+
+              <a href="#" class="item four">
+
+                <img src="img/feat-shop/item5.png" alt="">
+
+              </a><!-- end of item -->
+
+            </div><!-- end of right -->
+
+            <div class="clearfix"></div>
+
+          </div><!-- end of show -->
+
+        </div>
                   <li data-target="#carousel-home" data-slide-to="0" class=""></li>
 
                   <li data-target="#carousel-home" data-slide-to="1" class="active"></li>
