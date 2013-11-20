@@ -85,6 +85,7 @@
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 
     <script src="js/jquery.js"></script>
+    <script src="js/modernizr-2.6.2.min.js" type="text/javascript"></script>  
     <script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/twitter-bootstrap-hover-dropdown.min.js"></script>
