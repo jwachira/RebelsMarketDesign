@@ -121,8 +121,9 @@
                                   </ul>
                                   <div id="tabs1-html" class="tabContent">
                                    		<div class="imgTab">
-                                        	<img src="img/sliderBanner.jpg" />
-                                            <img src="img/sliderBanner.jpg" />
+                                        <img id="zoom_01" src='img/sliderBanner.jpg' data-zoom-image="img/sliderBanner.jpg"/>
+                                        	<!-- <img src="img/sliderBanner.jpgdsd" />
+                                            <img src="img/sliderBanner.jpg" /> -->
                                         </div>
                                   </div>
                                   <div id="tabs1-js"  class="tabContent">

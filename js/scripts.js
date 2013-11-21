@@ -1,4 +1,16 @@
 $(window).load(function() {
+	 $('#zoom_01').elevateZoom({
+		 //    zoomType: "inner",
+		 //    scrollZoom : true,
+		 //    easing : true,
+			// cursor: "",
+			zoomType: "lens",
+ 			 lensShape : "round",
+  			lensSize    : 200,
+			zoomWindowFadeIn: 500,
+			zoomWindowFadeOut: 750
+   }); 
+
 	$('.upload_close').click(function(){
 		$(this).parent().fadeOut();
 	});

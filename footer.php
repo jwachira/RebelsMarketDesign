@@ -94,6 +94,7 @@
     <script type="text/javascript" src="js/organictabs.jquery.js"></script>
     <script src="js/jquery.hashchange.min.js" type="text/javascript"></script>
 	<script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
+    <script src="js/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
     <script src="js/scripts.js"></script>
     
 
