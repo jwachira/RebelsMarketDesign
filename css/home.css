@@ -293,10 +293,6 @@ HOME explore by country CSS
 	font-size:16px;
 	text-transform: capitalize ;
 	margin-bottom: 7px !important;
-	&:hover{
-		color:@hover;
-		text-decoration:underline;
-	}
 }
 /*
 ====================================================
