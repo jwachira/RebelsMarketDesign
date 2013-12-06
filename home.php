@@ -219,6 +219,11 @@
 
                 <img src="img/feat-shop/item5.png" alt="">
 
+              </a>
+               <a href="#" class="item five">
+
+                <img src="img/feat-shop/item3.png" alt="">
+
               </a><!-- end of item -->
 
             </div><!-- end of right -->

@@ -4436,7 +4436,8 @@ transition:.6s ease-in-out left
 	display:block;
 	height:auto;
 	max-width:100%;
-	line-height:1
+	line-height:1;
+	width: 100%;
 }
 .carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
 	display:block

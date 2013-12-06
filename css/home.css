@@ -53,7 +53,7 @@ HOME browse discover CSS
 	color: #ef3f3b;
 }
 #browse-discover .left{
-	max-width: 315px;
+	max-width: 410px;
 	float: left;
 }
 #browse-discover .item{
@@ -88,8 +88,8 @@ HOME browse discover CSS
 	line-height: 27px;
 }
 #browse-discover .item.big{
-	height: 287px;
-	width: 287px;
+	height: 400px;
+	width:400px;
 }
 #browse-discover .item.wide{
 	height: 137px;
@@ -364,7 +364,7 @@ HOME what people are saiyng CSS
 	overflow: hidden;
 	position: relative;
 	height: 142px;
-	padding-left: 147px;
+	padding-left: 180px;
 	width: 31.333333%;
 }
 #what-people-are-saying .col-md-4.middle{
@@ -382,7 +382,7 @@ HOME what people are saiyng CSS
 	background: url(../img/peoplearw.png);
 	width: 9px;
 	height: 17px;
-	left: 127px;
+	left: 157px;
 	top: 22px;
 }
 #what-people-are-saying .col-md-4 h4{

@@ -127,7 +127,7 @@ ul{
 	color: #fff !important;
 }
 .container{
-	max-width: 960px;
+	max-width: 1170px;
 	position:relative;
 }
 .red-btn{
@@ -1054,7 +1054,7 @@ Specific Browsers Tweeks CSS
 /* -------------------- IE 8 -------------------- */
 
 .ie8 .container{
-	width: 960px;
+	width: 1170px;
 }
 .ie8 #what-people-are-saying a{
 	background-color: red;
