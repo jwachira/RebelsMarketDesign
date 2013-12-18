@@ -208,6 +208,8 @@ Top Section CSS
 
 .navbar-nav.top-rightsection li{
 	margin:0;
+	border-right: solid #313030 1px;
+	height: 66px;
 }
 .navbar-nav.top-rightsection li a{
 	padding-top: 35px;
@@ -315,15 +317,10 @@ Header CSS
 ====================================================
 */
 #header .container{
-	background: #fff;
 	padding: 0;
 	position: relative;
-	height: 40px;
 }
-#header #menu{
-	background: #2c2b2b;
-	height: 40px;
-}
+
 #header .menu{
 	margin: 0;
 	padding: 0;
@@ -337,7 +334,7 @@ Header CSS
 }
 #header .menu li.main a{
 	color: #ddd;
-	font-size: 14px;
+	font-size: 15px;
 	text-shadow: 0 1px 1px rgba(0,0,0,0.65);
 	-moz-text-shadow: 0 1px 1px rgba(0,0,0,0.65);
 }
@@ -354,12 +351,16 @@ Header CSS
 	list-style:none; 
 	position:relative;
 	left:50%;
-	width: 960px;
+	width: 1170px;
 }
 #header .menu li.main{
 	float:left;
 	position:relative;/* ie needs position:relative here*/
-	margin: 8px 8px 0px;
+	margin: 8px 44px 0px 0;
+	&:last-of-type{
+		margin-right:0;
+		background: red;
+	}
 }
 #header .menu .main a{
 	text-decoration:none;
