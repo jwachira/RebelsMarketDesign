@@ -5954,9 +5954,17 @@ margin: 10px 0 20px;
 		border-bottom: #e0e0e0 dotted 1px;
 		padding-bottom: 10px;
 		margin-bottom: 17px;
-		text-transform: uppercase;
 		font-weight: bold;
 		font-size: 20px;
+		a{
+			font-size: 12px;
+			color: @red;
+			font-style: italic;
+			margin-left: 10px;
+			&:hover{
+				color:@hover;
+			}
+		}
 	}
 }
 .borderNone{
@@ -6077,6 +6085,25 @@ margin: 10px 0 20px;
 		font-size: 22px;
 	}
 }
+.more-categories{
+	.single-prd{
+		width: 161px;
+		img{
+			height: 80%;
+			right: 7px;
+			top: 9px;
+		}
+
+	}
+	a:last-of-type{
+		.single-prd{
+			margin-right: 0
+		}
+	}
+	
+	
+}
+
 .menPrdct{
 	.single-prd{
 		width: 187px;
@@ -6097,7 +6124,121 @@ margin: 10px 0 20px;
 		}
 	}
 }
-/*Casual user homepage ends*/
+.feature-shop{
+	.shop-left{
+		width: 49%;
+		float: left;
+	}
+	.shop-right{
+		width: 49%;
+		float: right;
+	}
+}
+
+.shop-block{
+	border: #e6e6e6 solid 1px;
+	padding:20px;
+	.box-sizing;
+	.rounded (@radius:5px);
+	h1{
+		border-bottom: none;
+		padding-bottom: 0;
+		margin-bottom: 10px;
+		font-size: 16px;
+	}
+	.shop-data{
+		img{
+			width: 112px;
+			height: 112px;
+			overflow: hidden;
+			border: #e6e6e6 solid 1px;
+			float: left;
+		}
+		.shop_txt{
+			margin-left: 130px;
+			display: block;
+			h2{
+				margin:0 0 10px;
+				font-size: 18px;
+			}
+		}
+	}
+}
+.shop-prdct{
+	width: 87px;
+	height: 80px;
+	border: #e6e6e6 solid 1px;
+	overflow: hidden;
+	float: left;
+	margin-right:15px;
+	img{
+		width: 80px;
+	}
+	&:hover{
+		border-color: @hover;
+	}
+	&:last-of-type{
+		margin-right: 0;
+	}
+}
+.slider-pane{
+	float: left;
+	width: 64%;
+	.bx-wrapper{
+		width: 97%;
+	}
+	.bx-wrapper .bx-viewport{
+		left: 0;
+	}
+	li{
+		width: 123px !important;
+		padding:10px;
+		border:#e7e7e7 solid 1px;
+		margin-right: 25px;
+		img{
+			width: 101px;
+			height: 90px;
+		}
+		h2{
+			margin: 5px 0 0;
+			font-size: 15px;
+			text-align: center;
+		}
+		&:hover{
+			border-color: @red;
+			h2{
+				color: @red;
+			}
+		}
+	}
+	h1{
+		border:none;
+		padding-bottom: 0;
+	}
+}
+.featured-brands{
+	float: right;
+	width: 30%;
+	.shop-prdct{
+		width: 123px;
+		height: 121px;
+		margin-right: 10px;
+		img{
+			width: 100%;
+		}
+	}
+	h1{
+		border-bottom: none;
+		padding-bottom: 0;
+	}
+}
+.home-popular-search{
+	h1{
+		border:none;
+		padding-bottom: 0
+	}
+}
+/*first visit user homepage ends*/
 
 
 /*Media query starts */

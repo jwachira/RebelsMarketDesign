@@ -157,7 +157,14 @@ $(window).load(function() {
 		    }
 	 	});
     },100);
-	
+		
+		 $('.home-shop-slider').bxSlider({
+		 	  minSlides:4,
+			  maxSlides: 4,
+			  slideWidth: 350,
+			  pager:false
+		 });
+
 	 	//bx slider
 	 $('#universal,  #otherItems, #otherSeller, #slideCol').bxSlider({
 		 	pager :false,

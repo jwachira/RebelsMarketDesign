@@ -226,7 +226,7 @@
                     </a>
                 </section>  
 
-                <h1>Man</h1>
+                <h1>MAN</h1>
                 <section class="home-prdct menPrdct clearfix">
                     <a href="">
                         <div class="single-prd w2">
@@ -278,7 +278,225 @@
                     </a>
 
                      
-                </section>  
+                </section>
+
+                <h1>More Categories to Shop <a href="">See more</a> </h1>
+                <section class="more-categories clearfix">
+                    <a href="">
+                        <div class="single-prd">
+                            <img src="img/artwork.jpg">
+                            <h2>Artwork</h2>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="single-prd">
+                            <img src="img/Glassware.jpg">
+                            <h2>Bar &amp; <br>Glassware</h2>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="single-prd">
+                            <img src="img/collectables.jpg">
+                            <h2>Collectables</h2>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="single-prd">
+                            <img src="img/phone_cover.jpg">
+                            <h2>Phone Cases</h2>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="single-prd">
+                            <img src="img/watches.jpg">
+                            <h2>Watches</h2>
+                        </div>
+                    </a>
+                </section>
+
+                <h1>Featured Shops<a href="">See more</a> </h1>
+                <section class="feature-shop clearfix">
+                     <div class="shop-block shop-left">
+                          <section class="shop-data clearfix">
+                              <img src="img/home_shop.jpg">
+                              <div class="shop_txt">
+                                  <h2>Sullent Art</h2>
+                                  <p>
+                                      Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
+                                  </p>
+                                  <a href="">Read the interview</a>
+                              </div>
+                          </section>
+                          <h1>Mava style items<a href="">See more</a> </h1>
+                          <section class="clearfix">
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt5.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt3.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt2.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt5.jpg">
+                              </a>
+                          </section>
+                     </div>
+
+                     <div class="shop-block shop-right">
+                          <section class="shop-data clearfix">
+                              <img src="img/home_shop.jpg">
+                              <div class="shop_txt">
+                                  <h2>Sullent Art</h2>
+                                  <p>
+                                      Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
+                                  </p>
+                                  <a href="">Read the interview</a>
+                              </div>
+                          </section>
+                          <h1>Mava style items<a href="">See more</a> </h1>
+                          <section class="clearfix">
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt5.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt3.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt2.jpg">
+                              </a>
+                              <a class="shop-prdct" href="">
+                                   <img src="img/display-tshirt5.jpg">
+                              </a>
+                          </section>
+                     </div>
+                </section>
+                <section class="clearfix">
+                    <div class="slider-pane">
+                        <h1>Browse by style<a href="">See more</a> </h1>
+                        <ul class="bxslider home-shop-slider">
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item1.png" />
+                                <h2>Steampunk</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item2.png" />
+                                <h2>Rocker</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item3.png" />
+                                <h2>Boho</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item4.png" />
+                                <h2>Burlesque</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item3.png" />
+                                <h2>Steampunk</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item2.png" />
+                                <h2>Rocker</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item1.png" />
+                                <h2>Burlesque</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item4.png" />
+                                <h2>Boho</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item1.png" />
+                                <h2>Steampunk</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item2.png" />
+                                <h2>Boho</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item3.png" />
+                                <h2>Burlesque</h2>
+                              </li>
+                            </a>
+
+                            <a href="">
+                              <li>
+                                <img src="img/carousel/item4.png" />
+                                <h2>Rocker</h2>
+                              </li>
+                            </a>
+                             
+                             
+                      </ul>
+                    </div>
+                    <div class="featured-brands clearfix">
+                        <h1>Featured Brands <a href="">See more</a> </h1>
+                        <a class="shop-prdct" href="">
+                           <img src="img/home_shop.jpg">
+                        </a>
+                        <a class="shop-prdct" href="">
+                           <img src="img/home_shop.jpg">
+                        </a>
+                    </div>
+
+                </section>
+
+                <section class="home-popular-search">
+                  <h1>Popular search terms </h1> 
+
+                  <a href="#" class="search-term">#dresses</a>
+
+                  <a href="#" class="search-term">#women-tops</a>
+
+                  <a href="#" class="search-term">#men tees</a>
+
+                  <a href="#" class="search-term">#skulls</a>
+
+                  <a href="#" class="search-term">#handbags</a>
+
+                  <a href="#" class="search-term">#corsets</a>
+
+                  <a href="#" class="search-term">#leggings</a>
+
+                  <a href="#" class="search-term">#steampunk</a>
+
+                  <a href="#" class="search-term">#earcuff</a>
+
+                </section>
 
              </aticle>
           </section>  
