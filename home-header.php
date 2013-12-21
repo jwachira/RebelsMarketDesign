@@ -15,24 +15,29 @@
     <!-- Bootstrap -->
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+ <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <!--[if IE 8]> 
+      <html class="no-js ie8" lang="en"> 
+  <![endif]-->
 
-    <!--[if lt IE 9]>
+  <!--[if IE 9]>
+      <html class="no-js ie9" lang="en"> 
+  <![endif]-->
 
-      <script src="js/html5shiv.js"></script>
-
-      <script src="js/respond.min.js"></script>
-
-    <![endif]-->
+  <!--[if gtIE 9]>
+      <html class="no-js gt-ie9" lang="en"> 
+  <![endif]-->
 
     <script src="js/css_browser_selector.js" type="text/javascript"></script>
     <link href="css/custom.css" rel="stylesheet" media="screen">
     <link href="css/home.css" rel="stylesheet" media="screen">
     <link href="css/responsive.css" rel="stylesheet" media="screen">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" media="screen">
     <link href="css/layout.css" rel="stylesheet" type="text/css" />
 
   </head>
-
   <body>
   <!--mobile header starts here-->
  <div class="mobileHeader1 clearfix">

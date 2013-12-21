@@ -1,4 +1,4 @@
-  <?php include('header.php'); ?>
+  <?php include('home-header.php'); ?>
     <div id="content">
 
       	<div class="container headerMarginTop">
@@ -161,7 +161,7 @@
 
              <aticle class="content-panel">
                 <h1>WOMAN</h1>
-                <section class="home-prdct clearfix">
+                <section class="home-prdct womenPrdct clearfix">
                     <a href="">
                         <div class="single-prd w2">
                             <img src="img/prodct_img.jpg">
@@ -171,56 +171,56 @@
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/slider.jpg">
+                            <img src="img/corsets.jpg">
                             <h2>Corsets</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/discover/item9.png">
+                            <img src="img/shoes.jpg">
                             <h2>Shoes</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/discover/item10.png">
+                            <img src="img/jewelry.jpg">
                             <h2>Jewelry</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/discover/item3.png">
+                            <img src="img/handBag.jpg">
                             <h2>Handbags</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img.jpg">
+                            <img src="img/dresses.jpg">
                             <h2>Jackets <br> &amp;  Coats</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img.jpg">
+                            <img src="img/tops.jpg">
                             <h2>Tops</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img.jpg">
+                            <img src="img/leggings.jpg">
                             <h2>Leggings</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img.jpg">
+                            <img src="img/panties.jpg">
                             <h2>Panties</h2>
                         </div>
                     </a>
@@ -237,42 +237,42 @@
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/display-tshirt2.jpg">
+                            <img src="img/hoodies.jpg">
                             <h2>Hoodies</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/display-tshirt3.jpg">
+                            <img src="img/shirts.jpg">
                             <h2>Shirts</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/display-tshirt4.jpg">
+                            <img src="img/underware.jpg">
                             <h2>Underwear</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/discover/item2.png">
+                            <img src="img/jackets.jpg">
                             <h2>Jackets <br>&amp; Coats</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img2.jpg">
+                            <img src="img/jewelry-two.jpg">
                             <h2>Jewelry</h2>
                         </div>
                     </a>
 
                     <a href="">
                         <div class="single-prd">
-                            <img src="img/prodct_img.jpg">
+                            <img src="img/back-pack.jpg">
                             <h2>Backpack</h2>
                         </div>
                     </a>
@@ -346,9 +346,9 @@
 
                      <div class="shop-block shop-right">
                           <section class="shop-data clearfix">
-                              <img src="img/home_shop.jpg">
+                              <img src="img/home_shop2.jpg">
                               <div class="shop_txt">
-                                  <h2>Sullent Art</h2>
+                                  <h2>Pop Murder</h2>
                                   <p>
                                       Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
                                   </p>
@@ -372,7 +372,7 @@
                           </section>
                      </div>
                 </section>
-                <section class="clearfix">
+                <section class="home-prodcut-slider clearfix">
                     <div class="slider-pane">
                         <h1>Browse by style<a href="">See more</a> </h1>
                         <ul class="bxslider home-shop-slider">
