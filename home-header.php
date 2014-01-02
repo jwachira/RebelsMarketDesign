@@ -95,7 +95,7 @@
                                 <form>
                                     <input type="text" placeholder="Search...">
                                     <select>
-                                        <option>All category</option>
+                                        <option>All Categories</option>
                                         <option>Men</option>
                                         <option>Women</option>
                                         <option>Boho</option>

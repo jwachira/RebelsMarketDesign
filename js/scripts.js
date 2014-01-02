@@ -10,6 +10,12 @@ $(window).load(function() {
 		// 	zoomWindowFadeIn: 500,
 		// 	zoomWindowFadeOut: 750
   //  }); 
+
+	$('#form-trigger').click(function(){
+		$('#contact-seller').slideToggle();
+	});
+
+
 	$('.new-trigger').click(function(){
 		$('.new-items').toggleClass('showit');
 		if ($(".new-items").hasClass("showit")){

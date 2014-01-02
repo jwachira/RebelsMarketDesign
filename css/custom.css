@@ -209,7 +209,6 @@ Top Section CSS
 .navbar-nav.top-rightsection li{
 	margin:0;
 	border-right: solid #313030 1px;
-	height: 66px;
 }
 .navbar-nav.top-rightsection li a{
 	padding-top: 35px;
@@ -221,7 +220,9 @@ Top Section CSS
 .navbar-nav.top-rightsection>li>.dropdown-menu.pull-right{
 	left: 0;
 	right: auto;
+	 
 }
+
 .top-user span,
 .top-hearth span,
 .top-msg span,

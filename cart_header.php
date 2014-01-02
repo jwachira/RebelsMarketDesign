@@ -169,7 +169,7 @@
                         <form action="" method="get" autocomplete="on">
                             <input type="text" placeholder="Search..." title="Search folders you viewed previously" autocomplete="on">
                             <select>
-                                <option>All category</option>
+                                <option>All Categories</option>
                                 <option>Men</option>
                                 <option>Women</option>
                                 <option>Boho</option>
