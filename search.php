@@ -112,14 +112,23 @@
             <section class="mainContent clearfix">
                 <div class="filterMain clearfix">
                   <h2><strong>"Tees" </strong> We found 8,745 items</h2>
-                	<form action="" method="get">
-                    	<select name="">
-                        	<option>Sort by Relevancy</option>
+                    <select name="">
+                          <option>Convert to USD</option>
+                            <option>Convert to EUROS</option>
+                            <option>Convert to KES</option>
+                            <option>Convert to RWF</option> 
+                        </select>
+                    </form>
+
+                    <form action="" method="get">
+                      <select name="">
+                          <option>Sort by Relevancy</option>
                             <option>Category</option>
                             <option>Date added</option>
                             <option>Price</option> 
                         </select>
                     </form>
+
                 </div>
                 
                <div class="searchFilter clearfix">
@@ -171,6 +180,62 @@
                 </div>
               </div>
     
+              <div class="column column-3 galry-item">
+                <a href="#" class="pdctImg"><img src="img/display-tshirt2.jpg" alt=""></a>
+                <div class="dicText">
+                  <p>
+                    25% OFF
+                  </p>
+                </div>
+                <div class="displayInfo">
+                  <div class="subDetails clearfix">
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                    <span class="price">USD $ 48.37</span>
+                  </div>
+                  <div class="shareIcons">
+                    <a href="#" class="heart">92</a>
+                    <a href="#" class="star">138</a>
+                    <a href="javascript:void(0)" class="share">24</a>
+                  </div>
+                </div>
+                <div class="share-popup">
+                    <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                    <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                </div>
+              </div>
+
+              <div class="column column-3 galry-item">
+                <a href="#" class="pdctImg"><img src="img/display-tshirt2.jpg" alt=""></a>
+                <div class="dicText">
+                  <p>
+                    25% OFF
+                  </p>
+                </div>
+                <div class="displayInfo">
+                  <div class="subDetails clearfix">
+                    <h2><a href="#">Fashion Universe Star</a></h2>
+                    <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                    <span class="price">USD $ 48.37</span>
+                  </div>
+                  <div class="shareIcons">
+                    <a href="#" class="heart">92</a>
+                    <a href="#" class="star">138</a>
+                    <a href="javascript:void(0)" class="share">24</a>
+                  </div>
+                </div>
+                <div class="share-popup">
+                    <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                    <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                    <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                </div>
+              </div>
+
               <div class="column column-3 galry-item">
                 <a href="#" class="pdctImg"><img src="img/display-tshirt2.jpg" alt=""></a>
                 <div class="dicText">

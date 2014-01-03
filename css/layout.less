@@ -48,8 +48,8 @@ h1{
         filter: dropshadow(color=#a91712, offx=1, offy=1);
 }
 .headerOne{
-	background: #010000;
-	height: 66px;
+	background: #191818;
+	height: 62px;
 }
 .cartHeader{
 	background: #010000;
@@ -69,7 +69,7 @@ h1{
 	height: 38px;
 	margin:auto;
 	width: 455px;
-	margin-top: 14px;
+	margin-top: 12px;
 	.box-sizing;
 	input[type="text"]{
 		width: 280px;
@@ -137,7 +137,7 @@ h1{
 	    float: left; text-decoration: none;
 	    color: white; 
 	    padding: 23px 20px 0;
-	    height: 66px;
+	    height: 63px;
 	    .box-sizing;
 	    font-size: 14px;
 	}
@@ -150,13 +150,13 @@ h1{
 	    color: #6d6d6d;
 	    background-color:#fff;
 	}
-
+	
 
 }
 .headerTwo{
-	height: 60px;
-	background: #010000;
-	border-top: #313030 solid 1px;
+	height: 50px;
+	background: #2f2e2e url('../img/menu-gradient.png') top left repeat-x;
+	border-top: #343333 solid 1px;
 }
 .casualBanner{
 	margin-top: 15px;
@@ -271,6 +271,7 @@ h1{
 			position: relative;
 			max-width: 288px;
 			max-height: 251px;
+			.rounded (@radius:5px 5px 0 0);
 		}
 		.dicText{
 			position: absolute;
@@ -447,8 +448,8 @@ h1{
 .share-popup:before {
 	content: url(../img/popup-arrow.png);
 	position: absolute;
-	 right: 23px !important;
-	top: -8px;
+	right: 35px!important;
+	top: -13px;
 }
 .share-popup img:hover{
 	opacity: 1;
@@ -512,8 +513,9 @@ h1{
 	 font-weight: bold;
 	 font-size: 18px;
 	 color: #e35858;
-	 margin: 0;
-	 margin-bottom: 20px;
+	 margin: 0 0 20px;
+	 border-bottom: none;
+
 	}
 	h2{
 		color: #333;
@@ -696,6 +698,7 @@ color:#e35858;
 		   text-align: center;
 		   float: right;
 		   margin-right: 0;
+		   margin-left: 20px;
   		 }
   		 
 	}
@@ -1271,14 +1274,13 @@ color:#e35858;
 }
 
 .blogSection{
-	border-top: #e6e6e6 solid 3px;
 	background: #f2f2f2;
-	padding: 70px 0 0px;
+	margin-top: 111px;
 	.blogBox{
 		margin-bottom: 38px;
 	}
 	.blogWrap{
-		background: none !important;
+		padding:15px;
 		.leftWing{
 			float: left;
 			width: 70%;
@@ -1294,7 +1296,8 @@ color:#e35858;
 				position: relative;
 				h1{
 					margin: 0 0 10px;
-					color: #7d2b27;
+					color: #454545;
+					border: none;
 				}
 				.postMeta{
 					span a{
@@ -6861,8 +6864,39 @@ margin: 10px 0 20px;
 		margin: 0 0 20px;
 	}
 }
-/*product-page ends
+/*product-page ends */
+.blog-social-icon{
+	padding-top: 18px;
+	.fb-icon, .twt-icon, .gplus-icon{
+		width: 26px;
+		height: 26px;
+		margin-left: 20px;
+		float: left;
+		.animation;
+		opacity:0.7;
+		&:hover{
+			opacity:1;
+			margin-top: -3px;
+			.rounded (@radius:3px);
+		}
+	}
+	.fb-icon{
+		background: url('../img/blog-social-icons.png') no-repeat;
+	}
+	.twt-icon{
+		background: url('../img/blog-social-icons.png') no-repeat 0 -56px;
+	}
 
+	.gplus-icon{
+		background: url('../img/blog-social-icons.png') no-repeat 0 -28px;
+	}
+}
+.blog-header{
+	.topSearch {
+		margin-right: 188px;
+	}
+}
+/*Blog section ends*/
 
 
 
