@@ -179,11 +179,11 @@
             <section class="infoTabs">
                 <div id="tab-container" class="tab-container">
                       <ul class='etabs'>
-                        <li class='tab'><a href="#tabs1-html">Item details</a></li>
-                        <li class='tab'><a href="#tabs1-js">Shipping Information</a></li>
-                        <li class='tab'><a href="#tabs1-css">Customer Reviews</a></li>
+                        <li class='tab'><a href="#productDetail-html">Item details</a></li>
+                        <li class='tab'><a href="#shippinfInfo-html">Shipping Information</a></li>
+                        <li class='tab'><a href="#cstmReview-html">Customer Reviews</a></li>
                       </ul>
-                      <div id="tabs1-html" class="tabContent">
+                      <div id="productDetail-html" class="tabContent">
                          <div class="detail-tab">
                                <h1>Item Details</h1>
                                <p>
@@ -240,7 +240,7 @@
               
                          </div>
                       </div>
-                      <div id="tabs1-js"  class="tabContent">
+                      <div id="shippinfInfo-html"  class="tabContent">
                         <div class="shipping-info">
                             <h4>Item ships from: <strong>United Kingdom</strong></h4>
                             <div class="datagrid">
@@ -288,7 +288,7 @@
                               </form>
                         </div>
                       </div>
-                      <div id="tabs1-css"  class="tabContent">
+                      <div id="cstmReview-html"  class="tabContent">
                            <div class="prd-reviews">
                                 <header>
                                     <h4> 

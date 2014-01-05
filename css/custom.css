@@ -334,6 +334,7 @@ Header CSS
 	margin: 8px 10px 0px;
 }
 #header .menu li.main a{
+	 font-family: 'helvetica_lt_stdbold';
 	color: #ddd;
 	font-size: 15px;
 	text-shadow: 0 1px 1px rgba(0,0,0,0.65);
@@ -358,7 +359,7 @@ Header CSS
 #header .menu li.main{
 	float:left;
 	position:relative;/* ie needs position:relative here*/
-	margin: 6px 50px 0px 0;	 
+	margin: 6px 45px 0px 0;	 
 }
 #header .menu li.main.sell{
 	margin-right:0;

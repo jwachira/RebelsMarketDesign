@@ -31,15 +31,8 @@
                         <li><a href="#">Leggings</a></li>
                         <li><a href="#">Consumables</a></li>
                         <li><a href="#">Jackets &amp; Coats</a></li>
-                        <li><a href="#">Jewelry</a></li>
-                        <li><a href="#">Panties</a></li>
-                        <li><a href="#">Bar &amp; Glasssware</a></li>
-                        <li><a href="#">Tees</a></li>
-                        <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                        <li><a href="#">Leggings</a></li>
                     </ul>
                 </div>
-                <div class="more-trigger new-trigger">View more</div>
                 <h1 class="borderNone">Customer Testimonials</h1>
                 <div class="cart_lft">
                   
@@ -93,69 +86,23 @@
 
               </div>
 
-              <h1>Trending right now</h1>
-                <div class="verticle-menu trending">
-                  <ul>
-                      <li><a href="#">Undies/Thongs/panties</a></li>
-                      <li><a href="#">Consumables</a></li>
-                      <li><a href="#">Keychains</a></li>
-                      <li><a href="#">Necklaces</a></li>
-                      <li><a href="#">Bar &amp; Glasssware</a></li>
-                      <li><a href="#">Tees</a></li>
-                      <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                      <li><a href="#">Leggings</a></li>
-                      <li><a href="#">Consumables</a></li>
-                      <li><a href="#">Jackets &amp; Coats</a></li>
-                      <li><a href="#">Jewelry</a></li>
-                      <li><a href="#">Panties</a></li>
-                      <li><a href="#">Bar &amp; Glasssware</a></li>
-                      <li><a href="#">Tees</a></li>
-                      <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                      <li><a href="#">Leggings</a></li>
-                  </ul>
+              <h1>Get Special Offers</h1>
+                <div class="verticle-menu">
+                    <span class="closebox"></span>                 
+                    <p>Enter your address to receive special offers and promotion from rebels market.</p>
+                    <form>
+                        <input type="text" class="form-control" placeholder="Email address">
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" value=""> 
+                                by checking this box i certify that as of today i am at least 18 years of age
+                              </label>        
+                            </div>
+                       <button type="submit" class="flat-button">SIGN UP</button>
+                    </form>
+                    
                 </div>
-                <div class="more-trigger trend_btn">View more</div>
-
-                <h1>Top ranked items</h1>
-                <div class="verticle-menu ranked">
-                  <ul>
-                      <li><a href="#">Undies/Thongs/panties</a></li>
-                      <li><a href="#">Consumables</a></li>
-                      <li><a href="#">Keychains</a></li>
-                      <li><a href="#">Necklaces</a></li>
-                      <li><a href="#">Bar &amp; Glasssware</a></li>
-                      <li><a href="#">Tees</a></li>
-                      <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                      <li><a href="#">Leggings</a></li>
-                      <li><a href="#">Consumables</a></li>
-                      <li><a href="#">Jackets &amp; Coats</a></li>
-                      <li><a href="#">Jewelry</a></li>
-                      <li><a href="#">Panties</a></li>
-                      <li><a href="#">Bar &amp; Glasssware</a></li>
-                      <li><a href="#">Tees</a></li>
-                      <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                      <li><a href="#">Leggings</a></li>
-                  </ul>
-                </div>
-                <div class="more-trigger rank_btn">View more</div>
-
-                <h1>Explore sellers by country</h1>
-                <div class="verticle-menu cntry">
-                  <ul>
-                      <li><a href="#">UK</a></li>
-                      <li><a href="#">USA</a></li>
-                      <li><a href="#">France</a></li>
-                      <li><a href="#">Canada</a></li>
-                      <li><a href="#">Australia</a></li>
-                      <li><a href="#">Germany</a></li>
-                      <li><a href="#">UK</a></li>
-                      <li><a href="#">USA</a></li>
-                      <li><a href="#">Somalia</a></li>
-                      <li><a href="#">Canada</a></li>
-                      <li><a href="#">Germany</a></li>
-                  </ul>
-                </div>
-                <div class="more-trigger cntry_btn">View more</div>
+ 
 
              </aside>
 
@@ -318,9 +265,9 @@
                 <section class="feature-shop clearfix">
                      <div class="shop-block shop-left">
                           <section class="shop-data clearfix">
-                              <img src="img/home_shop.jpg">
+                              <a href=""><img src="img/home_shop.jpg"></a>
                               <div class="shop_txt">
-                                  <h2>Sullent Art</h2>
+                                  <h2><a href="">Sullent Art</a></h2>
                                   <p>
                                       Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
                                   </p>
@@ -346,9 +293,9 @@
 
                      <div class="shop-block shop-right">
                           <section class="shop-data clearfix">
-                              <img src="img/home_shop2.jpg">
+                              <a href=""><img src="img/home_shop2.jpg"></a>
                               <div class="shop_txt">
-                                  <h2>Pop Murder</h2>
+                                  <h2><a href="">Pop Murder</a></h2>
                                   <p>
                                       Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
                                   </p>
