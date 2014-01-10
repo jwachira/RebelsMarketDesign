@@ -1,4 +1,4 @@
-  <?php include('home-header.php'); ?>
+  <?php include('header.php'); ?>
     <div id="content">
 
       	<div class="container headerMarginTop">
@@ -452,4 +452,4 @@
        
 		</div><!--End .container-->
     </div> <!--End # container-->
- <?php include('footer.php'); ?>
+ <?php include('home-footer.php'); ?>

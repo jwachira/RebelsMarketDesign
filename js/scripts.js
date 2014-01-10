@@ -1,15 +1,15 @@
 $(window).load(function() {
-	 // $('#zoom_01').elevateZoom({
-		//  //    zoomType: "inner",
-		//  //    scrollZoom : true,
-		//  //    easing : true,
-		// 	// cursor: "",
-		// 	zoomType: "lens",
- 	// 		 lensShape : "round",
-  // 			lensSize    : 200,
-		// 	zoomWindowFadeIn: 500,
-		// 	zoomWindowFadeOut: 750
-  //  }); 
+	 
+	$('.menu-icon').click(function(){
+		$('.mobile-nav').toggleClass('show-it');
+		$('.visible-content').toggleClass('pad-it');
+		$(this).toggleClass('active');	
+	});//mobile menu ends
+
+	$('.search-trigger').click(function(){
+		$('.faux-header').toggleClass('show-it');
+		$(this).toggleClass('active');
+	});//mobile search ends
 
 	$('#form-trigger').click(function(){
 		$('#contact-seller').slideToggle();

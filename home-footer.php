@@ -1,151 +1,124 @@
-
-    <div id="pre-footer">
-
-      <div class="container">
-
-        <a href="#" class="goup"></a>
-
-      	<div class="row">
-
-        <div class="col-md-6 home-first">
-
-          <p class="title">ABOUT REBELSMARKET</p>
+    <!--Footer section starts-->
+    <div id="top_footer_wrapper">
+  <div class="container padding_20" id="top_footer">
+      <div class="footer_columns about-footer">
+           <p class="txt_13 txt_bold">ABOUT REBELSMARKET</p>
 
           <img src="img/ftrabout.png" alt="pic" class="ftraboutimg">
 
-          <p class="excerpt">A leading fixture in the society of praised rebellion, 
+          <p class="excerpt">
+            A leading fixture in the society of praised rebellion, 
+                RebelsMarket is an active subversion of the fashion industry's "norm", We want our cult members to 
+                experiment with their individual style and encourage 
+                them to let their freak flags fly. <br>
+                <a href="#">Read more ..</a>
+          </p>
+        </div><!-- #footer_columns ends -->
+       
+      <div class="footer_columns">
+          <ul class="top_footer_menu">
+              <li><p class="txt_13 txt_bold">CUSTOMER SERVICE</p></li>
+              <li><a href="Order_tracking.html">Order Tracking</a></li>
+              <li><a href="Shipping_delivery.html">Shipping &amp; Delivery</a></li>
+              <li><a href="Returns.html">Returns</a></li>
+              <li><a href="Contact_us.html">Contact Us</a></li>
+            </ul>
+        </div><!-- #footer_columns ends -->
+      <div class="footer_columns">
+          <ul class="top_footer_menu">
+              <li><p class="txt_13 txt_bold">JOIN US</p></li>
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="#">Youtube</a></li>
+              <li><a href="#">Google+</a></li>
+              <li><a href="#">Tumblr</a></li>
+            </ul>
+        </div><!-- #footer_columns ends -->
+      <div class="footer_columns">
+          <ul class="top_footer_menu">
+              <li><p class="txt_13 txt_bold">MOBILE</p></li>
+              <li><a href="#">RM iPhone App</a></li>
+              <li><a href="#">RM Android App</a></li>
+            </ul>
+        </div><!-- #footer_columns ends -->
+    </div>
+</div>
 
-RebelsMarket is an active subversion of the fashion industry's "norm", We want our cult members to 
+<div id="middle_footer_wrapper">
+  <div class="container padding_20" id="middle_footer">
+      <p class="float_left">&copy; 2013 RebelsMarket. All Rights Reserved.</p>
+        <ul class="float_right" id="footer_menu">
+          <li><a href="About_Us.html">About Us</a></li>
+            <li><a href="Terms_of_Service.html">Terms of Service</a></li>
+            <li><a href="Sitemap.html">Sitemap</a></li>
+            <li><a href="Contact_Us.html">Contact Us</a></li>
+            <li><a href="Help.html">Help</a></li>
+            <li><a href="Announcements.html">Announcements</a></li>
+            <li><a href="Blog.html">Blog</a></li>
+            <li id="footer_sell_link"><a href="Sell.html">Sell</a></li>
+        </ul>
+    </div>
+</div>
 
-experiment with their individual style and encourage 
+<div id="bottom_footer_wrapper">
+  <div class="container paddingTB_10 paddingRL_20" id="bottom_footer">
+      <ul class="float_right" id="footer_icons">
+          <li><img src="img/comodo.png" width="83" height="59" alt="comodo-icon"></li>
+            <li><img class="small_footer_icn" src="img/security_icon.png" width="97" height="36" alt="security icon"></li>
+            <li><img class="small_footer_icn" src="img/mastercard_icon.png" width="40" height="25" alt="mastercard icon"></li>
+            <li><img class="small_footer_icn" src="img/maestro_icon.png" width="40" height="26" alt="maestro icon"></li>
+            <li><img class="small_footer_icn" src="img/visa-icon.png" width="40" height="26" alt="visa icon"></li>
+            <li><img class="small_footer_icn" src="img/paypal_icon.png" width="40" height="26" alt="paypal icon"></li>
+            <li><img class="small_footer_icn" src="img/american_empress_icon.png" width="25" height="26" alt="american express icon"></li>
+        </ul>
+    </div>
+</div>
 
-them to let their freak flags fly. <a href="#">Read more ..</a></p>
-
-        </div><!-- end of .col-md-3 -->
-
-        <div class="col-md-2 home-second">
-
-          <p class="title">CUSTOMER SERVICE</p>
-
-          <ul>
-
-            <li><a href="#">Order Tracking</a></li>
-
-            <li><a href="#">Shipping & Delivery</a></li>
-
-            <li><a href="#">Returns</a></li>
-
-            <li><a href="#">Contact Us</a></li>
-
-          </ul><!-- end of ul -->
-
-        </div><!-- end of .col-md-2 -->
-
-        <div class="col-md-2 home-third">
-
-          <p class="title">JOIN US</p>
-
-          <ul>
-
-            <li><a href="#">Facebook</a></li>
-
-            <li><a href="#">Twitter</a></li>
-
-            <li><a href="#">YouTube</a></li>
-
-            <li><a href="#">Google+</a></li>
-
-            <li><a href="#">Tumblr</a></li>
-
-          </ul><!-- end of ul -->
-
-        </div><!-- end of .col-md-2 -->
-
-        <div class="col-md-2 home-four">
-
-          <p class="title">MOBILE</p>
-
-          <ul>
-
-            <li><a href="#">RM iPhone App</a></li>
-
-            <li><a href="#">RM Android App</a></li>
-
-          </ul><!-- end of ul -->
-
-        </div><!-- end of .col-md-2 -->
-
-  </div>
-
-      </div><!-- end of .container -->
-
-    </div><!-- end of #pre-footer -->
-
-
-
-    <div id="footer">
-
-      <div class="container section-one">
-
-        <div class="row">
-
-          
-
-          <div class="col-md-12">
-
-            <p class="pull-right home-copyright">Copyright &copy; 2009 -2013 Rebels market Inc. All Rights Reserved. User Agreement and Privacy Policy.</p>
-
-
-
-          </div><!-- end of column 8-->
-
-        </div><!-- end of .row -->
-
-      </div><!-- end of .container -->
-
-    </div><!-- end of #footer -->
-
+</section>
 
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 
     <script src="js/jquery.js"></script>
-
+    <script src="js/modernizr-2.6.2.min.js" type="text/javascript"></script>  
     <script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
     <script src="js/bootstrap.min.js"></script>
-
     <script src="js/twitter-bootstrap-hover-dropdown.min.js"></script>
-
+    <script src="js/packery.pkgd.min.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="js/organictabs.jquery.js"></script>
+    <script src="js/jquery.hashchange.min.js" type="text/javascript"></script>
+  <script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
+    <script src="js/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
     <script src="js/scripts.js"></script>
+    
 
   </body>
 
 </html>
+
 <div id="floatingbox">
 
-	<span class="closebox"></span>
+  <span class="closebox"></span>
 
-	<h5>GET SPECIAL OFFERS FROM REBELS MARKET</h5>
+  <h5>GET SPECIAL OFFERS FROM REBELS MARKET</h5>
 
-	<p>Enter your address to receive special offers and promotion from rebels market.</p>
+  <p>Enter your address to receive special offers and promotion from rebels market.</p>
 
-	<input type="text" class="form-control" placeholder="Email address">
+  <input type="text" class="form-control" placeholder="Email address">
 
-	<div class="checkbox">
+  <div class="checkbox">
 
-	  <label>
+    <label>
 
-	    <input type="checkbox" value="">
+      <input type="checkbox" value="">
 
-	    by checking this box i certify that as of today i am at least 18 years of age
+      by checking this box i certify that as of today i am at least 18 years of age
 
-	  </label>
+    </label>
 
-	</div>
+  </div>
 
-	<button type="button">SIGN UP</button>
+  <button type="button">SIGN UP</button>
 
 </div>
