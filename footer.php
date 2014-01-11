@@ -1,6 +1,6 @@
     <!--Footer section starts-->
     <div id="top_footer_wrapper">
-	<div class="container padding_20" id="top_footer">
+	<div class="container padding_20 inside-footer" id="top_footer">
     	<div class="footer_columns">
         	<ul class="top_footer_menu">
             	<li><p class="txt_13 txt_bold">ABOUT US</p></li>
