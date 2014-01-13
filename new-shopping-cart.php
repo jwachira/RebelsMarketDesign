@@ -1,23 +1,10 @@
-<!--mobile header ends here-->
   <?php include('cart_header.php'); ?>
    
 
 <div id="content">
 
   <div class="container shopingSpacing">
-  		  <div id="top_nav">
-		<ul id="purchase_steps">
-        	<li id="current"><a class="Shopping_Cart" href="Shopping_Cart.html"><span>1</span>Shopping Cart</a></li>
-        	<li><a class="Payment_Method" href="Payment_Method.html"><span>2</span>Payment Method</a></li>
-        	<li><a class="Place_Order" href="Place_Order.html"><span>3</span>Place Order</a></li>
-        </ul><!-- purchase steps ends -->
-    	<div id="product_list_wrapper">
-            <div class="lock">
-                <h2>Secure Payments</h2>
-                <p>This is a secure 128 bit SSL encrypted payment </p>
-            </div>  
-        </div><!-- product list wrapper ends -->
-    </div>
+  		  
           <section id="cartSection" class="cartSection clearfix">
               <div class="cart_right">
                   <h1 class="cart_title">Order from <a href="#">Lorem Ipsum</a></h1>
@@ -166,7 +153,9 @@
                             <div class="checkMain">
                               <input type="submit" value="Checkout" class="checkOut">
                             </div>
-                            <img src="img/paypalNote.png" alt="">
+                            <div class="pesapal-annotation">
+                                 <img src="img/paypalNote.png" alt="">
+                            </div>
                             <p>
                               We process our payments with paypal. <br>
         You do not need a Paypal account <br>
