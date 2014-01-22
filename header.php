@@ -4,7 +4,7 @@
 
   <head>
 
-    <title>Rebels Market</title>
+    <title>Rebels Market ::..</title>
 
     <meta name="description" content="">
     <meta name="HandheldFriendly" content="True">

@@ -79,7 +79,7 @@ button, select, input, textarea{
 }
 h2{
 	font-size: 22px;
-	line-height: 22px;
+	line-height: 30px;
 	color: #737373;
 	font-weight: normal;
 	font-family: 'Helvetica Neue','Segoe UI',Arial;
@@ -87,7 +87,7 @@ h2{
 }
 h3{
 	font-size: 20px;
-	line-height: 20px;
+	line-height: 28px;
 	color: #737373;
 }
 a{

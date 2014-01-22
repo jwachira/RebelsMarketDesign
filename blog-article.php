@@ -69,67 +69,70 @@
                 		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
                 	<br> <br>
                 	</p>
-                	<h2>Available <a href="">Mascara</a> sold at RebelsMarket</h2>
-                	<div class="blogslide-pane">
-
-                		<ul class="bxslider blog-article-slider">
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-1.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-2.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-3.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-4.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-5.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-6.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-3.jpg" />
-                              </li>
-                            </a>
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-1.jpg" />
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <img src="img/mascara-4.jpg" />
-                              </li>
-                            </a>
-                             
-                             
-                      </ul>
-
-                   	</div>
+                    <section class="intext-slider">
+                        <h2>Available <a href="">Mascara</a> sold at RebelsMarket</h2>
+                        <div class="blogslide-pane">
+    
+                            <ul class="bxslider blog-article-slider">
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-1.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-2.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-3.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-4.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-5.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-6.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-3.jpg" />
+                                  </li>
+                                </a>
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-1.jpg" />
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <img src="img/mascara-4.jpg" />
+                                  </li>
+                                </a>
+                                 
+                                 
+                          </ul>
+    
+                        </div>
+                    </section>
+                	
                 	<p>
                 		When I put mascara on, I feel prettier. I do not feel pretty when I put on a crap brand and the formula clumps and suddenly I look like I mixed sand with black ink and called it a day, but when I use my favorite brand or one of its lovely sisters-that-are-also-competitors (like Venus and Serena!) I become a changed woman.
                 		<br><br>My confidence grows. My smizing ability goes up ten fold and I feel like I own the world with the bat of my lash. 
@@ -158,85 +161,89 @@ Don't let the haters get you down. They probably just haven't found their brand 
 	                        <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
 	                </div>
                 	
-                	<h2>Articles that you may like </h2>
-                	<div class="may-also-like">
-
-                		<ul class="bxslider blog-alsolike-slider">
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Crooks and Castles Hits PLNDR</h4>
-                                	<span>1 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Nike Kobe 8 System "Pit Viper 2"</h4>
-                                	<span>12 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Carhartt WIP 2014 Summer Lookbook</h4>
-                                	<span>1 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Crooks and Castles Hits PLNDR</h4>
-                                	<span>4 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Nike Kobe 8 System "Pit Viper 2"</h4>
-                                	<span>2 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-
-                            <a href="">
-                              <li>
-                                <div class="article-img">
-                                	<img src="img/mascara-1.jpg" />
-                                </div>
-                                <div class="article-h1">
-                                	<h4>Carhartt WIP 2014 Summer Lookbook</h4>
-                                	<span>6 day ago</span>
-                                </div>
-                              </li>
-                            </a>
-     
-                      </ul>
-
-                   	</div>
+                    <section class="may-like intext-slider">
+                        <h2>Articles that you may like </h2>
+                        <div class="may-also-like">
+    
+                            <ul class="bxslider blog-alsolike-slider">
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Crooks and Castles Hits PLNDR</h4>
+                                        <span>1 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Nike Kobe 8 System "Pit Viper 2"</h4>
+                                        <span>12 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Carhartt WIP 2014 Summer Lookbook</h4>
+                                        <span>1 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Crooks and Castles Hits PLNDR</h4>
+                                        <span>4 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Nike Kobe 8 System "Pit Viper 2"</h4>
+                                        <span>2 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+    
+                                <a href="">
+                                  <li>
+                                    <div class="article-img">
+                                        <img src="img/mascara-1.jpg" />
+                                    </div>
+                                    <div class="article-h1">
+                                        <h4>Carhartt WIP 2014 Summer Lookbook</h4>
+                                        <span>6 day ago</span>
+                                    </div>
+                                  </li>
+                                </a>
+         
+                          </ul>
+    
+                        </div>
+                    </section>
+                	
+                    
 
                    	<div class="page-pagination clearfix">
                       <a href="" class="prevBtn disabled">Previous</a>

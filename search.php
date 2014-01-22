@@ -112,15 +112,14 @@
             <section class="mainContent clearfix">
                 <div class="filterMain clearfix">
                   <h2><strong>"Tees" </strong> We found 8,745 items</h2>
-                    <select name="">
+                 <form action="" method="get">
+                    <select name="" class="currency-convert">
                           <option>Convert to USD</option>
                             <option>Convert to EUROS</option>
                             <option>Convert to KES</option>
                             <option>Convert to RWF</option> 
                         </select>
-                    </form>
 
-                    <form action="" method="get">
                       <select name="">
                           <option>Sort by Relevancy</option>
                             <option>Category</option>
@@ -132,7 +131,6 @@
                 </div>
                 
                <div class="searchFilter clearfix">
-               		<form action="" method="get">
                     	<div class="magnifyIcon">Your selection:</div>
                         <div class="tagsMain">
                         	<div class="tag_term">Goth</div>
@@ -141,7 +139,6 @@
                             <div class="tag_term">New Arrival</div>
                         </div>
                         <div class="clear_all" id="clearAll">Clear all</div>
-                    </form>
                </div>
                 
             <div class="popularNow">

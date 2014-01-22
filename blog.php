@@ -34,7 +34,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">+</div>
+                                <a class="comment-count" href="#">+</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
@@ -55,7 +55,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">23</div>
+                                <a class="comment-count" href="#">23</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
@@ -76,7 +76,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">5</div>
+                                <a class="comment-count" href="#">5</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
@@ -146,7 +146,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">81</div>
+                                <a class="comment-count" href="#">81</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
@@ -167,7 +167,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">12</div>
+                                <a class="comment-count" href="#">12</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
@@ -188,7 +188,7 @@
                                 <span>BY <a href="">John Doe</a></span>
                                 <span>Dec 19 2013</span>
                                 <span>Punk Rock</span>
-                                <div class="comment-count">126</div>
+                                <a class="comment-count" href="#">126</a>
                             </div>
                             <p>
                                 Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
