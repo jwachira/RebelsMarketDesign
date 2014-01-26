@@ -92,6 +92,8 @@
     </section>
       
 </div>
+
+
 <!-- Mobile header ends -->
  
 <div class="fixedHeader">
