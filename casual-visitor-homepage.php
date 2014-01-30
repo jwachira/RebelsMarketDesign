@@ -18,7 +18,7 @@
 
           <section class="content-main clearfix">
              <aside class="side-bar">
-                <h1>What's New</h1>
+                <h4>What's New</h4>
                 <div class="verticle-menu new-items">
                     <ul>
                         <li><a href="#">Undies/Thongs/panties</a></li>
@@ -33,7 +33,7 @@
                         <li><a href="#">Jackets &amp; Coats</a></li>
                     </ul>
                 </div>
-                <h1 class="borderNone">Customer Testimonials</h1>
+                <h4>Customer Testimonials</h4>
                 <div class="cart_lft">
                   
                   <div class="cartReview clearfix">
@@ -86,7 +86,7 @@
 
               </div>
 
-              <h1>Get Special Offers</h1>
+              <h4>Get Special Offers</h4>
                 <div class="verticle-menu">
                     <span class="closebox"></span>                 
                     <p>Enter your address to receive special offers and promotion from rebels market.</p>
@@ -107,7 +107,7 @@
              </aside>
 
              <aticle class="content-panel">
-                <h1>WOMAN</h1>
+                <h2>WOMAN</h2>
                 <section class="home-prdct womenPrdct clearfix">
                     <a href="">
                         <div class="single-prd w2">
@@ -173,7 +173,7 @@
                     </a>
                 </section>  
 
-                <h1>MAN</h1>
+                <h2>MAN</h2>
                 <section class="home-prdct menPrdct clearfix">
                     <a href="">
                         <div class="single-prd w2">
@@ -227,7 +227,7 @@
                      
                 </section>
 
-                <h1>More Categories to Shop <a href="">See more</a> </h1>
+                <h2>More Categories to Shop <a href="">See more</a> </h2>
                 <section class="more-categories clearfix">
                     <a href="">
                         <div class="single-prd">
@@ -261,20 +261,20 @@
                     </a>
                 </section>
 
-                <h1>Featured Shops<a href="">See more</a> </h1>
+                <h2>Featured Shops<a href="">See more</a> </h2>
                 <section class="feature-shop clearfix">
                      <div class="shop-block shop-left">
                           <section class="shop-data clearfix">
                               <a href=""><img src="img/home_shop.jpg"></a>
                               <div class="shop_txt">
-                                  <h2><a href="">Sullent Art</a></h2>
+                                  <h5><a href="">Sullent Art</a></h5>
                                   <p>
                                       Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
                                   </p>
                                   <a href="">Read the interview</a>
                               </div>
                           </section>
-                          <h1>Mava style items<a href="">See more</a> </h1>
+                          <h2>Mava style items<a href="">See more</a> </h2>
                           <section class="clearfix">
                               <a class="shop-prdct" href="">
                                    <img src="img/display-tshirt5.jpg">
@@ -295,14 +295,14 @@
                           <section class="shop-data clearfix">
                               <a href=""><img src="img/home_shop2.jpg"></a>
                               <div class="shop_txt">
-                                  <h2><a href="">Pop Murder</a></h2>
+                                  <h5><a href="">Pop Murder</a></h5>
                                   <p>
                                       Founded in Huntington Beach, California, the Sullen Art Collective is an Art-Driven Lifestyle Apparel brand that integrates like minded sub cultures...
                                   </p>
                                   <a href="">Read the interview</a>
                               </div>
                           </section>
-                          <h1>Mava style items<a href="">See more</a> </h1>
+                          <h2>Mava style items<a href="">See more</a> </h2>
                           <section class="clearfix">
                               <a class="shop-prdct" href="">
                                    <img src="img/display-tshirt5.jpg">
@@ -321,7 +321,7 @@
                 </section>
                 <section class="home-prodcut-slider clearfix">
                     <div class="slider-pane">
-                        <h1>Browse by style<a href="">See more</a> </h1>
+                        <h2>Browse by style<a href="">See more</a> </h2>
                         <ul class="bxslider home-shop-slider">
                             <a href="">
                               <li>
@@ -411,7 +411,7 @@
                       </ul>
                     </div>
                     <div class="featured-brands clearfix">
-                        <h1>Featured Brands <a href="">See more</a> </h1>
+                        <h2>Featured Brands <a href="">See more</a> </h2>
                         <a class="shop-prdct" href="">
                            <img src="img/home_shop.jpg">
                         </a>
@@ -423,7 +423,7 @@
                 </section>
 
                 <section class="home-popular-search">
-                  <h1>Popular search terms </h1> 
+                  <h2>Popular search terms </h2> 
 
                   <a href="#" class="search-term">#dresses</a>
 

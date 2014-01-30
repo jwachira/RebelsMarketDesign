@@ -253,7 +253,7 @@
                     </div>
              </section> 
              <section class="blog-rght">
-                    <h1>Subscribe</h1>
+                    <h3>Subscribe</h3>
                     <p>Sign up to get regular updates from RebelsMarket</p>
                     <div class="subscribe clearfix">
                         <form>
@@ -262,7 +262,7 @@
                         </form>
                     </div>
 
-                    <h1>Connect</h1>
+                    <h3>Connect</h3>
                     <div class="social-likes">
                             <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
                             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -283,7 +283,7 @@
                             <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
                     </div>
 
-                    <h1>Write for Us</h1>
+                    <h3>Write for Us</h3>
                     <p>Share your story with over 4 million readers</p>
                     <button class="flat-button blog-form-trigger"><strong>Get Started Now</strong></button>
                     <div class="write-for-us">
@@ -322,7 +322,7 @@
                                                     <img src="img/popular-single-1.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>The Chanel Hoedown</h4>
+                                                    <h2>The Chanel Hoedown</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -335,7 +335,7 @@
                                                     <img src="img/popular-single-2.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>PUMA MMQ Leather Stepper..</h4>
+                                                    <h2>PUMA MMQ Leather Stepper..</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -348,7 +348,7 @@
                                                     <img src="img/popular-single-3.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>The Simpsons Limited-Edition...</h4>
+                                                    <h2>The Simpsons Limited-Edition...</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -361,7 +361,7 @@
                                                     <img src="img/popular-single-4.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Crooks and Castles Hits PLNDR</h4>
+                                                    <h2>Crooks and Castles Hits PLNDR</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -374,7 +374,7 @@
                                                     <img src="img/popular-single-5.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Jordan Brand Pack</h4>
+                                                    <h2>Jordan Brand Pack</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -387,7 +387,7 @@
                                                     <img src="img/popular-single-6.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Yeezus Pop-Up Shop in Chicago</h4>
+                                                    <h2>Yeezus Pop-Up Shop in Chicago</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -400,7 +400,7 @@
                                                     <img src="img/popular-single-7.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Del Toro Red Suede Biker..</h4>
+                                                    <h2>Del Toro Red Suede Biker..</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -413,7 +413,7 @@
                                                     <img src="img/popular-single-8.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>BELIEF 2013 Holiday Lookbook</h4>
+                                                    <h2>BELIEF 2013 Holiday Lookbook</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -430,7 +430,7 @@
                                                     <img src="img/popular-single-1.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>The Chanel Hoedown</h4>
+                                                    <h2>The Chanel Hoedown</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -443,7 +443,7 @@
                                                     <img src="img/popular-single-2.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>PUMA MMQ Leather Stepper..</h4>
+                                                    <h2>PUMA MMQ Leather Stepper..</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -456,7 +456,7 @@
                                                     <img src="img/popular-single-3.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>The Simpsons Limited-Edition...</h4>
+                                                    <h2>The Simpsons Limited-Edition...</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -469,7 +469,7 @@
                                                     <img src="img/popular-single-4.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Crooks and Castles Hits PLNDR</h4>
+                                                    <h2>Crooks and Castles Hits PLNDR</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -482,7 +482,7 @@
                                                     <img src="img/popular-single-5.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Jordan Brand Pack</h4>
+                                                    <h2>Jordan Brand Pack</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -495,7 +495,7 @@
                                                     <img src="img/popular-single-6.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Yeezus Pop-Up Shop in Chicago</h4>
+                                                    <h2>Yeezus Pop-Up Shop in Chicago</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -508,7 +508,7 @@
                                                     <img src="img/popular-single-7.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>Del Toro Red Suede Biker..</h4>
+                                                    <h2>Del Toro Red Suede Biker..</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
@@ -521,7 +521,7 @@
                                                     <img src="img/popular-single-8.jpg">
                                                 </figure>
                                                 <div class="poplr-info">
-                                                    <h4>BELIEF 2013 Holiday Lookbook</h4>
+                                                    <h2>BELIEF 2013 Holiday Lookbook</h2>
                                                     <p>Essential to every man's wardrobe..</p>
                                                     <span>1 day ago</span>
                                                 </div>
