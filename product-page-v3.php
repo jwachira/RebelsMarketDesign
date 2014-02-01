@@ -60,7 +60,6 @@
                 </div><!-- panel 1 ends -->
     		 </div> <!-- END List Wrap -->
 		 </div>
-            <div class="clear"></div>
             <h3>Shipping Details</h3>
             <p class="txt_bold txt_italic">Delivery to Belmount, CA takes 15 - 20 Days</p>
             <ul id="shipping_table_wrapper">
@@ -123,10 +122,157 @@
         </div><!-- item info pad ends -->
         <div class="clear"></div>
             <section class="otherInterest">
-              		<h1>Customers Who Bought thus Item Also Bought</h1>
+              		<h1>Customers Who Bought this Item Also Bought</h1>
                     <article class="universalSlider">
-                    		<ul class="bxslider" id="universal">
+                    		<ul class="bxslider" id="slider_two">
                               <li>
+                              		<div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                              </li>
+                              
+                              <li>
+                              
+                             	  <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -225,6 +371,31 @@
                               </li>
                               
                               <li>
+                              
+                              		 <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -323,104 +494,31 @@
                               </li>
                               
                               <li>
-                              		<div class="productBox galry-item">
-               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
-                                        <div class="displayInfo">
-                                          <div class="subDetails clearfix">
-                                            <h2><a href="#">Fashion Universe Star</a></h2>
-                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
-                                            <span class="price">USD $ 48.37</span>
-                                          </div>
-                                          <div class="shareIcons">
-                                            <a href="#" class="heart">92</a>
-                                            <a href="#" class="star">138</a>
-                                            <a href="javascript:void(0)" class="share">24</a>
-                                          </div>
-                                        </div>
-                                        <div class="share-popup">
-                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
-                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
-                                        </div>
-                                        <div class="borderLine"></div>
-            						 </div>
-                                     
-                                     <div class="productBox galry-item">
-               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
-                                        <div class="displayInfo">
-                                          <div class="subDetails clearfix">
-                                            <h2><a href="#">Fashion Universe Star</a></h2>
-                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
-                                            <span class="price">USD $ 48.37</span>
-                                          </div>
-                                          <div class="shareIcons">
-                                            <a href="#" class="heart">92</a>
-                                            <a href="#" class="star">138</a>
-                                            <a href="javascript:void(0)" class="share">24</a>
-                                          </div>
-                                        </div>
-                                        <div class="share-popup">
-                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
-                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
-                                        </div>
-                                        <div class="borderLine"></div>
-            						 </div>
-                                     
-                                     <div class="productBox galry-item">
-               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
-                                        <div class="displayInfo">
-                                          <div class="subDetails clearfix">
-                                            <h2><a href="#">Fashion Universe Star</a></h2>
-                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
-                                            <span class="price">USD $ 48.37</span>
-                                          </div>
-                                          <div class="shareIcons">
-                                            <a href="#" class="heart">92</a>
-                                            <a href="#" class="star">138</a>
-                                            <a href="javascript:void(0)" class="share">24</a>
-                                          </div>
-                                        </div>
-                                        <div class="share-popup">
-                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
-                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
-                                        </div>
-                                        <div class="borderLine"></div>
-            						 </div>
-                                     
-                                     <div class="productBox galry-item">
-               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
-                                        <div class="displayInfo">
-                                          <div class="subDetails clearfix">
-                                            <h2><a href="#">Fashion Universe Star</a></h2>
-                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
-                                            <span class="price">USD $ 48.37</span>
-                                          </div>
-                                          <div class="shareIcons">
-                                            <a href="#" class="heart">92</a>
-                                            <a href="#" class="star">138</a>
-                                            <a href="javascript:void(0)" class="share">24</a>
-                                          </div>
-                                        </div>
-                                        <div class="share-popup">
-                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
-                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
-                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
-                                        </div>
-                                        <div class="borderLine"></div>
-            						 </div>
-                              </li>
                               
-                              <li>
+                            	   <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2>
+                                            <span class="dataBy"><a href="#">by MEAN KIDS </a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">

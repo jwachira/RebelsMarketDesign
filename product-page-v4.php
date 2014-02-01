@@ -1,82 +1,4 @@
 
-  <!--Dialog box starts-->
-  <div class="overlay"></div>
-  <div class="overlayWrap">
-  		<div class="popWrap clearfix">
-            <div class="closeBtn"></div>
-        	<section class="topSection clearfix">
-            	<h1>Save to Collection</h1>
-                <div class="leftInner">
-                	<img src="img/popup_img.jpg" />
-                    <h2><a href="#">Fashion Universe Star</a></h2>
-                    <div>
-                    	<span class="dataBy"><a href="#">by MEAN KIDS </a></span>
-                        <span class="price">USD $ 48.37</span>
-                    </div>
-                </div>
-                <div class="rightInner">
-                	<h4>My Collection</h4>
-                    <div class="greyBox">
-                    	<form action="" method="get">
-                        	<div class="collectionList">
-                            	<div class="smalWrap">
-                                	<input name="" type="checkbox" value="" checked>
-                               		 <label>Wish list</label>
-                                </div>
-                                <div class="smalWrap">
-                                	<input name="" type="checkbox">
-                               		 <label>Lorem Ipsum </label>
-                                </div>
-                                <div class="smalWrap">
-                                	<input name="" type="checkbox">
-                               		 <label>Wish list</label>
-                                </div>
-                                <div class="smalWrap">
-                                	<input name="" type="checkbox">
-                               		 <label>Wish list</label>
-                                </div>
-                                <div class="smalWrap">
-                                	<input name="" type="checkbox">
-                               		 <label>Wish list</label>
-                                </div>
-                            </div>
-                            <div class="submitPart clearfix">
-                            	<input name="" type="text" placeholder="New collection">
-                                <input name="" type="submit" value="ADD">
-                            </div>
-                        </form>
-                    </div>
-                    <div class="shareStuff">
-                        		<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-<div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
-
-<!-- Place this tag where you want the +1 button to render. -->
-<div class="g-plusone" data-size="medium"></div>
-
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-                    </div>
-                </div>
-               
-            </section> 
-          <div class="popupFooter clearfix">
-              	<input name="" type="checkbox" checked>
-            <label>Get notified of price changes</label>
-              <input name="" type="checkbox" checked>
-              <label>Let me know when people want this item</label>
-              <input name="" type="submit" value="SAVE">
-          </div>
-        </div>
-  </div>
-  <!--Dialog box ends-->
   	<?php include('header.php'); ?>
   
     <div id="fb-root"></div>
@@ -112,7 +34,7 @@
                                   <li><img src="img/sliderBanner.jpg" /></li>
                                 </ul>
                         </section>
-                        <section class="infoTabs">
+                        <section class="infoTabs" id="prodTabs">
                         		<div id="tab-container" class="tab-container">
                                   <ul class='etabs'>
                                     <li class='tab'><a href="#tabs1-html">Product image</a></li>
@@ -487,9 +409,56 @@ It has survived not only five centuries, but also the leap into electronic types
                                         </div>
                                         <div class="borderLine"></div>
             						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
                               </li>
                               
                               <li>
+                              
+                            	  <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -584,6 +553,30 @@ It has survived not only five centuries, but also the leap into electronic types
                               </li>
                               
                               <li>
+                              
+                              		<div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -678,6 +671,30 @@ It has survived not only five centuries, but also the leap into electronic types
                               </li>
                               
                               <li>
+                              	
+                            	    <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -874,9 +891,55 @@ It has survived not only five centuries, but also the leap into electronic types
                                         </div>
                                         <div class="borderLine"></div>
             						 </div>
+                                     
+                                     <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
                               </li>
                               
                               <li>
+                              		<div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -971,6 +1034,30 @@ It has survived not only five centuries, but also the leap into electronic types
                               </li>
                               
                               <li>
+                              
+                              		<div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -1065,6 +1152,29 @@ It has survived not only five centuries, but also the leap into electronic types
                               </li>
                               
                               <li>
+                             		 <div class="productBox galry-item">
+               							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
+                                        <div class="displayInfo">
+                                          <div class="subDetails clearfix">
+                                            <h2><a href="#">Fashion Universe Star</a></h2> <span class="dataBy"><a href="#">by MEAN KIDS</a></span>
+                                            <span class="price">USD $ 48.37</span>
+                                          </div>
+                                          <div class="shareIcons">
+                                            <a href="#" class="heart">92</a>
+                                            <a href="#" class="star">138</a>
+                                            <a href="javascript:void(0)" class="share">24</a>
+                                          </div>
+                                        </div>
+                                        <div class="share-popup">
+                                            <a href="#"> <img src="img/facebook-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/twitter-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/gplus-icon.png" alt=""> </a>
+                                            <a href="#"> <img src="img/pintrest.png" alt=""> </a>
+                                            <a href="#"> <img src="img/email-icon.png" alt=""> </a>
+                                        </div>
+                                        <div class="borderLine"></div>
+            						 </div>
+                                     
                               		<div class="productBox galry-item">
                							<a href="#" class="pdctImg"><img src="img/display-tshirt.jpg" alt=""></a>
                                         <div class="displayInfo">
@@ -1165,8 +1275,6 @@ It has survived not only five centuries, but also the leap into electronic types
            			</div>
               </section>
 
-          <div class="clearfix"></div>
- 
         <h3>Cusomer Reviews</h3>
     	<ul id="customer_comment">
         	<li>

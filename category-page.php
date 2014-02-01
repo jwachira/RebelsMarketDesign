@@ -165,7 +165,7 @@ Follow the stuff that exited you.
 
 		</div>
 
-					  <div class="fullWidth textCenter">
+				<div class="fullWidth textCenter sticky">
 				  <a href="#" class="viewAll">View All</a>
 				</div>
 

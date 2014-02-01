@@ -131,8 +131,8 @@ $(window).load(function() {
 
 	 
 
-	 $('#universal,  #otherItems, #otherSeller, #slideCol').bxSlider({
-		 	pager :false,
+	 $('#universal,  #otherItems, #otherSeller, #slideCol, #slider_two').bxSlider({
+		 	pager :false
 		 });
 
 	 	//about page slider

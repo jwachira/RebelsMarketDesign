@@ -206,7 +206,9 @@
         </div>
    </section>
        <!--header one ends-->
-       <section class="cartHeader" id="header">
+</div>
+
+<section class="cartHeader" id="header">
              <div class="container">
                  
                  <div id="top_nav">
@@ -225,5 +227,4 @@
                  
              </div>
        </section>
-</div>
    

@@ -31,86 +31,8 @@ RebelsMarket, we welcome all individuals forging a aunique idientity for themsel
 steampunk, burlesque, fantasy, tattoo or just anything anti-mainstream <br> <br>
                    </p>
 
-                   <article class="abtslider">
-                      <div class="products_carousel">
-
-                          <div id="foo2">
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item1.png" alt="">
-
-                              <p>Gothic</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item2.png" alt="">
-
-                              <p>Steampunk</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item3.png" alt="">
-
-                              <p>Rocker</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item4.png" alt="">
-
-                              <p>Boho</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item2.png" alt="">
-
-                              <p>Boho</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item1.png" alt="">
-
-                              <p>Boho</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item4.png" alt="">
-
-                              <p>Boho</p>
-
-                            </a>
-
-                            <a href="#" class="item">
-
-                              <img src="img/carousel/item3.png" alt="">
-
-                              <p>Boho</p>
-
-                            </a>
-
-                          </div><!-- end of foo2 -->
-
-                          <div class="clearfix"></div>
-
-                          <a class="prev" id="foo2_prev" href="#"></a>
-
-                          <a class="next" id="foo2_next" href="#"></a>
-
-                        </div>
-                   </article>
-					         <h1>Why RebelsMarket</h1>
+                    
+					  <h1>Why RebelsMarket</h1>
                    <p>
                     Ever wanted something to existed so much you decided to make it yourself? We wanted a place to hang that was made just for Fashion Rebels.
 We built RebelsMarket so that we could assemble unique styles and edgy in one easy-to-use marketplace

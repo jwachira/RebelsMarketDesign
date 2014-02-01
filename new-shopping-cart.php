@@ -1,4 +1,4 @@
-  <?php include('cart_header.php'); ?>
+<?php include('cart_header.php'); ?>
    
 
 <div id="content">
