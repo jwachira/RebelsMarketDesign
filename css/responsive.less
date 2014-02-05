@@ -2536,6 +2536,16 @@
 	.wrapper_1 {
 		padding: 0 0 20px;
 	}
+	.popularNow .column .displayInfo .subDetails {
+		padding: 7px;
+		h2{
+			font-weight: normal;
+			margin-bottom: 10px;
+		}
+		.price{
+			float: left;
+		}
+	}
 	.mainContent {
 		width: 100%;
 		.filterMain{
@@ -2545,12 +2555,19 @@
 			}
 			select{
 				float: left;
-				margin: 0 20px 10px 0;
+				margin: 0 0 10px;
+				width: 100%;
+			}
+			.currency-convert{
+				margin-top: 20px;
 			}
 		}
 		.column-3 {
-			width: 100%;
-			margin:0 0 20px;
+			width: 45%;
+			margin: 0 5px 20px;
+			.dicText, .shareIcons, .share-popup, .dataBy{
+				display: none;
+			}
 			.pdctImg img{
 				max-width: 100%;
 				max-height: 100%;
@@ -2729,10 +2746,12 @@
 		width: 100%;
 		margin-bottom: 20px;
 		float: left;
+		border: #dedede solid 1px;
+		.rounded (@radius:5px 5px 0 0px);
 	}
 	.infoTabs .tab{
 		margin-right: 0;
-		width: 33%;
+		width: 33.3%;
 		float: left;
 	}
 	.more-abt-prdct .prdct-tabs .infoTabs .tab a {
@@ -2817,16 +2836,32 @@
 	}
 	.ship-to-bar p{
 		float: none;
-		margin: 0px 0 0;
+		margin: 5px 0 0;
+	}
+	.pricing .add-wishlist{
+		margin-top: 20px;
 	}
 	.title-block {
 		.side-title {
 			width: 100%;
+			border: none;
 		}
 		.fav-block {
 			float: left;
 			width: 100%;
 		}
+	}
+	.other-imgs img{
+		border: #F2EEEE solid 1px;
+		float: left;
+		margin: 0 5px 20px;
+		width: 45%;
+		height: auto;
+	}
+	.img-box {
+		width: 45%;
+		height: auto;
+		margin: 0px 5px;
 	}
 	.ship-count{
 		.img-half {
@@ -2839,7 +2874,7 @@
 		}
 	}
 	.ship-to-bar a strong{
-		float: right;
+		float: left;
 	}
 	.breadcrumb-section .bread-crumb{
 		width: 100%;
@@ -2871,7 +2906,7 @@
 		display: none;
 	}
 	.teaser-banner{
-		background-repeat: repeat;
+		display: none;
 		.discBox {
 			width: 100%;
 			padding: 10px 20px;
