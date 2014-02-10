@@ -954,6 +954,7 @@ color:#e35858;
 		color: #454545;
 		font-size: 14px;
 		margin:0;
+		line-height: 20px;
 	}
 	float: left;
 	width: 78%;
@@ -1037,14 +1038,16 @@ color:#e35858;
 		}
 		select{
 			width: 100%;
-			margin-bottom: 10px;
+			margin: 0 0 15px;
 		}
 		h3{
 			color: @red;
 			font-size: 14px;
 			margin-top: 6px;
+			padding: 0;
+			line-height: 20px;
 		}
-		.datagrid{margin: 10px 0;}
+		.datagrid{margin: 0px 0 20px;}
 		.datagrid table { border-collapse: collapse; text-align: left; width: 100%; } 
 		.datagrid {background: #fff; overflow: hidden; border:#b2b2b2 dotted 1px; }
 		.datagrid table td, .datagrid table th { padding: 5px 10px; }
@@ -2587,7 +2590,7 @@ text-align: center;}
 .similar_item{padding:5px 0 0 5px}
 .similar_item a{width:45px; height:45px; float:left; margin-right:5px; margin-bottom:5px}
 .similar_item img{width:100%}
-#product_name{color:#000; font-size:22px; padding-bottom:20px; font-weight:bold}
+#product_name{color:#000; font-size:22px; padding-bottom:10px; font-weight:bold}
 #product_addon_wrapper{border-bottom:1px #d4d4d4 dotted; overflow:hidden; height:auto; width:auto; padding-bottom:10px}
 .product_addon{float:left; width:33.3%}
 .product_addon .contentlink,.product_addon .contentlink_2{width:100%; text-align:center}
@@ -2780,13 +2783,14 @@ line-height: 16px;}
 			list-style-type: circle;
 			li{
 				margin: 0;
-				padding: 0 0 10px 10px;
+				padding: 0 0 10px 0px;
 				float: left;
 				width: 100%;
 				h3{
 					margin: 0;
 					padding: 0;
 					font-size: 14px;
+					line-height: 14px;
 					margin-bottom: 5px;
 				}
 				p{
@@ -2843,7 +2847,6 @@ line-height: 16px;}
 			display: block;
 			color: #a3a3a3;
 			padding-bottom: 0px;
-			font-size: 16px;
 			font-weight: normal;
 		}
 		input[type="text"], textarea{
@@ -3547,7 +3550,7 @@ line-height: 16px;}
 		}
 		p{
 			color:#454545;
-			margin-bottom:20px;
+			margin-bottom:10px;
 			a{
 				color: @blue;
 				font-weight: normal;
@@ -5450,6 +5453,7 @@ input[type='submit']:hover{
 				color: #555;
 				text-align: center;
 				padding: 15px;
+				border: none;
 			}
 			img{
 				height: 200px;
@@ -6215,6 +6219,10 @@ input[type='submit']:hover{
 		padding-bottom: 0;
 		margin-bottom: 10px;
 		font-size: 16px;
+	}
+	h2{
+		border:none;
+		padding: 0;
 	}
 	.shop-data{
 		margin-bottom: 15px;
@@ -7668,7 +7676,7 @@ input[type='submit']:hover{
 	position: fixed;
 	top: 62px;
 	width: 100%;
-	z-index: 101;
+	z-index: 99;
 }
 .pesapal-annotation{
 	img{
@@ -7704,3 +7712,13 @@ input[type='submit']:hover{
 	float: left;
 	width: 100%;
 }
+.single-col{
+	width: auto;
+	.col-md-8, .col-md-6, .col-md-4{
+		width: 100%;
+	}
+}
+
+.store-about-title{
+		margin-top: 20px;
+	}

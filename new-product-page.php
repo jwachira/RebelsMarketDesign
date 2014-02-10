@@ -232,10 +232,12 @@
 
                                </div>
 
-                                <h1>Write a comment</h1>
-                                <div class="facebook-comment">
-                                    <div class="fb-comments" data-href="https://www.facebook.com/photo.php?fbid=480071985434611&amp;set=a.197909266984219.39643.197727247002421&amp;type=1&amp;theater" data-width="722" data-numposts="1" data-colorscheme="light"></div>
-                                </div>
+                               <section class="fb-content">
+                                  <h1>Write a comment</h1>
+                                  <div class="facebook-comment">
+                                      <div class="fb-comments" data-href="https://www.facebook.com/photo.php?fbid=480071985434611&amp;set=a.197909266984219.39643.197727247002421&amp;type=1&amp;theater" data-width="722" data-numposts="1" data-colorscheme="light"></div>
+                                  </div>
+                               </section>
                                   
               
                          </div>
