@@ -1,7 +1,8 @@
   <?php include('header.php'); ?>
     <div id="content">
-
+      
       	<div class="container headerMarginTop">
+
        		<div class="casualBanner">
          		  <img src="img/home_banner.jpg" alt="">
               <div class="intro">
@@ -15,6 +16,14 @@
                   </div>
               </div>
         	</div>
+
+          <div class="reload-banner clearfix">
+             <div class="banner-title">Expand your unique, artsy &amp; rebellious way of life</div>
+             <div class="btnsMain">
+                 <a href="sign-up.php" class="start_btn">Sign Up</a>
+                 or <a href="">open your own store</a> for free
+              </div>
+          </div>
 
           <section class="content-main clearfix">
              <aside class="side-bar">
