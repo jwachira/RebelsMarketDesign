@@ -202,15 +202,13 @@
 }
 /*Min-width 960px ends*/
 @media screen and (min-width: 750px) and (max-width: 959px) {
-  #content .container {
-    background: orange;
-  }
   .reload-banner {
     background: #a0816f;
+    padding: 10px;
   }
   .reload-banner .banner-title {
     font-size: 22px;
-    margin: 5px 0 20px;
+    margin: 5px 0px;
     text-align: center;
     width: 100%;
   }
@@ -1050,6 +1048,21 @@
   /*#content .container {
 		background: pink;
 	}*/
+  .reload-banner {
+    background: #a0816f;
+    padding: 10px;
+  }
+  .reload-banner .banner-title {
+    font-size: 22px;
+    margin: 5px 0px;
+    text-align: center;
+    width: 100%;
+  }
+  .reload-banner .btnsMain {
+    margin: 7px 0;
+    width: 100%;
+    text-align: center;
+  }
   .overlayWrap {
     position: relative;
     width: 90%;
@@ -1766,6 +1779,28 @@
   /*#content .container{
 		background: blue;
 	}*/
+  .reload-banner {
+    background: #a0816f;
+    padding: 10px;
+  }
+  .reload-banner .banner-title {
+    font-size: 22px;
+    margin: 5px 0px;
+    text-align: center;
+    width: 100%;
+  }
+  .reload-banner .btnsMain {
+    margin: 7px 0;
+    width: 100%;
+    text-align: center;
+  }
+  .reload-banner .btnsMain .start_btn {
+    padding: 10px 5px;
+    font-size: 16px;
+    display: block;
+    max-width: 40%;
+    margin: 0 auto 10px;
+  }
   #middle_footer .float_right {
     float: left;
   }

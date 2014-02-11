@@ -116,14 +116,8 @@
             <section class="review-board clearfix">
                 <ul id="product_addon_wrapper">
                 <li class="product_addon">
-                  <ul class="review_stars_wrapper">
-                      <li class="starred"><a href="#" class="review_star"></a></li>
-                      <li class="starred"><a href="#" class="review_star"></a></li>
-                      <li class="starred"><a href="#" class="review_star"></a></li>
-                      <li class="starred"><a href="#" class="review_star"></a></li>
-                      <li><a href="#" class="review_star"></a></li>
-                    </ul>
-                   </li>
+                    <a href="#" class="stars4 review_stars_wrapper"></a>
+                  </li>
                 </ul>
                 <p>(22 Customer Reviews)</p>
                 <a href="">Write a Review</a>
@@ -295,13 +289,7 @@
                                 <header>
                                     <h4> 
                                     <strong>Overall Rating</strong>
-                                    <ul class="review_stars_wrapper">
-                                        <li class="starred"><a href="#" class="review_star"></a></li>
-                                        <li class="starred"><a href="#" class="review_star"></a></li>
-                                        <li class="starred"><a href="#" class="review_star"></a></li>
-                                        <li class="starred"><a href="#" class="review_star"></a></li>
-                                        <li><a href="#" class="review_star"></a></li>
-                                    </ul>
+                                    <a href="#" class="stars4 review_stars_wrapper"></a>
                                   </h4>
                                   <h1>Based on 10 Reviews</h1>    
                                 </header>
@@ -315,13 +303,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>:)</span>
                                        </div>
                                        
@@ -345,13 +327,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        
@@ -375,13 +351,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                         <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>terrible</span>
                                        </div>
                                        
@@ -405,13 +375,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        
@@ -435,13 +399,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        
@@ -465,13 +423,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        
@@ -495,13 +447,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        
@@ -525,13 +471,7 @@
                                            <h2>$ 122.93</h2>
                                        </div>
                                        <div class="clasic-rv clearfix">
-                                          <ul class="review_stars_wrapper">
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li class="starred"><a href="#" class="review_star"></a></li>
-                                              <li><a href="#" class="review_star"></a></li>
-                                          </ul>
+                                          <a href="#" class="stars4 review_stars_wrapper"></a>
                                           <span>Sizing issue</span>
                                        </div>
                                        

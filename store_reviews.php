@@ -91,13 +91,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -121,13 +115,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -151,13 +139,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -182,13 +164,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                       <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -212,13 +188,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -242,13 +212,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -273,13 +237,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -303,13 +261,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -333,13 +285,7 @@
                 </a>
                 <div class="author_info">
                 	<div class="bd_dt_b block float_left">
-                        <ul class="review_stars_wrapper">
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li class="starred"><a href="#" class="review_star"></a></li>
-                            <li><a href="#" class="review_star"></a></li>
-                        </ul><!-- review star wrapper ends -->
+                        <a href="#" class="stars4 review_stars_wrapper"></a>
                         <span class="float_right">May 31 2013</span>
                     </div>
                     <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>

@@ -71,7 +71,7 @@ and list quality products relevant to a Fashion Rebel.
               </section>
               <article class="staffMain clearfix">
                  <div class="contactDetail">
-                    <img src="img/staff_avatar.jpg" alt="variable user">
+                    <img src="img/staff_avatar.jpg" class="user-avatar">
                     <h1>Cass Malloy</h1>
                     <span><strong>Hails from:</strong> New Mexico, USA</span>
                     <p>
@@ -85,7 +85,7 @@ and list quality products relevant to a Fashion Rebel.
                  </div>
 
                  <div class="contactDetail">
-                    <img src="img/staff_avatar.jpg" alt="variable user">
+                    <img src="img/staff_avatar.jpg" class="user-avatar">
                     <h1>James Wachira</h1>
                     <span><strong>Hails from:</strong> Nairobi, Kenya</span>
                     <p>
@@ -99,7 +99,7 @@ and list quality products relevant to a Fashion Rebel.
                  </div>
 
                  <div class="contactDetail">
-                    <img src="img/staff_avatar.jpg" alt="variable user">
+                   <img src="img/staff_avatar.jpg" class="user-avatar">
                     <h1>Robert Jorgensen</h1>
                     <span><strong>Hails from:</strong> Germany</span>
                     <p>
@@ -113,7 +113,7 @@ and list quality products relevant to a Fashion Rebel.
                  </div>
 
                  <div class="contactDetail">
-                    <img src="img/staff_avatar.jpg" alt="variable user">
+                    <img src="img/staff_avatar.jpg" class="user-avatar">
                     <h1>Jim Jorgensen</h1>
                     <span><strong>Hails from:</strong> Wisconsin,USA</span>
                     <p>

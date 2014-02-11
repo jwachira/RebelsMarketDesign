@@ -4897,6 +4897,7 @@ h6 {
   width: 100px;
   height: 20px;
   float: left;
+  margin-bottom: 5px;
 }
 .review_stars_wrapper li {
   float: left;
@@ -7026,28 +7027,16 @@ h6 {
   position: relative;
   z-index: 1;
   margin-right: 25px;
-}
-.staffMain .contactDetail img {
-  width: 80%;
-  -webkit-border-radius: 100%;
-  -moz-border-radius: 100%;
-  -ms-border-radius: 100%;
-  -o-border-radius: 100%;
-  border-radius: 100%;
+  text-align: center;
   margin-bottom: 20px;
-  -webkit-transition-duration: .8s;
-  -moz-transition-duration: .8s;
-  -o-transition-duration: .8s;
-  transition-duration: .8s;
-  -webkit-transition-property: -webkit-transform;
-  -moz-transition-property: -moz-transform;
-  -o-transition-property: -o-transform;
-  transition-property: transform;
 }
-.staffMain .contactDetail img:hover {
-  -webkit-transform: rotate(-20deg);
-  -moz-transform: rotate(-20deg);
-  -o-transform: rotate(-20deg);
+.staffMain .contactDetail .user-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border: 10px solid #f1f2f7;
+  margin: 20px 0;
 }
 .staffMain .contactDetail h1 {
   margin: 0 0 10px;
@@ -8854,6 +8843,26 @@ p a:hover {
 .prodTitle {
   padding-bottom: 5px;
 }
+.prodTitle h5 {
+  margin: 0px;
+  padding: 0px;
+  color: #16A085;
+  font-weight: bold;
+  font-size: 14px;
+  float: right;
+  line-height: 1.1;
+}
+.prodTitle h4 a {
+  margin: 0px;
+  padding: 0px;
+  color: #4C4C4C;
+  font-weight: bold;
+  font-size: 14px;
+  float: left;
+}
+.prodTitle h4 a:hover {
+  color: #EF3F3B;
+}
 .prodTitle h1 {
   margin: 0;
   padding: 0;
@@ -10599,7 +10608,7 @@ p a:hover {
 }
 .mobile-nav {
   background: #313131;
-  position: absolute;
+  position: fixed;
   width: 232px;
   top: 0;
   left: 0;
@@ -10611,7 +10620,8 @@ p a:hover {
   -o-transition: all 0.2s ease-in;
   -ms-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
-  overflow: visible;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .mobile-nav.show-it {
   margin-left: 0;
@@ -10759,9 +10769,9 @@ p a:hover {
   transition: all 0.2s ease-in;
 }
 .visible-content.pad-it {
-  padding-left: 232px;
+  left: 232px;
   display: block;
-  position: fixed;
+  position: relative;
   overflow: hidden;
 }
 .block-two {
@@ -10897,4 +10907,39 @@ p a:hover {
 .reload-banner .btnsMain .start_btn:hover {
   background: #c42626;
   color: #fff;
+}
+.block_590.border_b .block_188.float_left {
+  width: 70%;
+}
+.stars0 {
+  background: url(../img/stars/star0.gif) no-repeat;
+}
+.stars1 {
+  background: url(../img/stars/star1.gif) no-repeat;
+}
+.stars2 {
+  background: url(../img/stars/star2.gif) no-repeat;
+}
+.stars3 {
+  background: url(../img/stars/star3.gif) no-repeat;
+}
+.stars4 {
+  background: url(../img/stars/star4.gif) no-repeat;
+}
+.stars5 {
+  background: url(../img/stars/star5.gif) no-repeat;
+}
+.info_wrapper .product_pad {
+  height: auto;
+}
+.short p {
+  color: #666;
+  font-size: 13px;
+}
+.short h4 {
+  font-size: 14px;
+  color: #666;
+}
+.clasic-rv span {
+  font-size: 14px;
 }

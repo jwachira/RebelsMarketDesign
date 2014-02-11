@@ -193,13 +193,8 @@ It has survived not only five centuries, but also the leap into electronic types
                         	<h3>Customer Reviews</h3>
 							<ul id="product_addon_wrapper">
                                 <li class="product_addon">
-                                <ul class="review_stars_wrapper">
-                                    <li class="starred"><a href="#" class="review_star"></a></li>
-                                    <li class="starred"><a href="#" class="review_star"></a></li>
-                                    <li class="starred"><a href="#" class="review_star"></a></li>
-                                    <li class="starred"><a href="#" class="review_star"></a></li>
-                                    <li><a href="#" class="review_star"></a></li>
-                                </ul></li>
+                                  <a href="#" class="stars4 review_stars_wrapper"></a>
+                                </li>
                                 <li class="product_addon"><a href="#" class="contentlink txt_11">234 Reviews</a></li>
                                 <li class="product_addon"><a href="#" class="txt_red contentlink_2">Write review</a></li>
                             </ul>
@@ -1278,34 +1273,18 @@ It has survived not only five centuries, but also the leap into electronic types
         <h3>Cusomer Reviews</h3>
     	<ul id="customer_comment">
         	<li>
-                <ul class="review_stars_wrapper">
-                    <li><p>Overall Rating</p></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li><a href="#" class="review_star"></a></li>
-                </ul>
+               <p>Overall Rating</p>
+               <a href="#" class="stars4 review_stars_wrapper"></a>
+                      
             </li>
         	<li>
-                <ul class="review_stars_wrapper">
-                	<li><p>Item description</p></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li><a href="#" class="review_star"></a></li>
-                </ul>
+                 <p>Item description</p>
+                 <a href="#" class="stars4 review_stars_wrapper"></a>
             </li>
         	<li>
-                <ul class="review_stars_wrapper">
-                	<li><p>Shipping and handling charges</p></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li class="starred"><a href="#" class="review_star"></a></li>
-                    <li><a href="#" class="review_star"></a></li>
-                </ul>
+                 <p>Shipping and handling charges</p>
+                 <a href="#" class="stars4 review_stars_wrapper"></a>
+
             </li>
         	
         	<li><a href="store_reviews.html" class="txt_bold txt_italic txt_14">Based on 15 reviews</a></li>
@@ -1327,13 +1306,7 @@ It has survived not only five centuries, but also the leap into electronic types
                     </a>
                     <div class="author_info">
                         <div class="bd_dt_b block float_left">
-                            <ul class="review_stars_wrapper">
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li><a href="#" class="review_star"></a></li>
-                            </ul><!-- review star wrapper ends -->
+                            <a href="#" class="stars4 review_stars_wrapper"></a>
                             <span class="float_right">May 31 2013</span>
                         </div>
                         <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -1357,13 +1330,7 @@ It has survived not only five centuries, but also the leap into electronic types
                     </a>
                     <div class="author_info">
                         <div class="bd_dt_b block float_left">
-                            <ul class="review_stars_wrapper">
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li><a href="#" class="review_star"></a></li>
-                            </ul><!-- review star wrapper ends -->
+                            <a href="#" class="stars4 review_stars_wrapper"></a>
                             <span class="float_right">May 31 2013</span>
                         </div>
                         <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>
@@ -1387,13 +1354,7 @@ It has survived not only five centuries, but also the leap into electronic types
                     </a>
                     <div class="author_info">
                         <div class="bd_dt_b block float_left">
-                            <ul class="review_stars_wrapper">
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li class="starred"><a href="#" class="review_star"></a></li>
-                                <li><a href="#" class="review_star"></a></li>
-                            </ul><!-- review star wrapper ends -->
+                            <a href="#" class="stars4 review_stars_wrapper"></a>
                             <span class="float_right">May 31 2013</span>
                         </div>
                         <a href="user_page.html" class="txt_bold contentlink">Lorem Ipsum</a>

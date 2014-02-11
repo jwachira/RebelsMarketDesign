@@ -181,13 +181,7 @@
                          <h2>$16.99</h2>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
-                     <ul class="review_stars_wrapper">
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li><a href="#" class="review_star"></a></li>
-                      </ul>
+                     <a href="#" class="stars4 review_stars_wrapper"></a>
                       <div class="contributor clearfix">
                           <figure>
                               <img src="img/people1.png" alt="">
@@ -206,13 +200,7 @@
                          <h2>$16.99</h2>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
-                     <ul class="review_stars_wrapper">
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li><a href="#" class="review_star"></a></li>
-                      </ul>
+                     <a href="#" class="stars4 review_stars_wrapper"></a>
                       <div class="contributor clearfix">
                           <figure>
                               <img src="img/people1.png" alt="">
@@ -231,13 +219,7 @@
                          <h2>$16.99</h2>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
-                     <ul class="review_stars_wrapper">
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li><a href="#" class="review_star"></a></li>
-                      </ul>
+                     <a href="#" class="stars4 review_stars_wrapper"></a>
                       <div class="contributor clearfix">
                           <figure>
                               <img src="img/people1.png" alt="">
@@ -255,13 +237,7 @@
                          <h2>$16.99</h2>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
-                     <ul class="review_stars_wrapper">
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li class="starred"><a href="#" class="review_star"></a></li>
-                          <li><a href="#" class="review_star"></a></li>
-                      </ul>
+                     <a href="#" class="stars4 review_stars_wrapper"></a>
                       <div class="contributor clearfix">
                           <figure>
                               <img src="img/people1.png" alt="">
