@@ -13,6 +13,18 @@
   }
 }
 @media screen and (min-width: 960px) and (max-width: 1188px) {
+  .menu-block figure {
+    width: 111px;
+    height: 111px;
+  }
+  .main-menu {
+    text-align: center;
+  }
+  .main-menu > li {
+    display: inline-block;
+    float: none;
+    margin: 6px 40px 0 0;
+  }
   .reload-banner .banner-title {
     font-size: 22px;
     margin-top: 6px;

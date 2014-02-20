@@ -7833,14 +7833,12 @@ input[type='submit']:hover{
 		display:inline-block;
 		float: left;
 		margin: 6px 72px 0 0;
-		white-space: nowrap;
 		a{
 			font-family: 'helvetica_lt_stdbold';
 			color: #ddd;
 			font-size: 15px;
 			text-shadow: 0 1px 1px rgba(0,0,0,0.65);
 			-moz-text-shadow: 0 1px 1px rgba(0,0,0,0.65);
-			white-space: nowrap;
 			&:hover{
 				color: #949494;
 
@@ -7873,6 +7871,7 @@ input[type='submit']:hover{
 				width: 100%;
 				float: left;
 				padding-right: 0;
+				text-align: left;
 			}
 		}
 		.menu-width.two-col{
@@ -7881,11 +7880,13 @@ input[type='submit']:hover{
 				width: 50%;
 				float: left;
 				padding-right: 30px;
+				text-align: left;
 			}
 		}
 		.menu-width.three-col{
 			width:75%;
 			.grid-4 {
+				text-align: left;
 				width: 33.33%;
 			    width: -webkit-calc(100%/3); 
 			    width: -moz-calc(100%/3);
@@ -7970,6 +7971,7 @@ input[type='submit']:hover{
 	width:25%;
 	float:left;
 	padding-right: 30px;
+	text-align: left;
 	&:last-of-type{
 		padding-right:0;
 	}
