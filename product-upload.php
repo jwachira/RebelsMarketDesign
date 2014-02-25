@@ -188,12 +188,12 @@
 
 							</div>
 							 <div class="colBlock clearfix">
-								  <label>Upload size chart <i title="Max 25MB">?</i></label>
+								  <label class="clearfix"><span class="small-txt">Upload size chart </span><i title="Max 25MB">?</i></label>
 								  <input type="file">
 							</div>
 
 							 <div class="colBlock clearfix">
-								  <label>Add up-to 3 tags, (after tag add comma) <i title="Lorem Ipsum">?</i></label>
+							 	  <label class="clearfix"><span class="small-txt">Add up-to 3 tags, (after tag add comma)  </span><i title="Lorem Ipsum">?</i></label>
 								  <textarea class="eigth"></textarea>
 							</div>
 
@@ -248,7 +248,7 @@
 
 							 <div class="colBlock clearfix">
 								  <div class="formCol-3 sixty">
-									 <label>Do you want to list this item in your local currency? <i title="Lorem">?</i></label>
+								  	 <label class="clearfix"><span class="small-txt">Do you want to list this item in your local currency? </span><i title="Lorem">?</i></label>
 									 <input name="" type="checkbox" value="" checked><span class="respons">YES</span>
 									 <input name="" type="checkbox" value=""><span class="respons">NO</span>
 								  </div>
@@ -292,22 +292,22 @@
 							
 							<div class="colBlock clearfix borderBtm">
 								<div class="formCol-3 twenty">
-								  <label>I can ship to <i title="Lorem ipsum dolor">?</i></label>
+								  <label class="clearfix"><span class="small-txt">I can ship to</span><i title="Lorem ipsum dolor">?</i></label>
 								  <h3>Worldwide</h3>
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Cost(USD) <i title="Lorem ipsum">?</i></label>
+							 	  <label class="clearfix"><span class="small-txt">Cost(USD)</span><i title="Lorem ipsum">?</i></label>
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Ship with another item<i title="Lorem ipsum dolor">?</i></label>
+							  	 <label class="clearfix"><span class="small-txt">Ship with another item</span><i title="Lorem ipsum">?</i></label>	
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-								  <label>Estimated Arrival<i title="Lorem dolor">?</i></label>
+							   	  <label class="clearfix"><span class="small-txt">Estimated Arrival</span><i title="Lorem ipsum">?</i></label>	
 								  <select class="full">
 									<option>Select a category</option>
 									<option>Lorem ipsum 2</option>

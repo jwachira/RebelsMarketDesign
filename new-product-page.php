@@ -43,21 +43,21 @@
         <div class="discBox clearfix">
             <div class="iconSide"><img src="img/cartIco.png"></div>
             <div class="discDesc">
-                <h3>Over 20,000 unique Products</h3>
+                <div class="box-heading">Over 20,000 unique Products</div>
                 <p>Shop 500 + niche brands</p>
             </div>
         </div>
         <div class="discBox clearfix">
             <div class="iconSide"><img src="img/track_icon.png"></div>
             <div class="discDesc">
-                <h3>We ship Worldwide</h3>
+                <div class="box-heading">We ship Worldwide</div>
                 <p>Our sellers ship worldwide</p>
             </div>
         </div>
         <div class="discBox clearfix">
             <div class="iconSide"><img src="img/security_ico.png"></div>
             <div class="discDesc">
-                <h3>Secure online shopping</h3>
+               <div class="box-heading">Secure online shopping</div>
                 <p>Safe and secure checkout</p>
             </div>
         </div>
@@ -96,7 +96,7 @@
              </div>
          </div>
          <div class="fav-block">
-              <h4>Like this item?</h4>
+              <div class="box-heading">Like this item?</div>
               <p>Add it to your favorites</p>
               <button class="show-love">Follow</button>
               <span class="folow-count">834</span>
@@ -179,7 +179,7 @@
                       </ul>
                       <div id="productDetail-html" class="tabContent">
                          <div class="detail-tab">
-                               <h1>Item Details</h1>
+                               <h5>Item Details</h5>
                                <p>
                                   <strong>Item category:</strong> <a href="">Pants &amp; Jeans</a>
                                </p>
@@ -196,8 +196,8 @@
                                <p>
                                   <strong>Asking Price: <span class="blue-color">USD $ 72.56</span></strong> 
                                </p>
-
-                               <h1>Product Image</h1>
+                                
+                              <div class="box-heading">Product Image</div>
                                <div class="product-image">
                                   <figure> <img src="img/product-image.jpg"></figure>
                                   <figure><img src="img/product-image-back.jpg"></figure>
@@ -238,7 +238,7 @@
                       </div>
                       <div id="shippinfInfo-html"  class="tabContent">
                         <div class="shipping-info">
-                            <h4>Item ships from: <strong>United Kingdom</strong></h4>
+                            <h5>Item ships from: <strong>United Kingdom</strong></h5>
                             <div class="datagrid">
                                   <table>
                                       <tbody>
@@ -492,7 +492,7 @@
         </article> <!-- End tabs -->
 
         <aside class="abt-seller">
-            <h4>About the Seller</h4>
+            <div class="box-heading">About the Seller</div>
             <section class="abt-info">
                <div class="top-round clearfix">
                   <figure>
@@ -517,8 +517,8 @@
                   <img src="img/flag.png" class="ship-to-flag">
                   <p>This seller ships to Kenya</p>
               </section>
-
-              <h1>My Other Items</h1>
+  
+              <div class="sub-title">My Other Items</div>
               <div class="other-imgs clearfix">
                     <a href=""><img src="img/other-prdct.jpg"></a>
                     <a href=""><img src="img/other-prdct-1.jpg"></a>
