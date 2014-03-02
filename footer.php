@@ -86,7 +86,6 @@
 
     <script src="js/jquery.js"></script>
     <script src="js/modernizr-2.6.2.min.js" type="text/javascript"></script>  
-    <script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/twitter-bootstrap-hover-dropdown.min.js"></script>
     <script src="js/packery.pkgd.min.js"></script>
@@ -95,7 +94,9 @@
     <script src="js/jquery.hashchange.min.js" type="text/javascript"></script>
 	<script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
     <script src="js/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/responsive-tables.js"></script>
     <script src="js/scripts.js"></script>
+
     
 
   </body>

@@ -253,7 +253,7 @@
                     </div>
              </section> 
              <section class="blog-rght">
-                    <h3>Subscribe</h3>
+                    <h4>Subscribe</h4>
                     <p>Sign up to get regular updates from RebelsMarket</p>
                     <div class="subscribe clearfix">
                         <form>
@@ -262,7 +262,7 @@
                         </form>
                     </div>
 
-                    <h3>Connect</h3>
+                    <h4>Connect</h4>
                     <div class="social-likes">
                             <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
                             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -283,7 +283,7 @@
                             <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
                     </div>
 
-                    <h3>Write for Us</h3>
+                    <h4>Write for Us</h4>
                     <p>Share your story with over 4 million readers</p>
                     <button class="flat-button blog-form-trigger"><strong>Get Started Now</strong></button>
                     <div class="write-for-us">

@@ -12,8 +12,7 @@
   
 		  <!-- product upload page starts -->
 			  <div class="uploadMain clearfix">
-				<h1>Product Upload</h1
-				
+				<h1>Product Upload</h1>
 				<form action="" method="get">
 					  <div class="sideBlock clearfix">
 					<aside class="regionL">
@@ -188,12 +187,18 @@
 
 							</div>
 							 <div class="colBlock clearfix">
-								  <label class="clearfix"><span class="small-txt">Upload size chart </span><i title="Max 25MB">?</i></label>
+								  <label class="clearfix">
+								  	<span class="small-txt">Upload size chart </span>
+								  	<span class="question" title="Amet etiam, sed enim urna, proin augue, porttitor penatibus ultricies ">?</span>
+								  </label>
 								  <input type="file">
 							</div>
 
 							 <div class="colBlock clearfix">
-							 	  <label class="clearfix"><span class="small-txt">Add up-to 3 tags, (after tag add comma)  </span><i title="Lorem Ipsum">?</i></label>
+							 	  <label class="clearfix">
+							 	  	<span class="small-txt">Add up-to 3 tags, (after tag add comma)  </span>
+							 	  	<span class="question" title="Amet etiam, sed enim urna, proin augue, porttitor penatibus ultricies">?</span>
+							 	  </label>
 								  <textarea class="eigth"></textarea>
 							</div>
 
@@ -248,7 +253,10 @@
 
 							 <div class="colBlock clearfix">
 								  <div class="formCol-3 sixty">
-								  	 <label class="clearfix"><span class="small-txt">Do you want to list this item in your local currency? </span><i title="Lorem">?</i></label>
+								  	 <label class="clearfix">
+								  	 	<span class="small-txt">Do you want to list this item in your local currency? </span>
+								  	 	<span class="question" title="Amet etiam, sed enim urna, proin augue, porttitor penatibus ultricies ">?</span>
+								  	 </label>
 									 <input name="" type="checkbox" value="" checked><span class="respons">YES</span>
 									 <input name="" type="checkbox" value=""><span class="respons">NO</span>
 								  </div>
@@ -292,22 +300,34 @@
 							
 							<div class="colBlock clearfix borderBtm">
 								<div class="formCol-3 twenty">
-								  <label class="clearfix"><span class="small-txt">I can ship to</span><i title="Lorem ipsum dolor">?</i></label>
+								  <label class="clearfix">
+								  	<span class="small-txt">I can ship to</span>
+								  	<span class="question" title="This sentence needs more of an explanation for the user.">?</span>
+								  </label>
 								  <h3>Worldwide</h3>
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-							 	  <label class="clearfix"><span class="small-txt">Cost(USD)</span><i title="Lorem ipsum">?</i></label>
+							 	  <label class="clearfix">
+							 	  	<span class="small-txt">Cost(USD)</span>
+							 	  	<span class="question" title=" Amet etiam, sed enim urna, proin augue, porttitor penatibus ultricies  ">?</span>
+							 	  </label>
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-							  	 <label class="clearfix"><span class="small-txt">Ship with another item</span><i title="Lorem ipsum">?</i></label>	
+							  	 <label class="clearfix">
+							  	 	<span class="small-txt">Ship with another item</span>
+							  	 	<span class="question" title="This sentence needs more of an explanation for the user.">?</span>
+							  	 </label>	
 								  <input name="" type="text" value="" class="full">
 							   </div>
 							   
 							   <div class="formCol-3 quater">
-							   	  <label class="clearfix"><span class="small-txt">Estimated Arrival</span><i title="Lorem ipsum">?</i></label>	
+							   	  <label class="clearfix">
+							   	  	<span class="small-txt">Estimated Arrival</span>
+							   	  	<span  class="question" title="This sentence needs more of an explanation for the user.">?</span>
+							   	  </label>	
 								  <select class="full">
 									<option>Select a category</option>
 									<option>Lorem ipsum 2</option>

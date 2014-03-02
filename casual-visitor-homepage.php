@@ -18,7 +18,7 @@
         	</div>
 
           <div class="reload-banner clearfix">
-             <div class="banner-title">Expand your unique, artsy &amp; rebellious way of life</div>
+             <div class="banner-title">Expand your unique, artisty &amp; rebellious way of life</div>
              <div class="btnsMain">
                  <a href="sign-up.php" class="start_btn">Sign Up</a>
                  or <a href="">open your own store</a> for free

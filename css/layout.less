@@ -2703,7 +2703,7 @@ line-height: 16px;}
 	margin: 0 0 20px;
 	padding: 0;
 }
-.review_stars_wrapper{width:100px; height:20px; float:left; margin-bottom: 5px;}
+.review_stars_wrapper{width:100px; height:20px; float:left; margin-top:3px;}
 .review_stars_wrapper li{float:left}
 .review_star{width:11px; height:12px; background:url(../img/review_star.png) no-repeat; margin-left:4px; display: block;}
 .review_star:hover,.starred a{background-position:-11px 0}
@@ -2739,7 +2739,7 @@ line-height: 16px;}
 
 /*0.2 middle footer*/
 #middle_footer_wrapper{width:auto; height:auto; overflow:hidden; background:#323131; font-size:11px; color:#e1e1e1; }
-#middle_footer{background:#353434; overflow:hidden; margin:auto}
+#middle_footer{overflow:hidden; margin:auto}
 .footer_title{font-weight:bold; font-size:13px}
 
 /*0.3 footer menu*/
@@ -2749,8 +2749,8 @@ line-height: 16px;}
 #footer_sell_link  a{color:#c83f4f}
 
 /*0.4 bottom footer*/
-#bottom_footer_wrapper{width:auto; height:auto; overflow:hidden; background:#323131; border-top:1px #414345 solid;}
-#bottom_footer{ background:#353434; overflow:hidden; margin:auto;}
+#bottom_footer_wrapper{width:auto; height:auto; overflow:hidden; background:#323131; border-top:1px #646464 solid;}
+#bottom_footer{ overflow:hidden; margin:auto;}
 #footer_icons li{float:left}
 #footer_icons img{margin-left:20px}
 .small_footer_icn{margin-top:15px}
@@ -4949,23 +4949,13 @@ input[type='submit']:hover{
 			color: #4c4c4c;
 			margin: 3px 10px 0 0;
 		}
-		i{
-			background: #d1372f;
-			.rounded (@radius:100%);
-			width: 21px;
-			height: 21px;
-			color: #fff;
-			padding: 2px 7px;
-			margin-left: 4px;
-			.box-sizing;
-			overflow: hidden;
-			float:left;
-			cursor:pointer;
-
-		}
 	}
 	.submitBlock{
-		margin-left: 256px;
+		max-width: 446px;
+		margin: auto;
+		.cancl{
+			margin: 0;
+		}
 	}
 	.sideBlock{
 		border-bottom: 1px #7d7d7d dotted;
@@ -6925,10 +6915,13 @@ input[type='submit']:hover{
 			border-bottom: #b2b2b2 dotted 1px;
 			h2{
 				font-size: 16px;
+				float: left;
 			}
 			h1{
 				border:none;
 				font-size: 14px;
+				margin-bottom: 10px;
+				width: 100%;
 				a{
 					color: #4c4c4c;
 					&:hover{
@@ -7065,9 +7058,10 @@ input[type='submit']:hover{
 .blog-rght{
 	float: left;
 	width: 33%;
-	h3 {
+	margin-top: 20px;
+	h4 {
 		font-weight: bold;
-		font-size: 28px;
+		font-size: 23px;
 		color: #3c3c3c;
 		border: 0;
 		padding: 0;
@@ -7236,7 +7230,7 @@ input[type='submit']:hover{
 	border:@border solid 1px;
 	.rounded (@radius:3px);
 	float: left;
-	margin-right: 20px;
+	margin:0 20px 20px 0;
 	figure{
 		.rounded (@radius:3px 3px 0 0);
 		max-height: 230px;
@@ -7425,7 +7419,7 @@ input[type='submit']:hover{
 	.poplr-info{
 		display: block;
 		margin-left: 95px;
-		h2{
+		h2, h3{
 			font-weight: bold;
 			font-size: 16px;
 			margin: 0 0 3px;
@@ -7517,7 +7511,6 @@ input[type='submit']:hover{
 	}
 }
 .blog-other-interest{
-	margin-bottom: 20px;
 	float: left;
 	width: 100%;
 }
@@ -8025,3 +8018,61 @@ input[type='submit']:hover{
 }
 
 
+.question {
+  cursor: pointer;
+  display: inline-block;
+  width: 21px;
+  height: 21px;
+  background-color: #d1372f;
+  color: white !important;
+  .rounded (@radius:100%);
+  text-align: center;
+  position: relative;
+  padding-top: 1px;
+  font-size: 14px;
+  /*	background: #d1372f;
+	.rounded (@radius:100%);
+	width: 21px;
+	height: 21px;
+	color: #fff;
+	padding: 2px 7px;
+	margin-left: 4px;
+	.box-sizing;
+	overflow: hidden;
+	float:left;
+	cursor:pointer;
+	text-align: center;
+	position: relative;*/
+}
+ 
+.question:hover {
+	 background-color: #3D6199;
+}
+div.poptip {
+  background-color: #3D6199;
+  color: White;
+  position: absolute;
+  left:27px;
+  top: -25px;
+  z-index: 1000000;
+  width: 250px;
+  border-radius: 5px;
+}
+div.poptip:before {
+  border-color: transparent #3D6199 transparent transparent;
+  border-right: 6px solid #3D6199;
+  border-style: solid;
+  border-width: 6px 6px 6px 0px;
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  line-height: 0;
+  position: absolute;
+  top: 40%;
+  left: -6px;
+}
+div.poptip p {
+  margin: 10px;
+  color: white;
+}

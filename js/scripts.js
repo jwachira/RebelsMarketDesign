@@ -1,3 +1,14 @@
+$(document).ready(function () {
+	$(".question").hover(function () {
+		var tooltipText = $(this).attr('title');
+			$(this).append('<div class="poptip"><p>'+tooltipText+'</p></div>');
+		 }, function () {
+		    $("div.poptip").remove();
+ 	 });
+	//tooltip on product upload page
+});
+
+
 $(window).load(function() {
 	 
 	$('.menu-icon').click(function(){
@@ -77,36 +88,7 @@ $(window).load(function() {
 		 $('#floatingbox').fadeOut();
 	});
 	
-	//Home page carousel
-    $('.carousel').carousel();
-    qwerty = setTimeout(function(){
-	    $("#foo2").carouFredSel({
-		    circular: true,
-		    infinite: false,
-		    auto  : false,
-		    prev  : { 
-		      button  : "#foo2_prev",
-		      key   : "left"
-		    },
-		    next  : { 
-		      button  : "#foo2_next",
-		      key   : "right"
-		    }
-	 	});
-		$("#foo3").carouFredSel({
-		    circular: true,
-		    infinite: false,
-		    auto  : false,
-		    prev  : { 
-		      button  : "#foo3_prev",
-		      key   : "left"
-		    },
-		    next  : { 
-		      button  : "#foo3_next",
-		      key   : "right"
-		    }
-	 	});
-    },100);
+	 
 		
 	 $('.home-shop-slider').bxSlider({
 	 	  minSlides:4,
@@ -149,12 +131,12 @@ $(window).load(function() {
 	$('#tab-container').easytabs();
 	$('#blog-popular-tab').easytabs();//blog popular tabs
 		
-	//nice scroll
-	$("#listItem, #populaBar").niceScroll({
-	  cursorcolor:"#5e9e9e",
-	  cursorwidth:8,
-	  cursorborder:'1px solid #5e9e9e'
-	});
+	// //nice scroll
+	// $("#listItem, #populaBar").niceScroll({
+	//   cursorcolor:"#5e9e9e",
+	//   cursorwidth:8,
+	//   cursorborder:'1px solid #5e9e9e'
+	// });
 
 	
 	
@@ -165,11 +147,7 @@ $(window).load(function() {
 	  itemSelector: '.galry-item'
 	});
 	
-	//flexslider
-	  $('.flexslider').flexslider({
-		animation: "slide"
-	  });
-  
+	 
 
 
 	
