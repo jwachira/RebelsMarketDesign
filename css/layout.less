@@ -7598,6 +7598,7 @@ input[type='submit']:hover{
 	height: 58px;
 	overflow: hidden;
 	.animation;
+	display: none;
 }
 .block-one{
 	padding:20px 15px;
@@ -8077,6 +8078,97 @@ div.poptip p {
   color: white;
 }
 
-.body-oldschool{
+.body-bg{
 	background:#fff url('../img/header-v2.jpg') repeat-x top center;
+}
+
+.main-menus{
+	background:url('../img/header-border.png') repeat-x bottom left;	
+}
+
+.user-detail-menus{
+	float: right;
+	list-style: none;
+	padding: 10px 0;
+	font-family: 'helvetica_lt_stdbold';
+	li{
+		float: left;
+		a{
+			padding:2px 10px;
+			border-right:1px solid #000;
+			color: #484644;
+			font-size: 13px;
+			font-weight: normal;
+		}
+	}
+}
+.user-detail-menus li:last-of-type {
+	a{border: 0;}
+}
+.rebel-logo{
+	text-align: center;
+	margin: 20px 0 5px;
+	a{
+		&:hover{
+			 -webkit-filter: sepia(100%);
+		}
+	}
+}
+
+.menu-section{
+	.container{
+		background:url('../img/header-border.png') repeat-x bottom left;
+		padding: 10px 0;
+	}
+	.main-menu {
+		padding: 0;
+		float: left;
+		width: 70%;
+		>li {
+			display: inline-block;
+			float: left;
+			margin: 3px 25px 3px 0;
+			a{
+				font-family: 'helvetica_lt_stdbold';
+				color: #484644;
+				text-shadow:none;
+			}
+			&:last-of-type{
+				a{
+					color: @red;
+				}
+			}
+
+		}
+		>li .menu-width{
+			z-index: 999;
+			background: #e9dfd3;
+		}
+		>li:after{
+			background: url(../img/menu-active.png) no-repeat center top;
+			bottom: -5px;
+		}
+	}
+
+	.topSearch{
+		float: right;
+		width: 30%;
+		margin-top: -3px;
+		border:#b8b8b8 solid 1px;
+		height: auto;
+		overflow: hidden;
+		input[type="text"]{
+			width: 175px;
+			padding: 4px 10px;
+			height: 30px;
+		}
+		select{
+			padding: 2px 5px;
+			height: 30px;
+		}
+	    input[type="submit"]{
+			height: 30px;
+		}
+	}
+		
 }

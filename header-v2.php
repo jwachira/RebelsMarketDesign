@@ -37,7 +37,7 @@
     <link href="css/responsive.css" rel="stylesheet" media="screen">
 
   </head>
-<body class="body-oldschool">
+<body class="body-bg">
 
 <div class="mobile-nav">
     <div class="login-bar">
@@ -96,130 +96,41 @@
 
 <!-- Mobile header ends -->
  
-<div class="fixedHeader">
-	   <section class="headerOne">
-   			<div class="container">
-            	<div class="fulwidth">
-                    <div class="logoArea">
-                        <a href="#" id="logo"></a>
-                    </div> 
-                    <div class="topSearch">
-                        <form action="" method="get" autocomplete="on">
-                            <input type="text" placeholder="Search..." title="Search folders you viewed previously" autocomplete="on">
-                            <select>
-                                <option>All Categories</option>
-                                <option>Men</option>
-                                <option>Women</option>
-                                <option>Boho</option>
-                            </select>
-                            <input type="submit" value="Go">
-                        </form>
-                    </div>
-                    <div class="cartMenus">
-                        <!-- <div class="notLoginMenus">
-                            <ul>
-                                <li><a href="#">Sign up</a></li>
-                                <li><a href="#">Login</a></li>
-                            </ul>
-                        </div> -->
-                        <!-- logged in menus starts -->
-							<ul class="nav navbar-nav pull-right top-rightsection">
-								<li class="dropdown">
+ <header class="main-menus">
+    <div class="container">
+      <ul class="user-detail-menus">
+          <li>
+              <a href="">Sign up</a>
+          </li> 
+          <li>
+              <a href="">My Account</a>
+          </li> 
+          <li>
+              <a href="">My Favs</a>
+          </li> 
+          <li>
+              <a href="">$ USD </a>
+          </li> 
+          <li>
+              <a href="">Shopping Basket</a>
+          </li> 
 
-                                  <a href="#" class="dropdown-toggle top-cart" data-hover="dropdown"><span>cart</span><span class="notification">125</span></a>
-                    
-                                  <ul class="dropdown-menu">
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                  </ul>
-                    
-                                </li>
-                                
-                                <li class="dropdown">
-                    
-                                  <a href="#" class="dropdown-toggle top-user" data-hover="dropdown"><span>Account</span></a>
-                    
-                                  <ul class="dropdown-menu">
-                    
-                                    <li class="top-name"><img src="img/avata-01.jpg"/>Leison Kennedy</li>
-                    
-                                    <li><a href="#" class="">Heart card</a></li>
-                    
-                                    <li><a href="#" class="">Account Information</a></li>
-                    
-                                    <li><a href="#" class="">Email Preferences</a></li>
-                    
-                                    <li><a href="#" class="">My Orders</a></li>
-                    
-                                    <li><a href="#" class="">Payments Methods</a></li>
-                    
-                                    <li><a href="#" class="">My Credits</a></li>
-                    
-                                    <li><a href="#" class="">Invites</a></li>
-                    
-                                    <li><a href="#" class="">Logout</a></li>
-                    
-                                  </ul>
-                    
-                                </li>
+      </ul>
+    </div>   
+ </header>
+ <section class="logo-section">
+    <div class="container">
+          <div class="rebel-logo">
+              <a href=""><img src="img/logo.png"></a>
+          </div>
+    </div>
+ </section>
 
-                                <li class="dropdown">
-                    
-                                  <a href="#" class="dropdown-toggle top-hearth" data-hover="dropdown"><span>Favorites</span><span class="notification">356</span></a>
-                    
-                                  <ul class="dropdown-menu">
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                  </ul>
-                    
-                                </li>
-                    
-                                <li class="dropdown">
-                    
-                                  <a href="#" class="dropdown-toggle top-msg" data-hover="dropdown"><span>Messages</span><span class="notification">445</span></a>
-                    
-                                  <ul class="dropdown-menu">
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                    <li><a href="#" class="">Item</a></li>
-                    
-                                  </ul>
-                    
-                                </li>
-                    
-                             </ul>
-                        <!-- logged in menus ends -->
-                    </div>
-
-              </div>  
-        </div>
-   </section>
-       <!--header one ends-->
-       <section class="headerTwo" id="header">
-             <div class="container">
-
-                      <ul class="main-menu">
+ <section class="menu-section">
+      <div class="container">
+            <ul class="main-menu">
                         <li>
-                          <a href="">Woman</a>
+                          <a href="">Clothing</a>
                           <ul class="menu-width">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -317,7 +228,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">Man</a>
+                          <a href="">Shoes</a>
                           <ul class="menu-width single-col">
                               
                               <div class="grid-4"> 
@@ -342,7 +253,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">Artwork</a>
+                          <a href="">Jewelry</a>
                           <ul class="menu-width two-col">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -386,7 +297,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">Clothings</a>
+                          <a href="">Accessories</a>
                           <ul class="menu-width three-col">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -547,7 +458,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">Gadgets</a>
+                          <a href="">Fun &amp; Lifestyle</a>
                            <ul class="menu-width">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -645,7 +556,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">House-ware</a>
+                          <a href="">Art</a>
                            <ul class="menu-width">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -743,7 +654,105 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="">Jewery &amp; Accessories</a>
+                          <a href="">Styles</a>
+                           <ul class="menu-width">
+                             <div class="grid-4"> 
+                                  <div class="menu-block">
+                                     <li><h4>Small Accessories</h4></li>
+                                    <li><a href="#">Scarves</a></li>
+                                    <li><a href="#">Watches</a></li>
+                                    <li><a href="#">Socks</a></li>
+                                    <li><a href="#">Eyewear</a></li>
+                                    <li><a href="#">Hats</a></li>
+                                    <li><a href="#">Keychains</a></li>
+                                   
+                                  </div>
+                                  <div class="menu-block">
+                                      <li><h4>Shoes</h4></li>
+                                      <li><a href="#">Casual Shoes &amp; Flip Flops Boots</a></li>
+                                      <li><a href="#">Booties</a></li>
+                                      <li><a href="#">Clogs</a></li>
+                                  </div>
+                              </div>
+
+                              <div class="grid-4"> 
+                                  <div class="menu-block">
+                                     <li><h4>Small Accessories</h4></li>
+                                    <li><a href="#">Scarves</a></li>
+                                    <li><a href="#">Watches</a></li>
+                                    <li><a href="#">Socks</a></li>
+                                    <li><a href="#">Eyewear</a></li>
+                                    <li><a href="#">Hats</a></li>
+                                    <li><a href="#">Keychains</a></li>
+                                   
+                                  </div>
+                                  <div class="menu-block">
+                                      <li><h4>Shoes</h4></li>
+                                      <li><a href="#">Casual Shoes &amp; Flip Flops Boots</a></li>
+                                      <li><a href="#">Booties</a></li>
+                                      <li><a href="#">Clogs</a></li>
+                                  </div>
+                              </div>
+
+                              <div class="grid-4"> 
+                                  <div class="menu-block">
+                                     <li><h4>Small Accessories</h4></li>
+                                    <li><a href="#">Scarves</a></li>
+                                    <li><a href="#">Watches</a></li>
+                                    <li><a href="#">Socks</a></li>
+                                    <li><a href="#">Eyewear</a></li>
+                                    <li><a href="#">Hats</a></li>
+                                    <li><a href="#">Keychains</a></li>
+                                   
+                                  </div>
+                                  <div class="menu-block">
+                                      <li><h4>Shoes</h4></li>
+                                      <li><a href="#">Casual Shoes &amp; Flip Flops Boots</a></li>
+                                      <li><a href="#">Booties</a></li>
+                                      <li><a href="#">Clogs</a></li>
+                                  </div>
+                              </div>
+
+                              <div class="grid-4"> 
+                                  
+                                  <div class="menu-block">
+                                      <a href="">
+                                        <figure>
+                                           <img src="img/dropdown/new8.png" alt="">
+                                           <figcaption>New Arrivals</figcaption>
+                                        </figure>
+                                      </a>
+
+                                      <a href="">
+                                        <figure>
+                                           <img src="img/dropdown/new8.png" alt="">
+                                           <figcaption>New Arrivals</figcaption>
+                                        </figure>
+                                      </a>
+                                  </div>
+
+                                  <div class="menu-block">
+                                      <a href="">
+                                        <figure>
+                                           <img src="img/dropdown/new8.png" alt="">
+                                           <figcaption>New Arrivals</figcaption>
+                                        </figure>
+                                      </a>
+
+                                      <a href="">
+                                        <figure>
+                                           <img src="img/dropdown/new8.png" alt="">
+                                           <figcaption>New Arrivals</figcaption>
+                                        </figure>
+                                      </a>
+                                  </div>
+
+                              </div>
+
+                          </ul>
+                        </li>
+                        <li>
+                          <a href="">Brands</a>
                            <ul class="menu-width">
                              <div class="grid-4"> 
                                   <div class="menu-block">
@@ -844,7 +853,18 @@
                           <a href="">SELL</a>
                         </li>
                       </ul>
-             </div>
-       </section>
-</div>
-   
+
+                      <div class="topSearch">
+                        <form action="" method="get" autocomplete="on">
+                            <input type="text" placeholder="Search..." title="Search folders you viewed previously" autocomplete="on">
+                            <select>
+                                <option>All Categories</option>
+                                <option>Men</option>
+                                <option>Women</option>
+                                <option>Boho</option>
+                            </select>
+                            <input type="submit" value="Go">
+                        </form>
+                    </div>
+      </div>
+ </section> 
