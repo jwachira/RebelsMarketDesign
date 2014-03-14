@@ -821,9 +821,6 @@ Header CSS
 Body CSS
 ====================================================
 */
-#content .container{
-	background: #fff;
-}
 #breadcrumb{
 	overflow:hidden; 
 	height:22px; 

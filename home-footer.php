@@ -1,78 +1,58 @@
-    <!--Footer section starts-->
-    <div id="top_footer_wrapper">
-  <div class="container padding_20" id="top_footer">
-      <div class="footer_columns about-footer">
-           <p class="txt_13 txt_bold">ABOUT REBELSMARKET</p>
+<!--Footer section starts-->
+<footer class="footer-section">
+  <div id="top_footer_wrapper">
+      <div class="container padding_20" id="top_footer">
+          <div class="footer_columns about-footer">
+               <p class="txt_13 txt_bold">ABOUT REBELSMARKET</p>
 
-          <img src="img/ftrabout.png" alt="pic" class="ftraboutimg">
+              <img src="img/ftrabout.png" alt="pic" class="ftraboutimg">
 
-          <p class="excerpt">
-            A leading fixture in the society of praised rebellion, 
-                RebelsMarket is an active subversion of the fashion industry's "norm", We want our cult members to 
-                experiment with their individual style and encourage 
-                them to let their freak flags fly. <br>
-                <a href="#">Read more ..</a>
-          </p>
-        </div><!-- #footer_columns ends -->
-       
-      <div class="footer_columns">
-          <ul class="top_footer_menu">
-              <li><p class="txt_13 txt_bold">CUSTOMER SERVICE</p></li>
-              <li><a href="Order_tracking.html">Order Tracking</a></li>
-              <li><a href="Shipping_delivery.html">Shipping &amp; Delivery</a></li>
-              <li><a href="Returns.html">Returns</a></li>
-              <li><a href="Contact_us.html">Contact Us</a></li>
-            </ul>
-        </div><!-- #footer_columns ends -->
-      <div class="footer_columns">
-          <ul class="top_footer_menu">
-              <li><p class="txt_13 txt_bold">JOIN US</p></li>
-              <li><a href="#">Facebook</a></li>
-              <li><a href="#">Twitter</a></li>
-              <li><a href="#">Youtube</a></li>
-              <li><a href="#">Google+</a></li>
-              <li><a href="#">Tumblr</a></li>
-            </ul>
-        </div><!-- #footer_columns ends -->
-      <div class="footer_columns">
-          <ul class="top_footer_menu">
-              <li><p class="txt_13 txt_bold">MOBILE</p></li>
-              <li><a href="#">RM iPhone App</a></li>
-              <li><a href="#">RM Android App</a></li>
-            </ul>
-        </div><!-- #footer_columns ends -->
-    </div>
+              <p class="excerpt">
+                A leading fixture in the society of praised rebellion, 
+                    RebelsMarket is an active subversion of the fashion industry's "norm", We want our cult members to 
+                    experiment with their individual style and encourage 
+                    them to let their freak flags fly. <br>
+                    <a href="#">Read more...</a>
+              </p>
+            </div><!-- #footer_columns ends -->
+           
+          <div class="footer_columns">
+              <ul class="top_footer_menu">
+                  <li><p class="txt_13 txt_bold">CUSTOMER SERVICE</p></li>
+                  <li><a href="Order_tracking.html">Order Tracking</a></li>
+                  <li><a href="Shipping_delivery.html">Shipping &amp; Delivery</a></li>
+                  <li><a href="Returns.html">Returns</a></li>
+                  <li><a href="Contact_us.html">Contact Us</a></li>
+                </ul>
+            </div><!-- #footer_columns ends -->
+          <div class="footer_columns">
+              <ul class="top_footer_menu">
+                  <li><p class="txt_13 txt_bold">JOIN US</p></li>
+                  <li><a href="#">Facebook</a></li>
+                  <li><a href="#">Twitter</a></li>
+                  <li><a href="#">Youtube</a></li>
+                  <li><a href="#">Google+</a></li>
+                  <li><a href="#">Tumblr</a></li>
+                </ul>
+            </div><!-- #footer_columns ends -->
+          <div class="footer_columns">
+              <ul class="top_footer_menu">
+                  <li><p class="txt_13 txt_bold">MOBILE</p></li>
+                  <li><a href="#">RM iPhone App</a></li>
+                  <li><a href="#">RM Android App</a></li>
+                </ul>
+            </div><!-- #footer_columns ends -->
+        </div>
 </div>
 
 <div id="middle_footer_wrapper">
   <div class="container padding_20" id="middle_footer">
-      <p class="float_left">&copy; 2013 RebelsMarket. All Rights Reserved.</p>
-        <ul class="float_right" id="footer_menu">
-          <li><a href="About_Us.html">About Us</a></li>
-            <li><a href="Terms_of_Service.html">Terms of Service</a></li>
-            <li><a href="Sitemap.html">Sitemap</a></li>
-            <li><a href="Contact_Us.html">Contact Us</a></li>
-            <li><a href="Help.html">Help</a></li>
-            <li><a href="Announcements.html">Announcements</a></li>
-            <li><a href="Blog.html">Blog</a></li>
-            <li id="footer_sell_link"><a href="Sell.html">Sell</a></li>
-        </ul>
+     <p>Copyrights &copy; 2009 - 2014 Rebels market Inc.All Rights Reserved. <a href="">User Agreement</a> and <a href="">Privacy Policy</a></p>
     </div>
 </div>
+</footer>
 
-<div id="bottom_footer_wrapper">
-  <div class="container paddingTB_10 paddingRL_20" id="bottom_footer">
-      <ul class="float_right" id="footer_icons">
-          <li><img src="img/comodo.png" width="83" height="59" alt="comodo-icon"></li>
-            <li><img class="small_footer_icn" src="img/security_icon.png" width="97" height="36" alt="security icon"></li>
-            <li><img class="small_footer_icn" src="img/mastercard_icon.png" width="40" height="25" alt="mastercard icon"></li>
-            <li><img class="small_footer_icn" src="img/maestro_icon.png" width="40" height="26" alt="maestro icon"></li>
-            <li><img class="small_footer_icn" src="img/visa-icon.png" width="40" height="26" alt="visa icon"></li>
-            <li><img class="small_footer_icn" src="img/paypal_icon.png" width="40" height="26" alt="paypal icon"></li>
-            <li><img class="small_footer_icn" src="img/american_empress_icon.png" width="25" height="26" alt="american express icon"></li>
-        </ul>
-    </div>
-</div>
+
 
 </section>
 
