@@ -131,23 +131,7 @@ $(window).load(function() {
 	$('#tab-container').easytabs();
 	$('#blog-popular-tab').easytabs();//blog popular tabs
 		
-	// //nice scroll
-	// $("#listItem, #populaBar").niceScroll({
-	//   cursorcolor:"#5e9e9e",
-	//   cursorwidth:8,
-	//   cursorborder:'1px solid #5e9e9e'
-	// });
 
-	
-	
-	//packery
-  	var container = document.querySelector('#container');
-	var pckry = new Packery( container, {
-	  // options
-	  itemSelector: '.galry-item'
-	});
-	
-	 
 
 
 	

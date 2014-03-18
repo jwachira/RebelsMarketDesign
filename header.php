@@ -863,12 +863,12 @@
                       <div class="topSearch">
                         <form action="" method="get" autocomplete="on">
                             <input type="text" placeholder="Search..." title="Search folders you viewed previously" autocomplete="on">
-                            <select>
+                           <!--  <select>
                                 <option>All Categories</option>
                                 <option>Men</option>
                                 <option>Women</option>
                                 <option>Boho</option>
-                            </select>
+                            </select> -->
                             <input type="submit" value="Go">
                         </form>
                     </div>

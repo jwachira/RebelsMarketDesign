@@ -88,7 +88,6 @@
     <script src="js/modernizr-2.6.2.min.js" type="text/javascript"></script>  
     <script src="js/bootstrap.min.js"></script>
     <script src="js/twitter-bootstrap-hover-dropdown.min.js"></script>
-    <script src="js/packery.pkgd.min.js"></script>
     <script src="js/jquery.bxslider.min.js"></script>
     <script type="text/javascript" src="js/organictabs.jquery.js"></script>
     <script src="js/jquery.hashchange.min.js" type="text/javascript"></script>

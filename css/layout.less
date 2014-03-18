@@ -118,7 +118,7 @@ input[type="submit"] {
     width:50px;
     height:38px;
     border:none;
-    float:left;
+    float:right;
     .rounded (@radius:0px 5px 5px 0px);
     text-indent:-9999px;
     &:hover {
@@ -8312,14 +8312,15 @@ h1 {
     .box-sizing;
     width:100%;
     .follower {
-    float:left;
-    padding-right:10px;
-    width:50%;
-    text-align:center;
-    .box-sizing;
-}
+	    float:left;
+	    padding-right:10px;
+	    width:50%;
+	    text-align:center;
+	    .box-sizing;
+	     border-right:#c2c2c2 dotted 1px;
+	}
 .following {
-    border-left:#c2c2c2 dotted 1px;
+   
     float:right;
     padding-left:10px;
     width:50%;
@@ -8371,15 +8372,10 @@ h1 {
 }
 }
 }
-.fb-comments {
-    span {
-    height:100px !important;
-}
-}
 .dev-info {
     .social-likes {
-    float:right;
-}
+	    float:right;
+	}
 }
 .detail-tab {
     img {
