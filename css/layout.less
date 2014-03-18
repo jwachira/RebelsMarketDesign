@@ -9771,3 +9771,47 @@ select {
 .footer-section {
     background:url(../img/footer-bg.png) repeat-x left bottom;
 }
+.custom-select {
+    -webkit-box-shadow: inset 1px 1px 4px 0 #ddd;
+    -moz-box-shadow: inset 1px 1px 4px 0 #ddd;
+    box-shadow: inset 1px 1px 4px 0 #ddd;
+    background-color: #f1f1f1;
+    background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#fff),color-stop(100%,#f1f1f1));
+    background: -webkit-linear-gradient(#fff,#f1f1f1);
+    background: -moz-linear-gradient(#fff,#f1f1f1);
+    background: -o-linear-gradient(#fff,#f1f1f1);
+    background: linear-gradient(#fff,#f1f1f1);
+    filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0,startColorstr='#FFFFFFFF',endColorstr='#FFF1F1F1');
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: relative;
+    line-height: 45px;
+    padding: 0 15px;
+    overflow: hidden;
+    width: 160px;
+}
+.custom-select-label {
+    color: #787878;
+    font-size: 12px;
+    font-family: Arial,sans-serif;
+}
+.custom-select-label .arrow {
+    margin-left: 5px;
+}
+.custom-select select {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background: #fff;
+    border-width: 0;
+}
