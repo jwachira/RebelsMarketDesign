@@ -302,17 +302,11 @@
                         <div id="blog-popular-tab" class="tab-container">
                               <ul class='etabs'>
                                 <li class='tab'>
-                                    <a href="#popula24hr-html" class="border-right">
-                                        <h5>POPULAR</h5>
-                                        <h1>Past 24 Hours</h1>
-                                    </a>
-                                </li>
-                                <li class='tab'>
                                     <a href="#popularweek-html">
                                         <h5>POPULAR</h5>
-                                        <h1>This Week</h1>
+                                        <h1>This Month</h1>
                                     </a>
-                                    </li>
+                                </li>
                               </ul>
                               <div id="popula24hr-html" class="tabContent">
                                   <div class="blog-popular-list">
