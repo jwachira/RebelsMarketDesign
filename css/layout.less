@@ -8585,7 +8585,7 @@ h1 {
 }
 .new-blog-section {
     background:#f2f2f2;
-    margin-top:47px;
+    margin-top:120px;
 }
 .new-blog-wrap {
     padding:15px;
@@ -8641,7 +8641,6 @@ h2 {
     float:left;
     padding-right:20px;
     .box-sizing;
-    margin-top:25px;
     p {
     font-size:14px;
 }
@@ -8649,7 +8648,6 @@ h2 {
 .blog-rght {
     float:left;
     width:33%;
-    margin-top:20px;
     h4 {
         font-weight: bold;
         font-size: 16px;
@@ -8661,35 +8659,45 @@ h2 {
     }
 }
 .by-author {
-    font-style:italic;
-    font-weight:bold;
-    position:relative;
-    margin-bottom:10px;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 15px;
+    float: left;
+    width: 100%;
     span {
-    background:url('../img/dot.png') no-repeat left center;
-    float:left;
-    padding-left:10px;
-    margin-right:10px;
+        background:url('../img/dot.png') no-repeat left center;
+        float:left;
+        padding-left:10px;
+        margin-right:10px;
     &:first-child {
-    background:none;
-    padding-left:0px;
-}
-}
-.comment-count {
-    position:absolute;
-    width:auto;
-    padding:4px 15px;
-    color:@white;
-    right:0;
-    top:0;
-    background:#282828;
-    &:after {
-    content:url(../img/comment-pad.png);
-    position:absolute;
-    right:9px;
-    bottom:-9px;
-}
-}
+        background:none;
+        padding-left:0px;
+    }
+    }
+    .comment-count {
+        position:absolute;
+        width:auto;
+        padding:4px 15px;
+        color:@white;
+        right:0;
+        top:0;
+        background:#282828;
+        font-style: normal;
+        .rounded (@radius:2px);
+        &:after {
+            content:url(../img/comment-pad.png);
+            position:absolute;
+            right:9px;
+            bottom:-9px;
+        }
+        &:hover{
+            background:@hover;
+            &:after{
+                content: url(../img/active-arrow.png);
+            }
+        }
+    }
 }
 .blog-banner {
     margin-bottom:20px;
@@ -9768,47 +9776,40 @@ select {
 .footer-section {
     background:url(../img/footer-bg.png) repeat-x left bottom;
 }
-.custom-select {
-    -webkit-box-shadow: inset 1px 1px 4px 0 #ddd;
-    -moz-box-shadow: inset 1px 1px 4px 0 #ddd;
-    box-shadow: inset 1px 1px 4px 0 #ddd;
-    background-color: #f1f1f1;
-    background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
-    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#fff),color-stop(100%,#f1f1f1));
-    background: -webkit-linear-gradient(#fff,#f1f1f1);
-    background: -moz-linear-gradient(#fff,#f1f1f1);
-    background: -o-linear-gradient(#fff,#f1f1f1);
-    background: linear-gradient(#fff,#f1f1f1);
-    filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0,startColorstr='#FFFFFFFF',endColorstr='#FFF1F1F1');
-    -moz-border-radius-topleft: 5px;
-    -webkit-border-top-left-radius: 5px;
-    border-top-left-radius: 5px;
-    -moz-border-radius-bottomleft: 5px;
-    -webkit-border-bottom-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-    position: relative;
-    line-height: 45px;
-    padding: 0 15px;
-    overflow: hidden;
-    width: 160px;
+
+.blog-block{
+    border-bottom:rgb(218, 218, 218) solid 1px;
+    margin-bottom: 20px;
+    h3{
+        font-weight: bold;
+        font-size: 23px;
+        color: #3c3c3c;
+        border: 0;
+        padding: 0;
+        margin: 0 0 5px;
+        a{
+            color: #3c3c3c;
+            &:hover{
+                color:@hover;
+            }
+        }
+    }
+    p{
+        margin-bottom: 15px;
+    }
+    figure{
+        margin-bottom: 15px;
+        img{
+            width:100%;
+        }
+    }
+    .more-link{
+        color:@red;
+    }
+    .social-likes{
+        iframe, .fb-like, >div{
+            float:left;
+        }
+    }
 }
-.custom-select-label {
-    color: #787878;
-    font-size: 12px;
-    font-family: Arial,sans-serif;
-}
-.custom-select-label .arrow {
-    margin-left: 5px;
-}
-.custom-select select {
-    cursor: pointer;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 100%;
-    width: 100%;
-    background: #fff;
-    border-width: 0;
-}
+
