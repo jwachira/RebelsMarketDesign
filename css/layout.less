@@ -8585,18 +8585,19 @@ h1 {
 }
 .new-blog-section {
     background:#f2f2f2;
-    margin-top:120px;
+    margin-top:112px;
 }
 .new-blog-wrap {
     padding:15px;
+    background:#fff;
     h3 {
-    font-weight:bold;
-    font-size:23px;
-    color:#3c3c3c;
-    border:0;
-    padding:0;
-    margin:0 0 10px;
-}
+        font-weight:bold;
+        font-size:23px;
+        color:#3c3c3c;
+        border:0;
+        padding:0;
+        margin:0 0 10px;
+    }
 h1 {
     font-weight:bold;
     font-size:23px;
@@ -8819,19 +8820,20 @@ h1 {
 }
 }
 .intrest-box {
-    width:30%;
+    width:31.455%;
     border:@border solid 1px;
     .rounded (@radius:3px);
     float:left;
-    margin:0 20px 20px 0;
+    margin-bottom:20px;
     figure {
     .rounded (@radius:3px 3px 0 0);
-    max-height:230px;
-    overflow:hidden;
-    img {
-    width:100%;
-}
-}
+        max-height:230px;
+        overflow:hidden;
+        img {
+            width:100%;
+        }
+    }
+
 .img-caption {
     padding:10px;
     img {
@@ -8860,6 +8862,9 @@ span {
     color:@red;
 }
 }
+}
+.intrest-box:nth-of-type(2){
+    margin:0 20px 20px;
 }
 .subscribe {
     margin-bottom:20px;
@@ -9035,13 +9040,14 @@ span {
     color:#3c3c3c;
 }
 }
-&:hover {
-    border-color:@red;
-    h2 {
-    color:@red;
+    &:hover {
+        border-color:@red;
+        h2 {
+            color:@red;
+        }
+    }
 }
-}
-}
+
 .blog-landing-banner {
     position:relative;
     margin-bottom:20px;
@@ -9806,10 +9812,11 @@ select {
     .more-link{
         color:@red;
     }
-    .social-likes{
-        iframe, .fb-like, >div{
-            float:left;
-        }
+}
+.social-likes{
+    margin: 10px 0 20px;
+    iframe, .fb-like, >div{
+        float:left;
     }
 }
 

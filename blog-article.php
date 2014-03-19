@@ -13,154 +13,66 @@
     <section class="new-blog-section" id="new-blog-section">
         <div class="container clearfix new-blog-wrap">
              <section class="blog-lft">
-             	<h1>A Love Letter to Mascara</h1>
-             	<div class="by-author clearfix">
-             		<span>BY <a href="">John Doe</a></span>
-             		<span>Dec 19 2013</span>
-             		<span>Punk Rock</span>
-             		<div class="comment-count">0</div>
-             	</div>
-                <div class="social-likes">
-                        <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-                        <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
-
-                        <!-- Place this tag where you want the +1 button to render. -->
-                        <div class="g-plusone" data-size="medium"></div>
-
-                        <!-- Place this tag after the last +1 button tag. -->
-                        <script type="text/javascript">
-                          (function() {
-                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                          })();
-                        </script>
-                        <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
-                </div>
-                <figure class="blog-banner">
-                  <h4>gfhgf</h4>
-                	<img src="img/blog-banner.jpg">
-                </figure>
-                <div class="blog-textsheet">
-                	<p>
-                		
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br> <br>  		
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br>
-                		Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque <br> <br>
-                		montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. <br> <br> 
-                		Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! <br>
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br> <br>  		
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br>
-                		Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque <br> <br>
-                		montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. <br> <br> 
-                		Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! <br>
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br> <br>  		
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                		<br>
-                		Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque <br> <br>
-                		montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. <br> <br> 
-                		Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! <br>
-                		Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                	<br> <br>
-                	</p>
-                    <section class="intext-slider">
-                        <h2>Available <a href="">Mascara</a> sold at RebelsMarket</h2>
-                        <div class="blogslide-pane">
-    
-                            <ul class="bxslider blog-article-slider">
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-1.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-2.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-3.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-4.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-5.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-6.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-3.jpg" />
-                                  </li>
-                                </a>
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-1.jpg" />
-                                  </li>
-                                </a>
-    
-                                <a href="">
-                                  <li>
-                                    <img src="img/mascara-4.jpg" />
-                                  </li>
-                                </a>
-                                 
-                                 
-                          </ul>
-    
-                        </div>
-                    </section>
-                	
-                	<p>
-                		When I put mascara on, I feel prettier. I do not feel pretty when I put on a crap brand and the formula clumps and suddenly I look like I mixed sand with black ink and called it a day, but when I use my favorite brand or one of its lovely sisters-that-are-also-competitors (like Venus and Serena!) I become a changed woman.
-                		<br><br>My confidence grows. My smizing ability goes up ten fold and I feel like I own the world with the bat of my lash. 
-                		<br> <br>This is all because of you, mascara. You, who on my absolute strangest day where my hair is being evil and staticky and my skin is arguing and my eyes are crossing, are always ready and willing to jump in and light my face up like the reflection of July 4th fireworks on open, glorious water. (In this case you are the fireworks, mascara, and I, the water.)
-I guess what I'm trying to say is...I love you.
+                  <article class="blog-block">
+                    <h3><a href="">Ten Tips For Looking Chic With Accessories</a></h3>
+                    <div class="by-author">
+                        <span>BY <a href="">John Doe</a></span>
+                        <span>Dec 19 2013</span>
+                        <span>Punk Rock</span>
+                    </div>
+                    <figure>
+                        <a href=""><img src="img/blog_placeholder.jpg"></a>
+                    </figure>
+                    <p>
+                         Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
 <br> <br>
-Don't let the haters get you down. They probably just haven't found their brand yet.
-                	</p>
-	                	<div class="social-likes">
-	                        <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-	                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque 
+<br><br>
+montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. 
+<br>
+Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! 
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+<br> <br>
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque 
+<br>
+montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. 
+<br><br>
+Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! 
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+<br><br>
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+Cras placerat rhoncus, arcu et dis a turpis est, turpis vut. Dignissim elit nisi tristique platea platea scelerisque 
+<br>
+montes turpis pid, placerat rhoncus, facilisis nunc a diam, phasellus, purus vut amet ultrices enim, ultricies odio. 
+<br><br>
+Rhoncus, diam ut, odio turpis elementum odio, vut adipiscing lundium, nunc est eros lorem. Nascetur, porttitor cursus ultricies lorem, et! 
+Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus. 
+                    </p>
+                    <div class="social-likes">
+                            <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-	                        <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+                            <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
 
-	                        <!-- Place this tag where you want the +1 button to render. -->
-	                        <div class="g-plusone" data-size="medium"></div>
+                            <!-- Place this tag where you want the +1 button to render. -->
+                            <div class="g-plusone" data-size="medium"></div>
 
-	                        <!-- Place this tag after the last +1 button tag. -->
-	                        <script type="text/javascript">
-	                          (function() {
-	                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-	                            po.src = 'https://apis.google.com/js/plusone.js';
-	                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	                          })();
-	                        </script>
-	                        <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
-	                </div>
+                            <!-- Place this tag after the last +1 button tag. -->
+                            <script type="text/javascript">
+                              (function() {
+                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                po.src = 'https://apis.google.com/js/plusone.js';
+                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                              })();
+                            </script>
+                            <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
+                    </div>
+                </article>
+
+                <div class="blog-textsheet"> 
+	                 
                 	
                     <section class="may-like intext-slider">
                         <h2>Articles that you may like </h2>
@@ -271,51 +183,48 @@ Don't let the haters get you down. They probably just haven't found their brand 
 
                  	<h2>Things that might interest you at RebelsMarket</h2>
                  	<div class="blog-other-interest">
-                 		<a href="">
-                 			<div class="intrest-box">
-	                 			<figure>
-	                 				<img src="img/other-interest.jpg">
-	                 			</figure>
-	                 			<div class="img-caption">
-	                 				<img src="img/blog-avatar.jpg">
-	                 				<div class="capt-info">
-	                 					<h5>Skeleton hand spiked bra</h5>
-	                 					<span>By Rachels graveyard</span>
-	                 				</div>
-	                 			</div>
-	                 		</div>
-                 		</a>
+                 	
+                  <a class="intrest-box" href="">
+                      <figure>
+                          <img src="img/other-interest.jpg">
+                      </figure>
+                      <div class="img-caption">
+                          <img src="img/blog-avatar.jpg">
+                          <div class="capt-info">
+                              <h5>Skeleton hand spiked bra</h5>
+                              <span>By Rachels graveyard</span>
+                          </div>
+                      </div>
+                  </a>
 
-                 		<a href="">
-                 			<div class="intrest-box">
-	                 			<figure>
-	                 				<img src="img/other-interest.jpg">
-	                 			</figure>
-	                 			<div class="img-caption">
-	                 				<img src="img/blog-avatar.jpg">
-	                 				<div class="capt-info">
-	                 					<h5>Skeleton hand spiked bra</h5>
-	                 					<span>By Rachels graveyard</span>
-	                 				</div>
-	                 			</div>
-	                 		</div>
-                 		</a>
+                  <a class="intrest-box" href="">
+                      <figure>
+                          <img src="img/other-interest.jpg">
+                      </figure>
+                      <div class="img-caption">
+                          <img src="img/blog-avatar.jpg">
+                          <div class="capt-info">
+                              <h5>Skeleton hand spiked bra</h5>
+                              <span>By Rachels graveyard</span>
+                          </div>
+                      </div>
+                  </a>
 
-                 		<a href="">
-                 			<div class="intrest-box">
-	                 			<figure>
-	                 				<img src="img/other-interest.jpg">
-	                 			</figure>
-	                 			<div class="img-caption">
-	                 				<img src="img/blog-avatar.jpg">
-	                 				<div class="capt-info">
-	                 					<h5>Skeleton hand spiked bra</h5>
-	                 					<span>By Rachels graveyard</span>
-	                 				</div>
-	                 			</div>
-	                 		</div>
-                 		</a>
-                 	</div>
+                  <a class="intrest-box" href="">
+                      <figure>
+                          <img src="img/other-interest.jpg">
+                      </figure>
+                      <div class="img-caption">
+                          <img src="img/blog-avatar.jpg">
+                          <div class="capt-info">
+                              <h5>Skeleton hand spiked bra</h5>
+                              <span>By Rachels graveyard</span>
+                          </div>
+                      </div>
+                  </a>
+
+
+                  </div>
 
                 	
 

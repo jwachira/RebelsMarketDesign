@@ -124,8 +124,8 @@
 
                    <h2>Trending items on RebelsMarket</h2>
                     <div class="blog-other-interest">
-                        <a href="">
-                            <div class="intrest-box">
+                        
+                        <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -136,11 +136,9 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
-                        <a href="">
-                            <div class="intrest-box">
+                            <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -151,11 +149,9 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
-                        <a href="">
-                            <div class="intrest-box">
+                            <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -166,71 +162,43 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
                     </div>
 
-                    <article class="article-list">
-                        <figure class="article-img">
-                             <a href=""><img src="img/blog-article.jpg"></a>
-                        </figure>
-
-                        <div class="article-teaser">
-                            <h1> <a href="">A Love Letter to Mascara</a></h1>
-                            <div class="by-author">
-                                <span>BY <a href="">John Doe</a></span>
-                                <span>Dec 19 2013</span>
-                                <span>Punk Rock</span>
-                                <a class="comment-count" href="#">81</a>
-                            </div>
-                            <p>
-                                Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                            Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                             
-                        </p>
+                    <article class="blog-block">
+                        <h3><a href="">Ten Tips For Looking Chic With Accessories</a></h3>
+                        <div class="by-author">
+                            <span>BY <a href="">John Doe</a></span>
+                            <span>Dec 19 2013</span>
+                            <span>Punk Rock</span>
+                            <a class="comment-count" href="#">120</a>
                         </div>
-                    </article>
-
-                    <article class="article-list">
-                        <figure class="article-img">
-                             <a href=""><img src="img/blog-article.jpg"></a>
+                        <figure>
+                            <a href=""><img src="img/blog_placeholder.jpg"></a>
                         </figure>
-
-                        <div class="article-teaser">
-                            <h1> <a href="">A Love Letter to Mascara</a></h1>
-                            <div class="by-author">
-                                <span>BY <a href="">John Doe</a></span>
-                                <span>Dec 19 2013</span>
-                                <span>Punk Rock</span>
-                                <a class="comment-count" href="#">12</a>
-                            </div>
-                            <p>
-                                Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                            Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                             
+                        <p>
+                             Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus...
+                            <a href="" class="more-link">Read more</a>
                         </p>
-                        </div>
-                    </article>
+                        <div class="social-likes">
+                                <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-                    <article class="article-list">
-                        <figure class="article-img">
-                             <a href=""><img src="img/blog-article.jpg"></a>
-                        </figure>
+                                <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-width="20" data-layout="button_count" data-show-faces="false" data-send="false"></div>
 
-                        <div class="article-teaser">
-                            <h1> <a href="">A Love Letter to Mascara</a></h1>
-                            <div class="by-author">
-                                <span>BY <a href="">John Doe</a></span>
-                                <span>Dec 19 2013</span>
-                                <span>Punk Rock</span>
-                                <a class="comment-count" href="#">126</a>
-                            </div>
-                            <p>
-                                Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                            Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in! Aliquet urna cum, in! Et pulvinar vut integer? Magnis ridiculus urna enim urna porttitor. Penatibus! Eros! Porta turpis eu dapibus enim! Aliquet ultricies mus.
-                             
-                        </p>
+                                <!-- Place this tag where you want the +1 button to render. -->
+                                <div class="g-plusone" data-size="medium"></div>
+
+                                <!-- Place this tag after the last +1 button tag. -->
+                                <script type="text/javascript">
+                                  (function() {
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                  })();
+                                </script>
+                                <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=http%3A%2F%2Ffarm8.staticflickr.com%2F7027%2F6851755809_df5b2051c9_z.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
                         </div>
                     </article>
 
@@ -241,8 +209,7 @@
 
                     <h2>Things that might interest you at RebelsMarket</h2>
                     <div class="blog-other-interest">
-                        <a href="">
-                            <div class="intrest-box">
+                            <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -253,11 +220,9 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
-                        <a href="">
-                            <div class="intrest-box">
+                         <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -268,11 +233,9 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
-                        <a href="">
-                            <div class="intrest-box">
+                         <a class="intrest-box" href="">
                                 <figure>
                                     <img src="img/other-interest.jpg">
                                 </figure>
@@ -283,8 +246,7 @@
                                         <span>By Rachels graveyard</span>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
 
                     </div>
              </section> 
