@@ -3,7 +3,7 @@
   <div id="top_footer_wrapper">
       <div class="container padding_20" id="top_footer">
           <div class="footer_columns about-footer">
-               <p class="txt_13 txt_bold">ABOUT REBELSMARKET</p>
+               <h4>ABOUT REBELSMARKET</h4>
 
               <img src="img/ftrabout.png" alt="pic" class="ftraboutimg">
 
@@ -18,7 +18,7 @@
            
           <div class="footer_columns">
               <ul class="top_footer_menu">
-                  <li><p class="txt_13 txt_bold">CUSTOMER SERVICE</p></li>
+                  <li><h4>CUSTOMER SERVICE</h4></li>
                   <li><a href="Order_tracking.html">Order Tracking</a></li>
                   <li><a href="Shipping_delivery.html">Shipping &amp; Delivery</a></li>
                   <li><a href="Returns.html">Returns</a></li>
@@ -27,7 +27,7 @@
             </div><!-- #footer_columns ends -->
           <div class="footer_columns">
               <ul class="top_footer_menu">
-                  <li><p class="txt_13 txt_bold">JOIN US</p></li>
+                  <li><h4>JOIN US</h4></li>
                   <li><a href="#">Facebook</a></li>
                   <li><a href="#">Twitter</a></li>
                   <li><a href="#">Youtube</a></li>
@@ -37,7 +37,7 @@
             </div><!-- #footer_columns ends -->
           <div class="footer_columns">
               <ul class="top_footer_menu">
-                  <li><p class="txt_13 txt_bold">MOBILE</p></li>
+                  <li><h4>MOBILE</h4></li>
                   <li><a href="#">RM iPhone App</a></li>
                   <li><a href="#">RM Android App</a></li>
                 </ul>

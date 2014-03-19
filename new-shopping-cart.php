@@ -111,7 +111,7 @@
                         </div>
 
                         <div class="cart_info">
-                          <p>Order Reference #H25335106766</p>
+                          <h4 class="order-reference">Order Reference <strong>#H25335106766</strong></h4>
                           <p>Ship my order to</p>
                           <form action="">
                             <label> Country <span title="Lorem Ipsum">(?)</span> </label>
@@ -127,7 +127,7 @@
                               <option value="">Washington</option>
                               <option value="">Georgia</option>
                             </select>
-                            <h3>Click here to Enter coupon code</h3>
+                            <h4 class="order-reference">Click here to Enter coupon code</h4>
                             <div class="datagrid">
                                 <table>
                                     <tbody>

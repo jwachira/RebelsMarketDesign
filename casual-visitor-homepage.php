@@ -47,7 +47,7 @@
                   
                   <div class="cartReview clearfix">
                      <div class="prodTitle clearfix">
-                         <h1><a href="#">Tattoo Icon T-shirt</a></h1>
+                         <h3><a href="#">Tattoo Icon T-shirt</a></h3>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
                      <a href="#" class="stars4 review_stars_wrapper"></a>
@@ -56,16 +56,16 @@
                               <img src="img/people1.png" alt="">
                           </figure>
                           <div class="author">
-                              <h1><a href="#">John doe</a></h1>
+                              <h4><a href="#">John doe</a></h4>
                               <span>October 13, 2013</span>
-                              <p>Halesowen, United Kingdom</p>
+                              <p class="user_location">Halesowen, United Kingdom</p>
                           </div>
                       </div>  
                   </div>
 
                   <div class="cartReview clearfix">
                      <div class="prodTitle clearfix">
-                         <h1><a href="#">Tattoo Icon T-shirt</a></h1>
+                         <h3><a href="#">Tattoo Icon T-shirt</a></h3>
                      </div>
                      <p class="comment">Beautiful coat, had lots of complements already!</p>
                       <a href="#" class="stars4 review_stars_wrapper"></a>
@@ -74,9 +74,9 @@
                               <img src="img/people1.png" alt="">
                           </figure>
                           <div class="author">
-                              <h1><a href="#">John doe</a></h1>
+                              <h4><a href="#">John doe</a></h4>
                               <span>October 13, 2013</span>
-                              <p>Halesowen, United Kingdom</p>
+                              <p class="user_location">Halesowen, United Kingdom</p>
                           </div>
                       </div>  
                   </div>

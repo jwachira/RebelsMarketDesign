@@ -35,6 +35,7 @@
     <link href="css/custom.css" rel="stylesheet" media="screen">
     <link href="css/jquery.bxslider.css" rel="stylesheet" media="screen">
     <link href="css/responsive.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
 
   </head>
 <body class="body-bg">

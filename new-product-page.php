@@ -141,9 +141,10 @@
                           <option>2</option>
                           <option>3</option>
                       </select>
-                    </div>                   
+                    </div> 
+                    <a class="view-size-chart" href="">View size chart</a>               
                   </form>
-                  <a class="view-size-chart" href="">View size chart</a>
+                  
             </section>
 
             <section class="pricing clearfix">

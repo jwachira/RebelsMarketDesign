@@ -1,95 +1,15 @@
 /*
 ====================================================
-Font CSS
-====================================================
-*/
-		@font-face {
-				font-family: 'HelveticaNeueLTStd';
-			    src: url('../fonts/helveticaltstd-roman.eot');
-			    src: url('../fonts/helveticaltstd-roman.eot') format('embedded-opentype'),
-			         url('../fonts/helveticaltstd-roman.woff') format('woff'),
-			         url('../fonts/helveticaltstd-roman.ttf') format('truetype'),
-			         url('../fonts/helveticaltstd-roman.svg#HelveticaLTStdRoman') format('svg');
-				font-weight: normal;
-				font-style: normal;
-		}
-		@font-face {
-				font-family: 'HelveticaNeueLTStd';
-				src: url('../fonts/helveticaneuelightcond.eot');
-				src: url('../fonts/helveticaneuelightcond.eot?#iefix') format('embedded-opentype'),
-						 url('../fonts/helveticaneuelightcond.woff') format('woff'),
-						 url('../fonts/helveticaneuelightcond.ttf') format('truetype'),
-						 url('../fonts/helveticaneuelightcond.svg#helveticaneuelightcond') format('svg');
-				font-weight:lighter;
-				font-style: normal;
-		}
-		@font-face {
-			    font-family: 'HelveticaNeueLTStd';
-			    src: url('../fonts/helveticabold_0.eot');
-			    src: url('../fonts/helveticabold_0.eot') format('embedded-opentype'),
-			         url('../fonts/helveticabold_0.woff') format('woff'),
-			         url('../fonts/helveticabold_0.ttf') format('truetype'),
-			         url('../fonts/helveticabold_0.svg#HelveticaNeueBold') format('svg');
-				font-weight:bold;
-				font-style: normal;
-		}
-	
-@media screen and (-webkit-min-device-pixel-ratio:0){
-		@font-face {
-			font-family: 'HelveticaNeueLTStd';
-			src: url('../fonts/helveticaltstd-roman.svg#HelveticaLTStdRoman') format('svg');
-				font-weight: normal;
-				font-style: normal;
-		}
-		@font-face {
-			font-family: 'HelveticaNeueLTStd';
-			src: url('../fonts/helveticaneueltstdltcn.svg#helveticaneueltstdltcn') format('svg');
-				font-weight:lighter;
-				font-style: normal;
-		}
-		@font-face {
-			font-family: 'HelveticaNeueLTStd';
-			src: url('../fonts/helveticabold_0.svg#HelveticaNeueBold') format('svg');
-				font-weight:bold;
-				font-style: normal;
-		}
-}		
-/*
-====================================================
 General CSS
 ====================================================
 */
-.win .dropdown-menu.cart-dropdown a.red-btn,
-.win #header .cart-dropdown a p,
-.win body,
-.win h1,
-.win h2,
-.win h3,
-.win h4,
-.win h5{
-	font-family: 'HelveticaNeueLTStd','HelveticaNeue','Segoe UI',Arial;
-}
+
 body{
 	background: #f2f2f2;
 	-webkit-font-smoothing: antialiased;
 	font-size: 12px;
 }
-button, select, input, textarea{
-	font-family: 'Helvetica Neue','Segoe UI',Arial;
-}
-h2{
-	font-size: 22px;
-	line-height: 30px;
-	color: #737373;
-	font-weight: normal;
-	font-family: 'Helvetica Neue','Segoe UI',Arial;
-	-webkit-font-smoothing: antialiased;
-}
-h3{
-	font-size: 20px;
-	line-height: 28px;
-	color: #737373;
-}
+
 a{
 	color:#ef3f3b;
   -o-transition:color .2s ease-out, background .2s ease-in;
@@ -334,11 +254,12 @@ Header CSS
 	margin: 8px 10px 0px;
 }
 #header .menu li.main a{
-	 font-family: 'helvetica_lt_stdbold';
 	color: #ddd;
 	font-size: 15px;
 	text-shadow: 0 1px 1px rgba(0,0,0,0.65);
 	-moz-text-shadow: 0 1px 1px rgba(0,0,0,0.65);
+	font-family: 'open_sansbold',Helvetica,sans-serif;
+	font-weight: normal;
 }
 #header .menu li.main:hover{
 	background: url(../img/category-arw.png) bottom center no-repeat;
@@ -359,7 +280,7 @@ Header CSS
 #header .menu li.main{
 	float:left;
 	position:relative;/* ie needs position:relative here*/
-	margin: 6px 45px 0px 0;	 
+	margin: 6px 40px 0px 0;	 
 }
 #header .menu li.main.sell{
 	margin-right:0;
