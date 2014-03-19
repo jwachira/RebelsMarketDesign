@@ -391,7 +391,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-1.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>The Chanel Hoedown</h2>
+			                          				<h4>The Chanel Hoedown</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -404,7 +404,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-2.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>PUMA MMQ Leather Stepper..</h2>
+			                          				<h4>PUMA MMQ Leather Stepper..</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -417,7 +417,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-3.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>The Simpsons Limited-Edition...</h2>
+			                          				<h4>The Simpsons Limited-Edition...</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -430,7 +430,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-4.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Crooks and Castles Hits PLNDR</h2>
+			                          				<h4>Crooks and Castles Hits PLNDR</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -443,7 +443,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-5.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Jordan Brand Pack</h2>
+			                          				<h4>Jordan Brand Pack</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -456,7 +456,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-6.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Yeezus Pop-Up Shop in Chicago</h2>
+			                          				<h4>Yeezus Pop-Up Shop in Chicago</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -469,7 +469,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-7.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Del Toro Red Suede Biker..</h2>
+			                          				<h4>Del Toro Red Suede Biker..</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -482,7 +482,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-8.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>BELIEF 2013 Holiday Lookbook</h2>
+			                          				<h4>BELIEF 2013 Holiday Lookbook</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -499,7 +499,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-1.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>The Chanel Hoedown</h2>
+			                          				<h4>The Chanel Hoedown</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -512,7 +512,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-2.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>PUMA MMQ Leather Stepper..</h2>
+			                          				<h4>PUMA MMQ Leather Stepper..</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -525,7 +525,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-3.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>The Simpsons Limited-Edition...</h2>
+			                          				<h4>The Simpsons Limited-Edition...</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -538,7 +538,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-4.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Crooks and Castles Hits PLNDR</h2>
+			                          				<h4>Crooks and Castles Hits PLNDR</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -551,7 +551,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-5.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Jordan Brand Pack</h2>
+			                          				<h4>Jordan Brand Pack</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -564,7 +564,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-6.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Yeezus Pop-Up Shop in Chicago</h2>
+			                          				<h4>Yeezus Pop-Up Shop in Chicago</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -577,7 +577,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-7.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>Del Toro Red Suede Biker..</h2>
+			                          				<h4>Del Toro Red Suede Biker..</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
@@ -590,7 +590,7 @@ Don't let the haters get you down. They probably just haven't found their brand 
 			                          				<img src="img/popular-single-8.jpg">
 			                          			</figure>
 			                          			<div class="poplr-info">
-			                          				<h2>BELIEF 2013 Holiday Lookbook</h2>
+			                          				<h4>BELIEF 2013 Holiday Lookbook</h4>
 			                          				<p>Essential to every man's wardrobe..</p>
 			                          				<span>1 day ago</span>
 			                          			</div>
