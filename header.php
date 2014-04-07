@@ -117,8 +117,7 @@
           </li> 
           <li>
               <a href="">
-                  <span class="menu_text">Shopping Basket</span>
-                  <span class="fav-icon shopping">12</span>
+                  <div class="cart-info"><span class="cart-item">4</span> items in Cart</div>
               </a>
           </li> 
 

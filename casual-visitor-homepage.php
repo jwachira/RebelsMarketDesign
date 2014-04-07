@@ -1,4 +1,5 @@
   <?php include('header.php'); ?>
+
     <div id="content">
       
       	<div class="container headerMarginTop">
@@ -30,16 +31,16 @@
                 <h4>What's New</h4>
                 <div class="verticle-menu new-items">
                     <ul>
-                        <li><a href="#">Undies/Thongs/panties</a></li>
-                        <li><a href="#">Consumables</a></li>
-                        <li><a href="#">Keychains</a></li>
-                        <li><a href="#">Necklaces</a></li>
-                        <li><a href="#">Bar &amp; Glasssware</a></li>
-                        <li><a href="#">Tees</a></li>
-                        <li><a href="#">Bracelets &amp; Wristbands</a></li>
-                        <li><a href="#">Leggings</a></li>
-                        <li><a href="#">Consumables</a></li>
-                        <li><a href="#">Jackets &amp; Coats</a></li>
+                        <li><a href="">Undies/Thongs/panties</a></li>
+                        <li><a href="">Consumables</a></li>
+                        <li><a href="">Keychains</a></li>
+                        <li><a href="">Necklaces</a></li>
+                        <li><a href="">Bar &amp; Glasssware</a></li>
+                        <li><a href="">Tees</a></li>
+                        <li><a href="">Bracelets &amp; Wristbands</a></li>
+                        <li><a href="">Leggings</a></li>
+                        <li><a href="">Consumables</a></li>
+                        <li><a href="">Jackets &amp; Coats</a></li>
                     </ul>
                 </div>
                 <h4>Customer Testimonials</h4>
