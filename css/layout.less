@@ -9636,7 +9636,7 @@ input[type="submit"] {
     width:100%;
     position:absolute;
     left:0;
-    top:49px;
+    top:47px;
     padding:20px;
     li>a{
         font-family: @font-regular;
@@ -9690,7 +9690,7 @@ input[type="submit"] {
     color:#ddd;
     font-size:14px;
     line-height:20px;
-   border-bottom: 1px dotted #3C3C3C;
+     border-bottom: 1px dotted #818080;
     padding:8px 0;
     display:block;
     text-shadow:none;
@@ -9880,6 +9880,7 @@ div.poptip p {
     .container {
     background:url('../img/header-border.png') repeat-x bottom left;
     padding:10px 0;
+    height: 50px;
 }
 .main-menu {
     padding:0;
@@ -9894,6 +9895,9 @@ div.poptip p {
     font-weight: normal;
     color:#484644;
     text-shadow:none;
+    &:hover{
+        color:@red;
+    }
 }
 &:last-of-type {
     a {
@@ -9903,7 +9907,7 @@ div.poptip p {
 }
 >li .menu-width {
     z-index:999;
-    background:#191818;
+    background:#343434;
 }
 >li:after {
     background:url(../img/menu-active.png) no-repeat center top;
@@ -10142,7 +10146,7 @@ select {
         }
     }
     section.category-block{
-        margin-left: 234px;
+        margin-left: 235px;
     }
 }
 .category-title{
@@ -10161,3 +10165,179 @@ select {
     }
 }
 
+.product-div{
+    padding: 10px 0;
+}
+.single-cloth{
+    border:#e2e2e2 solid 1px;
+    .rounded (@radius:3px);
+    width: 215px;
+    overflow: hidden;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    margin: 4px;
+    .main-pic{
+        height:188px;
+        overflow:hidden;
+        img{
+            width:100%;
+        }
+    }
+    .product-excerpt{
+        padding:10px;
+        .shop-img{
+            float:left;
+            width:32px;
+            height:32px;
+            overflow:hidden;
+            img{
+                width:100%;
+            }
+        }
+        .left-text{
+            margin-left: 42px;
+            a{
+                color:#333;
+                &:hover{
+                    color:@red;
+                }
+            }
+            .product-id{
+                font-family: @font-bold;
+                font-size: 11px;
+                display: block;
+            }
+            .seller-id{
+                font-size: 11px;
+                 display: block;
+            }
+        }
+    }
+    &:hover{
+        -webkit-box-shadow: 0px 0px 15px 3px #E4E4E4;
+        -moz-box-shadow: 0px 0px 15px 3px #E4E4E4;
+        box-shadow: 0px 0px 15px 3px #E4E4E4;
+    }
+}
+
+.latest-review{
+    margin: 20px 0 10px;
+    float: left;
+    width: 100%;
+    border-bottom: #F0F0F0 solid 1px;
+    padding-bottom: 20px;
+}
+.no-love{
+    border:none;
+}
+.review-column{
+    float: left;
+    width: 47.788%;
+    margin-right: 40px;
+    &:last-of-type{
+        margin-right: 0px;
+    }
+}
+.review-left{
+    float:left;
+    width:105px;
+    figure{
+        border:#E2E2E2 solid 1px;
+        .rounded (@radius:3px);
+        margin-bottom: 5px;
+        img{
+            width:100%;
+        }
+    }
+    p{
+        font-size: 11px;
+        opacity: 0.7;
+        margin: 0;
+    }
+}
+.review-right{
+    margin-left:125px;
+    h3{
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+        font-family: @font-bold;
+        font-weight: normal;
+        border-bottom: #e0e0e0 dotted 1px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        a{
+            color:#444;
+            &:hover{
+                color:@red;
+            }
+        }
+        span{
+            color:@red;
+            float:right;
+        }
+    }
+    h5{
+        font-family: @font-bold;
+        font-weight: normal;
+        margin: 0 0 5px;
+        padding: 0;
+        opacity: 0.6;
+        font-size: 12px;
+        a{
+            color:#444;
+            &:hover{
+                color:@red;
+            }
+        }
+    }
+}
+.blog-home{
+    float: left;
+    margin: 20px 0 30px;
+}
+.blog-column{
+    float: left;
+    width: 47.7%;
+    margin-right: 30px;
+    figure{
+        float: left;
+        width: 160px;
+        height: 130px;
+        overflow: hidden;
+        img{
+            width:100%;
+        }
+    }
+    .blog-excerpt{
+        margin-left: 180px;
+        display: block;
+        h4{
+            font-family: @font-bold;
+            font-weight: normal;
+            margin: 0 0 5px;
+            padding: 0;
+            a{
+                color: #333;
+                &:hover{
+                    color:@hover;
+                }
+            }
+        }
+        p{
+            a{
+                color:@red;
+                font-family: @font-bold;
+                font-weight: normal;
+            }
+        }
+    }
+    &:last-of-type{
+        margin-right: 0px;
+    }
+}
+
+.home-about-section{
+    margin: 10px 0 50px;
+}
