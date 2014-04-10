@@ -30,7 +30,6 @@
       <html class="no-js gt-ie9" lang="en"> 
   <![endif]-->
     <link href="css/layout.css" rel="stylesheet" type="text/css" />
-    <link type="text/css" media="screen" rel="stylesheet" href="css/responsive-tables.css" />
     <script src="js/css_browser_selector.js" type="text/javascript"></script>
     <link href="css/custom.css" rel="stylesheet" media="screen">
     <link href="css/jquery.bxslider.css" rel="stylesheet" media="screen">

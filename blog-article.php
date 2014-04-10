@@ -273,6 +273,37 @@ Vel urna! Hac et sed sociis urna lundium odio! Porttitor tortor lundium magna in
 	                	</form>
 	                </div>
 
+                  <h4>Recommended Products</h4>
+                    <div class="recommended-products">
+                      <a href="" class="recommended-row">
+                          <figure><img src="img/new4.png" alt=""></figure>
+                          <div class="recommended-detail">
+                             <h5>New Balance</h5>
+                             <p>The Elite Edition Barbershop Pack 580 Sneaker in Red</p>
+                             <div class="recomended-item-prize">$120.00</div>
+                          </div>
+                      </a>
+
+                      <a href="" class="recommended-row">
+                          <figure><img src="img/new4.png" alt=""></figure>
+                          <div class="recommended-detail">
+                             <h5>New Balance</h5>
+                             <p>The Elite Edition Barbershop Pack 580 Sneaker in Red</p>
+                             <div class="recomended-item-prize">$120.00</div>
+                          </div>
+                      </a>
+
+                      <a href="" class="recommended-row">
+                          <figure><img src="img/new4.png" alt=""></figure>
+                          <div class="recommended-detail">
+                             <h5>New Balance</h5>
+                             <p>The Elite Edition Barbershop Pack 580 Sneaker in Red</p>
+                             <div class="recomended-item-prize">$120.00</div>
+                          </div>
+                      </a>
+
+                  </div>
+
 	                <div class="blog-ad-banner">
 	                	<a href=""><img src="img/blog-ad-banner.jpg"></a>
 	                </div>
