@@ -14,7 +14,7 @@
 <div class="container">
   
 <section class="category-page art-page">
-   <h1 class="page-title">Art Shop</h1>   
+   <h1 class="page-title">Shoes Shop</h1>   
 
   <div class="main-content">
     <aside class="side-bar">
@@ -93,11 +93,11 @@
       
       <div class="art-banners">
         <div class="main-banner">
-          <a href=""> <img src="img/main-art-banner.jpg" alt=""></a>
+          <a href=""> <img src="img/shoe-shop-main-banner.jpg" alt=""></a>
         </div>
         <div class="mini-banner">
-          <figure><a href=""><img src="img/art-min-banner-01.jpg" alt=""></a></figure>
-           <figure><a href=""><img src="img/art-min-banner-02.jpg" alt=""></a></figure>
+          <figure><a href=""><img src="img/shoe-shop-mini-banner-01.jpg" alt=""></a></figure>
+           <figure><a href=""><img src="img/shoe-shop-mini-banner-02.jpg" alt=""></a></figure>
         </div>
       </div>
 
@@ -467,7 +467,7 @@
 
        </div>
 
-        <h4 class="category-title">About Art</h4>
+        <h4 class="category-title">About Shoes</h4>
         <div class="home-about-section">
           <p>Clothing has been a staple of human civilization since the first caveman invented the loincloth.</p>
           <p>            
@@ -486,5 +486,5 @@ Nowadays, you don't have to slay a mighty mastodon to improve your wardrobe. In 
 </div><!-- end of .container -->
 
 </div><!-- end of #content -->
-<?php include('footer.php'); ?>	
+<?php include('footer.php'); ?> 
 
