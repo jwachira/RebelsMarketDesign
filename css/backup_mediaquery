@@ -70,7 +70,7 @@ OVERALL RESPONSIVE CSS
 	    width: 527px;
 	}
 	#header .cart .separator {
-	    background: url("../img/cartseparator.png") bottom center;
+	    background: url("../images/cartseparator.png") bottom center;
 	    height: 97px;
 	    top: 0px;
 	}	
@@ -106,7 +106,7 @@ OVERALL RESPONSIVE CSS
 #logo {
     margin: 22px 0 23px 8px;
     width: 55px;
-    background: url(../img/logosmall.jpg) center center no-repeat;
+    background: url(../images/logosmall.jpg) center center no-repeat;
     background-size: contain;
 }
 #header .searchbox{

@@ -237,16 +237,16 @@ Top Section CSS
 	margin:auto;
 }
 .top-user span{
-	background: url(../img/new-user-icon.png);
+	background: url(../images/new-user-icon.png);
 }
 .top-hearth span{
-	background: url(../img/new-heart-icon.png);
+	background: url(../images/new-heart-icon.png);
 }
 .top-msg span{
-	background: url(../img/new-msg-icon.png);
+	background: url(../images/new-msg-icon.png);
 }
 .top-cart span{
-	background: url(../img/new-cart-icon.png);
+	background: url(../images/new-cart-icon.png);
 }
 .navbar-nav.top-rightsection span{
 	position: relative;
@@ -341,7 +341,7 @@ Header CSS
 	-moz-text-shadow: 0 1px 1px rgba(0,0,0,0.65);
 }
 #header .menu li.main:hover{
-	background: url(../img/category-arw.png) bottom center no-repeat;
+	background: url(../images/category-arw.png) bottom center no-repeat;
 	padding-bottom: 9px;
 }
 #menu-wrap{
@@ -403,20 +403,20 @@ Header CSS
 	display: block;
 	width: 150px;
 	height: 36px;
-	background: url(../img/rebel-logo.png) no-repeat center center;
+	background: url(../images/rebel-logo.png) no-repeat center center;
 	background-size: contain;
 }
 #blog-logo{
 	display: block;
 	width: 150px;
 	height: 36px;
-	background: url(../img/logo.png) no-repeat center center;
+	background: url(../images/logo.png) no-repeat center center;
 	background-size: contain;
 	margin-top: 10px;
 	margin-right: 50px;
 }	
 #header .cart {
-	background: url(../img/cartbg.png);
+	background: url(../images/cartbg.png);
 	width: 180px;
 	height: 97px;
 	position: relative;
@@ -433,7 +433,7 @@ Header CSS
 	position: absolute;
 	left: 0px;
 	top:-40px;
-	background: url(../img/cartseparator.png);
+	background: url(../images/cartseparator.png);
 	width: 2px;
 	height: 137px;
 }
@@ -441,7 +441,7 @@ Header CSS
 	position: absolute;
 	left: 12px;
 	top: 32px;
-	background: url(../img/carticon.png);
+	background: url(../images/carticon.png);
 	width: 33px;
 	height: 33px;
 }
@@ -545,7 +545,7 @@ Header CSS
 	position: absolute;
 	width: 2px;
 	height: 100%;
-	background: url(../img/cartdpdbg.png);
+	background: url(../images/cartdpdbg.png);
 }
 .navbar-nav.pull-right>li>.dropdown-menu.cart-dropdown, 
 .navbar-nav>li>.dropdown-menu.cart-dropdown.pull-right {
@@ -608,7 +608,7 @@ Header CSS
 #header .searchbox button span{
 	color: #ffffff;
 	text-shadow: 1px 1px #bf322f;
-	background: url(../img/searchicon.png) right center no-repeat;
+	background: url(../images/searchicon.png) right center no-repeat;
 	font-weight: bold;
 	font-size: 14px;
 	padding: 1px 25px 2px 0px;
@@ -721,100 +721,100 @@ Header CSS
 	font-weight: bold;
 }
 #menu-category-dropdown .dropdown-woman .new a{
-	background: url(../img/dropdown/new1.png);
+	background: url(../images/dropdown/new1.png);
 }
 #menu-category-dropdown .dropdown-woman .popular a{
-	background: url(../img/dropdown/popular1.png);
+	background: url(../images/dropdown/popular1.png);
 }
 #menu-category-dropdown .dropdown-woman .seller a{
-	background: url(../img/dropdown/seller1.png);
+	background: url(../images/dropdown/seller1.png);
 }
 #menu-category-dropdown .dropdown-woman .trending a{
-	background: url(../img/dropdown/trending1.png);
+	background: url(../images/dropdown/trending1.png);
 }
 #menu-category-dropdown .dropdown-man .new a{
-	background: url(../img/dropdown/new2.png);
+	background: url(../images/dropdown/new2.png);
 }
 #menu-category-dropdown .dropdown-man .popular a{
-	background: url(../img/dropdown/popular2.png);
+	background: url(../images/dropdown/popular2.png);
 }
 #menu-category-dropdown .dropdown-man .seller a{
-	background: url(../img/dropdown/seller2.png);
+	background: url(../images/dropdown/seller2.png);
 }
 #menu-category-dropdown .dropdown-man .trending a{
-	background: url(../img/dropdown/trending2.png);
+	background: url(../images/dropdown/trending2.png);
 }
 #menu-category-dropdown .dropdown-artwork .new a{
-	background: url(../img/dropdown/new3.png);
+	background: url(../images/dropdown/new3.png);
 }
 #menu-category-dropdown .dropdown-artwork .popular a{
-	background: url(../img/dropdown/popular3.png);
+	background: url(../images/dropdown/popular3.png);
 }
 #menu-category-dropdown .dropdown-artwork .seller a{
-	background: url(../img/dropdown/seller3.png);
+	background: url(../images/dropdown/seller3.png);
 }
 #menu-category-dropdown .dropdown-artwork .trending a{
-	background: url(../img/dropdown/trending3.png);
+	background: url(../images/dropdown/trending3.png);
 }
 #menu-category-dropdown .dropdown-clothing .new a{
-	background: url(../img/dropdown/new4.png);
+	background: url(../images/dropdown/new4.png);
 }
 #menu-category-dropdown .dropdown-clothing .popular a{
-	background: url(../img/dropdown/popular4.png);
+	background: url(../images/dropdown/popular4.png);
 }
 #menu-category-dropdown .dropdown-clothing .seller a{
-	background: url(../img/dropdown/seller4.png);
+	background: url(../images/dropdown/seller4.png);
 }
 #menu-category-dropdown .dropdown-clothing .trending a{
-	background: url(../img/dropdown/trending4.png);
+	background: url(../images/dropdown/trending4.png);
 }
 #menu-category-dropdown .dropdown-decor .new a{
-	background: url(../img/dropdown/new5.png);
+	background: url(../images/dropdown/new5.png);
 }
 #menu-category-dropdown .dropdown-decor .popular a{
-	background: url(../img/dropdown/popular5.png);
+	background: url(../images/dropdown/popular5.png);
 }
 #menu-category-dropdown .dropdown-decor .seller a{
-	background: url(../img/dropdown/seller5.png);
+	background: url(../images/dropdown/seller5.png);
 }
 #menu-category-dropdown .dropdown-decor .trending a{
-	background: url(../img/dropdown/trending5.png);
+	background: url(../images/dropdown/trending5.png);
 }
 #menu-category-dropdown .dropdown-gadgets .new a{
-	background: url(../img/dropdown/new6.png);
+	background: url(../images/dropdown/new6.png);
 }
 #menu-category-dropdown .dropdown-gadgets .popular a{
-	background: url(../img/dropdown/popular6.png);
+	background: url(../images/dropdown/popular6.png);
 }
 #menu-category-dropdown .dropdown-gadgets .seller a{
-	background: url(../img/dropdown/seller6.png);
+	background: url(../images/dropdown/seller6.png);
 }
 #menu-category-dropdown .dropdown-gadgets .trending a{
-	background: url(../img/dropdown/trending6.png);
+	background: url(../images/dropdown/trending6.png);
 }
 #menu-category-dropdown .dropdown-houseware .new a{
-	background: url(../img/dropdown/new7.png);
+	background: url(../images/dropdown/new7.png);
 }
 #menu-category-dropdown .dropdown-houseware .popular a{
-	background: url(../img/dropdown/popular7.png);
+	background: url(../images/dropdown/popular7.png);
 }
 #menu-category-dropdown .dropdown-houseware .seller a{
-	background: url(../img/dropdown/seller7.png);
+	background: url(../images/dropdown/seller7.png);
 }
 #menu-category-dropdown .dropdown-houseware .trending a{
-	background: url(../img/dropdown/trending7.png);
+	background: url(../images/dropdown/trending7.png);
 }
 #menu-category-dropdown .dropdown-jewery .new a{
-	background: url(../img/dropdown/new8.png);
+	background: url(../images/dropdown/new8.png);
 }
 #menu-category-dropdown .dropdown-jewery .popular a{
-	background: url(../img/dropdown/popular8.png);
+	background: url(../images/dropdown/popular8.png);
 }
 #menu-category-dropdown .dropdown-jewery .seller a{
-	background: url(../img/dropdown/seller8.png);
+	background: url(../images/dropdown/seller8.png);
 }
 #menu-category-dropdown .dropdown-jewery .trending a{
-	background: url(../img/dropdown/trending8.png);
+	background: url(../images/dropdown/trending8.png);
 }
 /*
 ====================================================
@@ -844,14 +844,14 @@ Body CSS
 	float:left
 }
 #home_icon{
-	background:url(../img/home_icon.gif) no-repeat center center; 
+	background:url(../images/home_icon.gif) no-repeat center center; 
 	height:22px; 
 	width:40px
 }
 .breadcrumb_link{
 	color:#575757; 
 	padding: 5px 14px 15px 20px;
-	background: url(../img/breadcrumb_arrow.gif) no-repeat center left; 
+	background: url(../images/breadcrumb_arrow.gif) no-repeat center left; 
 	height:16px
 }
 #breadcrumb a{
@@ -878,7 +878,7 @@ Floating Box CSS
 	border: 1px solid rgba(185,184,185,0.2);
 }
 #floatingbox .closebox{
-	background: url(../img/close.png);
+	background: url(../images/close.png);
 	display: block;
 	width: 30px;
 	height: 30px;
@@ -942,7 +942,7 @@ Pre Footer CSS
 	padding-right: 0;
 }
 #pre-footer .container .goup{
-	background: url(../img/goup.png);
+	background: url(../images/goup.png);
 	display: block;
 	width: 30px;
 	height: 30px;
@@ -997,7 +997,7 @@ Footer CSS
 	margin: 15px 0px;
 }
 #footer .icons{
-	background: url(../img/ftricons.png) center center;
+	background: url(../images/ftricons.png) center center;
 	width: 497px;
 	height: 59px;
 	display: block;
