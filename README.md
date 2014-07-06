@@ -6,16 +6,12 @@ then go console and run $ serve
 
 and open your browser and go to http://localhost:4000
 
-to preview the work on the browser we need to convert .less files to .css
+We are using gulp to handle task management for realtime compilation of css changes for now
 
-for this you need to install less parser
+you need to install gulp and the dependencies
 
-installing LESS parser
+so you need to do the following:
 
-npm install -g less
-
-converting less to css
-
-This will output the compiled CSS to a the file specified
-
-$ lessc styles.less > styles.css
+npm install gulp
+npm install --save-dev gulp-less
+npm install --save-dev gulp-watch
