@@ -33,7 +33,7 @@ Font CSS
 				font-weight:bold;
 				font-style: normal;
 		}
-	
+
 @media screen and (-webkit-min-device-pixel-ratio:0){
 		@font-face {
 			font-family: 'HelveticaNeueLTStd';
@@ -53,7 +53,7 @@ Font CSS
 				font-weight:bold;
 				font-style: normal;
 		}
-}		
+}
 /*
 ====================================================
 General CSS
@@ -166,7 +166,7 @@ Top Section CSS
 	width:100%;
 }
 .head-wrap{
-	margin-top: 50px;	
+	margin-top: 50px;
 }
 #top-section .container{
 	padding: 0;
@@ -176,15 +176,15 @@ Top Section CSS
 	font-weight: bold;
 	color: #e9e9e9;
 }
-#top-section a:hover{ 
+#top-section a:hover{
 	color: #949494;
 }
 #top-section li li a{
 	color: #999;
 }
-.nav .open>a, .nav .open>a:hover, 
+.nav .open>a, .nav .open>a:hover,
 .nav .open>a:focus,
-#top-section .nav>li>a:hover, 
+#top-section .nav>li>a:hover,
 #top-section .nav>li>a:focus {
 	text-decoration: none;
 	background:#1a1919;
@@ -216,11 +216,11 @@ Top Section CSS
 	width: 60px;
 	text-align: center;
 }
-.navbar-nav.top-rightsection.pull-right>li>.dropdown-menu, 
+.navbar-nav.top-rightsection.pull-right>li>.dropdown-menu,
 .navbar-nav.top-rightsection>li>.dropdown-menu.pull-right{
 	left: 0;
 	right: auto;
-	 
+
 }
 
 .top-user span,
@@ -351,7 +351,7 @@ Header CSS
 	text-align:left;
 }
 #header .menu{
-	list-style:none; 
+	list-style:none;
 	position:relative;
 	left:50%;
 	width: 1170px;
@@ -359,7 +359,7 @@ Header CSS
 #header .menu li.main{
 	float:left;
 	position:relative;/* ie needs position:relative here*/
-	margin: 6px 45px 0px 0;	 
+	margin: 6px 45px 0px 0;
 }
 #header .menu li.main.sell{
 	margin-right:0;
@@ -376,7 +376,7 @@ Header CSS
 	white-space:nowrap;
 	color: #f9f7f7;
 }
-#header .menu .main a:hover{ 
+#header .menu .main a:hover{
 	color: #949494;
 }
 #header .menu li.sell a{
@@ -414,7 +414,7 @@ Header CSS
 	background-size: contain;
 	margin-top: 10px;
 	margin-right: 50px;
-}	
+}
 #header .cart {
 	background: url(../images/cartbg.png);
 	width: 180px;
@@ -507,7 +507,7 @@ Header CSS
 	top: auto;
 	left: auto;
 }
-#header .dropdown-menu.cart-dropdown>li>a:hover, 
+#header .dropdown-menu.cart-dropdown>li>a:hover,
 #header .dropdown-menu.cart-dropdown>li>a:focus {
 	background-color: #949490;
 	color: #fff !important;
@@ -547,7 +547,7 @@ Header CSS
 	height: 100%;
 	background: url(../images/cartdpdbg.png);
 }
-.navbar-nav.pull-right>li>.dropdown-menu.cart-dropdown, 
+.navbar-nav.pull-right>li>.dropdown-menu.cart-dropdown,
 .navbar-nav>li>.dropdown-menu.cart-dropdown.pull-right {
 	right: 0px;
 	left: auto;
@@ -825,16 +825,16 @@ Body CSS
 	background: #fff;
 }
 #breadcrumb{
-	overflow:hidden; 
-	height:22px; 
-	background:#fff; 
-	border:#c7c7c7 1px solid; 
-	color:#7d7d7d; 
-	-moz-border-radius:4px; 
-	border-radius: 4px; 
-	float:left; 
-	font-size:11px; 
-	line-height:10px; 
+	overflow:hidden;
+	height:22px;
+	background:#fff;
+	border:#c7c7c7 1px solid;
+	color:#7d7d7d;
+	-moz-border-radius:4px;
+	border-radius: 4px;
+	float:left;
+	font-size:11px;
+	line-height:10px;
 	list-style:none;
 	padding-left: 0px;
 	margin: 20px 0px;
@@ -844,14 +844,14 @@ Body CSS
 	float:left
 }
 #home_icon{
-	background:url(../images/home_icon.gif) no-repeat center center; 
-	height:22px; 
+	background:url(../images/home_icon.gif) no-repeat center center;
+	height:22px;
 	width:40px
 }
 .breadcrumb_link{
-	color:#575757; 
+	color:#575757;
 	padding: 5px 14px 15px 20px;
-	background: url(../images/breadcrumb_arrow.gif) no-repeat center left; 
+	background: url(../images/breadcrumb_arrow.gif) no-repeat center left;
 	height:16px
 }
 #breadcrumb a{
@@ -1068,4 +1068,11 @@ Specific Browsers Tweeks CSS
 .ie .navbar-nav>li>a{
 	padding-top: 8px;
 	padding-bottom: 12px;
+}
+.float-cart {
+	position: fixed;
+	top: 120px;
+	z-index: 10000;
+	border-radius: 0 0 0.5em 0.5em;
+	width: 350px;
 }
