@@ -12,6 +12,4 @@ you need to install gulp and the dependencies
 
 so you need to do the following:
 
-npm install gulp
-npm install --save-dev gulp-less
-npm install --save-dev gulp-watch
+npm install  -- this will install all the dependencies
