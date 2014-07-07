@@ -6383,12 +6383,20 @@ input[type='submit']:hover{
 		width: 80%;
 		background: #fff;
 		border-right: #b2b2b2 dotted 1px;
-		padding: 10px;
+		padding: 15px;
 		h4{
 			color: #454545;
 			margin: 0 0 20px;
 			font-weight: bold;
 			font-size:20px;
+		}
+		h1{
+			color: #454545;
+			margin: 0 0 20px;
+			font-weight: bold;
+			font-size:18px;
+			border:0;
+			margin: 0 0 5px 0;
 		}
 	}
 	.fav-block{
@@ -6426,6 +6434,9 @@ input[type='submit']:hover{
 				font-weight: normal;
 				margin: 0 0 3px;
 				line-height: 1;
+				a{
+					margin-left:5px;
+				}
 			}
 		}
 		.contact-seller-btn{
@@ -8081,4 +8092,61 @@ div.poptip:before {
 div.poptip p {
   margin: 10px;
   color: white;
+}
+.checkout-banner {
+	display: inline-block;
+	background-color: #F2F2F2;
+	height: 50px;
+	position: relative;
+	top: -6px;
+	-webkit-border-bottom-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 2px 3px -2px #666 inset;
+	-webkit-box-shadow: 0 2px 3px -2px #666 inset;
+	box-shadow: 0 2px 3px -2px #666 inset;
+	width: 70%;
+	text-align: center;
+	margin-left:14.5%;
+	.checkout-banner-title {
+		text-shadow: 1px 1px 1px #F2F2F2;
+		font-weight:lighter;
+		font-size: 24px;
+	}
+	.checkout-banner-button {
+		font-size: 1.1em;
+		color: #FFF;
+		display: inline-block;
+		font-weight: bold;
+		text-shadow: 0 0 0 rgba(0, 0, 0, 0),0 -1px 1px rgba(0, 0, 0, 0.2);
+		cursor: pointer;
+		background-color: #DD0017;
+		background: -moz-linear-gradient(100% 100% 90deg,#b50025,#f40017);
+		background: -webkit-gradient(linear,0% 0,0% 100%,from(#F40017),to(#B50025));
+		background-image: -o-linear-gradient(#b50025,#f40017);
+		margin-left: 20px;
+		margin-top: 10px;
+		top: 13px;
+		padding: .44em 1.5em;
+	}
+	.checkout-banner-button:hover {
+	color:#fff;
+	}
+	.hide-shoppingcart-banner {
+		top: 10px;
+		height: 8px;
+		width: 8px;
+		display: inline-block;
+		position: relative;
+		margin-left: 10px;
+	  float: left;
+		cursor: pointer;
+	}
+	.hide-shoppingcart-banner:hover {
+		color:red;
+	}
 }

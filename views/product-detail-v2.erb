@@ -1,4 +1,5 @@
 <%= render 'header' %>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -10,12 +11,19 @@
 
 <div id="content">
   <div class="container headerMarginTop">
+
+    <div class="checkout-banner">
+      <span title="Close " alt="Close" class="hide-shoppingcart-banner">X</span>
+      <span class="checkout-banner-title">Ready to Checkout? Am always here whenever you are</span>
+      <a class="checkout-banner-button" title="Checkout" data-event="checkout-banner-button">(2) Checkout Now</a>
+    </div>
+
      <section class="breadcrumb-section clearfix">
           <div class="bread-crumb">
               <div class="searchNav">
                   <a href=""><img src="../images/homeIcon.png"></a>
                   <a href="">Tees</a>
-                  <a href="">Be An Ace Tee Men's White</a>
+                  <a href="">Be An Ace sfsdfsTee Men's White</a>
                </div>
           </div>
           <div class="social-likes">
@@ -38,39 +46,14 @@
           </div>
      </section>
 
-
-     <section class="teaser-banner clearfix">
-        <div class="discBox clearfix">
-            <div class="iconSide"><img src="../images/cartIco.png"></div>
-            <div class="discDesc">
-                <div class="box-heading">Over 20,000 unique Products</div>
-                <p>Shop 500 + niche brands</p>
-            </div>
-        </div>
-        <div class="discBox clearfix">
-            <div class="iconSide"><img src="../images/track_icon.png"></div>
-            <div class="discDesc">
-                <div class="box-heading">We ship Worldwide</div>
-                <p>Our sellers ship worldwide</p>
-            </div>
-        </div>
-        <div class="discBox clearfix">
-            <div class="iconSide"><img src="../images/security_ico.png"></div>
-            <div class="discDesc">
-               <div class="box-heading">Secure online shopping</div>
-                <p>Safe and secure checkout</p>
-            </div>
-        </div>
-     </section>
-
      <section class="title-block clearfix">
          <div class="side-title">
-             <h4>NECESSARY EVIL SLAINE MENS TROUSERS</h4>
+             <h1>Women Sleeveless Red Chiffon Big Hem Blouse</h1>
              <div class="dev-info clearfix">
                   <div class="sel-info">
                       <a href=""><img src="../images/avata-01.jpg" class="avatar"></a>
                       <div class="info-area">
-                           <h4><a href="">BY KATES CLOTHING</a></h4>
+                           <h4>from<a href="">KATES CLOTHING</a></h4>
                            <p>Kent, South East England</p>
                       </div>
                       <a class="contact-seller-btn" href="">Contact seller</a>
@@ -492,7 +475,29 @@
         <%= render 'floating_shopping_cart' %>
      </section>
 
-
+   <section class="teaser-banner clearfix">
+      <div class="discBox clearfix">
+          <div class="iconSide"><img src="../images/cartIco.png"></div>
+          <div class="discDesc">
+              <div class="box-heading">Over 20,000 unique Products</div>
+              <p>Shop 500 + niche brands</p>
+          </div>
+      </div>
+      <div class="discBox clearfix">
+          <div class="iconSide"><img src="../images/track_icon.png"></div>
+          <div class="discDesc">
+              <div class="box-heading">We ship Worldwide</div>
+              <p>Our sellers ship worldwide</p>
+          </div>
+      </div>
+      <div class="discBox clearfix">
+          <div class="iconSide"><img src="../images/security_ico.png"></div>
+          <div class="discDesc">
+             <div class="box-heading">Secure online shopping</div>
+              <p>Safe and secure checkout</p>
+          </div>
+      </div>
+   </section>
   </div><!-- end of .container -->
 
 </div><!-- end of #content -->

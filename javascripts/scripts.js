@@ -14,7 +14,7 @@ $(window).load(function() {
   // remove the scroll from mobile devices
 	// only show the sticky sidebar on desktop
 	function sticky_shopping_cart() {
-    var window_top = $(window).scrollTop() + 20;
+    var window_top = $(window).scrollTop() + 15;
     var div_top = $('#product-detail-upper-fold').offset().top;
     if (window_top > div_top) {
         $('.floating-shopping-cart').addClass('float-cart');
