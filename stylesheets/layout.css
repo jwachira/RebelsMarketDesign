@@ -6415,7 +6415,10 @@ h6 {
   float: left;
   width: 100%;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 13px;
+}
+.catCol label a {
+  margin-left: 3px;
 }
 .catCol select {
   width: 80%;
@@ -6435,6 +6438,12 @@ h6 {
 }
 .catCol input[type='submit']:hover {
   background: #c42626 url(../images/catrtBtn.png) no-repeat left center;
+}
+.catCol-wide {
+  width: 90%;
+}
+.catCol-wide label {
+  font-size: 1.2em;
 }
 .shippinBar {
   background: #efefef;
@@ -9289,6 +9298,9 @@ p a:hover {
   background: #f5f5f5;
   margin-bottom: 20px;
 }
+.title-block .thin-title {
+  padding: 3px !important;
+}
 .title-block .side-title {
   float: left;
   width: 80%;
@@ -9395,6 +9407,11 @@ p a:hover {
 }
 .show-love:hover {
   background-color: #c42626;
+}
+.light {
+  background: #fa8686 url('../images/show-love.png') no-repeat left center;
+  color: #ffffff;
+  font-weight: normal;
 }
 .folow-count {
   background: #fff;
@@ -9512,6 +9529,9 @@ p a:hover {
   color: #1589c9;
   font-size: 30px;
 }
+.pricing .price-now .gray-version {
+  color: #454545;
+}
 .pricing .add-to-cart {
   background: #0749b0 url('../images/add-to-cart.png') no-repeat left center;
   color: #fff;
@@ -9527,6 +9547,9 @@ p a:hover {
   font-weight: bold;
 }
 .pricing .add-to-cart:hover {
+  background: #c42626 url('../images/add-to-cart.png') no-repeat left center;
+}
+.pricing .add-to-cart .red {
   background: #c42626 url('../images/add-to-cart.png') no-repeat left center;
 }
 .pricing .add-wishlist {

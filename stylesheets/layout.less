@@ -3801,30 +3801,40 @@ line-height: 16px;}
 	}
 
 }
+
 .catCol{
-width: 30%;
-float: left;
-margin-bottom: 20px;
-label{
+	width: 30%;
 	float: left;
-	width: 100%;
-	font-weight: normal;
-	font-size: 12px;
+	margin-bottom: 20px;
+	label{
+		float: left;
+		width: 100%;
+		font-weight: normal;
+		font-size: 13px;
+		a {
+			margin-left:3px;
+		}
+	}
+	select{
+		width: 80%;
+	}
+	input[type='submit']{
+		background:@red url(../images/catrtBtn.png) no-repeat left center;
+		.rounded (@radius:20px);
+		padding:6px 20px 6px 28px;
+		color: #fff;
+		.text-shadow;
+		margin-top:14px;
+	}
+	input[type='submit']:hover{
+		background:@hover url(../images/catrtBtn.png) no-repeat left center;
+	}
 }
-select{
-	width: 80%;
-}
-input[type='submit']{
-	background:@red url(../images/catrtBtn.png) no-repeat left center;
-	.rounded (@radius:20px);
-	padding:6px 20px 6px 28px;
-	color: #fff;
-	.text-shadow;
-	margin-top:14px;
-}
-input[type='submit']:hover{
-	background:@hover url(../images/catrtBtn.png) no-repeat left center;
-}
+.catCol-wide {
+	width: 90%;
+	label {
+		font-size: 1.2em;
+	}
 }
 .shippinBar{
 	background: #efefef;
@@ -6378,6 +6388,9 @@ input[type='submit']:hover{
 	border-bottom: #b2b2b2 dotted 1px;
 	background: #f5f5f5;
 	margin-bottom: 20px;
+	.thin-title {
+		padding: 3px !important;
+	}
 	.side-title{
 		float: left;
 		width: 80%;
@@ -6468,6 +6481,11 @@ input[type='submit']:hover{
 	&:hover{
 		background-color:@hover;
 	}
+}
+.light {
+	background: #FA8686 url('../images/show-love.png') no-repeat left center;
+	color:#ffffff;
+	font-weight:normal;
 }
 .folow-count{
 	background: #fff;
@@ -6572,6 +6590,11 @@ input[type='submit']:hover{
 			color: #1589c9;
 			font-size: 30px;
 		}
+		.gray-version {
+			color: #454545;
+		}
+
+
 	}
 	.add-to-cart{
 		background:#0749b0 url('../images/add-to-cart.png') no-repeat left center;
@@ -6585,6 +6608,9 @@ input[type='submit']:hover{
 		&:hover{
 			background: #c42626 url('../images/add-to-cart.png') no-repeat left center;
 		}
+	 .red {
+		  background: #c42626 url('../images/add-to-cart.png') no-repeat left center;
+	  }
 	}
 	.add-wishlist{
 		background: url('../images/eye.png') no-repeat left center;

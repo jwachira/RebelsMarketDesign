@@ -155,18 +155,9 @@ $(window).load(function() {
 	//   cursorborder:'1px solid #5e9e9e'
 	// });
 
-
-
-	//packery
-  	var container = document.querySelector('#container');
-	var pckry = new Packery( container, {
-	  // options
+	var container = document.querySelector('#container');
+	var msnry = new Masonry( container, {
 	  itemSelector: '.galry-item'
 	});
-
-
-
-
-
 
 });//end window.load
