@@ -6439,10 +6439,10 @@ h6 {
 .catCol input[type='submit']:hover {
   background: #c42626 url(../images/catrtBtn.png) no-repeat left center;
 }
-.catCol-wide {
+.floating-shopping-cart .catCol-wide {
   width: 90%;
 }
-.catCol-wide label {
+.floating-shopping-cart .catCol-wide label {
   font-size: 1.2em;
 }
 .shippinBar {
