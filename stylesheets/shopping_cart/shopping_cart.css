@@ -1,0 +1,25 @@
+.checkout-container .checkout-left-container {
+  width: 70%;
+  padding: 20px;
+  background-color: #F2F2F2;
+}
+.checkout-container .checkout-left-container h3 {
+  padding: 0px;
+  border-bottom: 1px dotted;
+  color: #333;
+}
+.checkout-container .checkout-left-container h4 {
+  color: #626364;
+}
+.checkout-container .checkout-left-container input[type='text'] {
+  overflow: hidden;
+  width: 60%;
+  background: #FFF;
+  border: #E3E3E3 1px solid;
+  color: #7D7D7D;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  height: 30px;
+  text-indent: 10px;
+  margin: 5px 0;
+}

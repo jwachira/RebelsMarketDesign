@@ -3151,5 +3151,8 @@
     margin-right: 20px;
     margin-left: 0px;
   }
+  .checkout-container .checkout-left-container {
+    width: 100%;
+  }
 }
 /*320 mobile device*/

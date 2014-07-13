@@ -8,7 +8,7 @@ var paths = {
 
   // ## Source paths (useful for watches and read tasks, can be globs/arrays)
   src: {
-    less:      ['stylesheets/*.less']
+    less: ['stylesheets/*.less', 'stylesheets/**/*.less']
   },
 
   dest: {
@@ -26,7 +26,7 @@ gulp.task('compile-less', function () {
 
 // task to watch changes to less files
 gulp.task('watch-less', function () {
-    watch({glob: './stylesheets/*.less'}, function (files) { // watch any changes on coffee files
+    watch({glob: paths.src.less}, function (files) { // watch any changes on coffee files
         gulp.start('compile-less'); // run the compile task
     });
 });

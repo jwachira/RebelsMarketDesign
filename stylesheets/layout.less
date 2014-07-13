@@ -2058,7 +2058,14 @@ margin:20px 0;
 .border_r{border-right:1px #7d7d7d dotted}
 .bd_dt_b{border-bottom:1px dotted #dfdfdf}
 .bd_r{border-right:1px solid #dfdfdf;}
-
+.bordered_box {
+	border: 1px #7D7D7D dotted;
+	padding:20px;
+	margin-bottom:20px;
+	p {
+		margin:0px;
+	}
+}
 
 /*0.6 Margin*/
 .marginT_10{margin-top:10px}
@@ -2176,6 +2183,20 @@ background: rgb(202, 201, 201);
 	&:hover{
 		background:@hover;
 	}
+}
+.checkout-red-button {
+	font-size: 1.5em;
+	color: #FFF;
+	display: inline-block;
+	font-weight: bold;
+	text-shadow: 0 0 0 rgba(0, 0, 0, 0),0 -1px 1px rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+	background-color: #DD0017;
+	background: -moz-linear-gradient(100% 100% 90deg,#b50025,#f40017);
+	background: -webkit-gradient(linear,0% 0,0% 100%,from(#F40017),to(#B50025));
+	background-image: -o-linear-gradient(#b50025,#f40017);
+	padding:10px;
+	width:auto;
 }
 .button_six{background:#454545; color:#fff; text-align:center; padding:6px 0; -moz-border-radius:4px; border-radius: 4px; margin-left:auto; border:none; height:34px; cursor:pointer}
 .icon_one{float:left; width:24px; display:block; height:18px; overflow:hidden; margin-right:6px}
