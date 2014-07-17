@@ -186,6 +186,7 @@ h1 {
   height: 50px;
   background: #222;
   border-top: #343333 solid 1px;
+  box-shadow: #000 0px 0px 6px;
 }
 .casualBanner {
   margin-top: 15px;
@@ -1131,6 +1132,10 @@ h1 {
   font-size: 14px;
   margin: 0;
   line-height: 20px;
+}
+.productPair .detailRight h2 a {
+  font-size: 13px;
+  color: #4C4C4C;
 }
 .productPair .detailRight .datagrid table {
   border-collapse: collapse;
@@ -5792,6 +5797,10 @@ h6 {
 .storeNext a:hover {
   background: #c42626;
 }
+.success {
+  color: #090;
+  margin: 0;
+}
 .finalCart {
   border-bottom: #b2b2b2 dotted 1px;
   width: 100%;
@@ -5875,6 +5884,13 @@ h6 {
   color: #4c4c4c;
   font-size: 22px;
   margin: 0 0 25px;
+}
+.otherInterest h3 {
+  color: #4c4c4c;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 1.255;
+  border: none;
 }
 .otherInterest .universalSlider {
   max-width: 1080px;
@@ -11025,10 +11041,9 @@ p a:hover {
 .main-menu > li {
   display: inline-block;
   float: left;
-  margin: 6px 72px 0 0;
+  margin: 8px 10px 0px;
 }
 .main-menu > li a {
-  font-family: 'helvetica_lt_stdbold';
   color: #ddd;
   font-size: 15px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.65);
