@@ -8,6 +8,9 @@
   border-bottom: 1px dotted;
   color: #333;
 }
+.checkout-container .checkout-left-container a {
+  color: green;
+}
 .checkout-container .checkout-left-container h4 {
   color: #626364;
 }
