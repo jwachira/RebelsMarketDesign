@@ -6507,7 +6507,7 @@ h6 {
   width: 90%;
 }
 .catCol-wide label {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 .shippinBar {
   background: #efefef;
@@ -9586,6 +9586,7 @@ p a:hover {
 .pricing .price-now {
   float: left;
   margin-right: 40px;
+  margin-bottom: 10px;
 }
 .pricing .price-now h4 {
   font-weight: bold;
@@ -9595,6 +9596,21 @@ p a:hover {
 }
 .pricing .price-now .gray-version {
   color: #454545;
+}
+.pricing .price-now span {
+  font-size: 12px;
+}
+.pricing .price-now .list-price {
+  color: #323232;
+}
+.pricing .price-now .savings {
+  color: #900;
+}
+.pricing .price-now .free-shipping {
+  color: green;
+}
+.pricing .price-now .medium-price {
+  font-size: 14px;
 }
 .pricing .add-to-cart {
   background: #0749b0 url('../images/add-to-cart.png') no-repeat left center;
