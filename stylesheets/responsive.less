@@ -18,6 +18,7 @@
 	}
 }
 
+
 @media screen and (min-width:960px) and (max-width:1188px) {
 	/*  #content .container{
 	  	background: yellow;
@@ -1359,17 +1360,27 @@
 		padding: 4px 20px 15px;
 		background: none;
 	}
+	// checkout steps
 	#purchase_steps {
 		float: left;
 		max-width: 100%;
 		width: 100%;
+		span{
+			display: none;
+		}
+		.Shopping_Cart, .Payment_Method, .Place_Order{
+			background: #343333;
+		}
 		li{
-			width: 100%;
-			margin-bottom: 2px;
+			width: 33.3%;
 			a{
-				width: 100%;
+				margin: 0;
 				.box-sizing;
-				background: #343333;
+				height: auto;
+				padding: 5px;
+				font-size: 11px;
+				text-align: center;
+				width: 100%;
 			}
 		}
 		li#current{
@@ -1377,7 +1388,6 @@
 				background:#676666;
 			}
 		}
-
 	}
 	.prodctShop {
 		margin-top: 15px;
@@ -1943,9 +1953,6 @@
 
 
 @media screen and (min-width:100px) and (max-width:499px) {
-	/*#content .container{
-		background: blue;
-	}*/
 	.reload-banner{
 		background:#a0816f;
 		padding: 10px;
@@ -2359,14 +2366,20 @@
 			width: 100%;
 			.box-sizing;
 			padding-right:0px;
-			margin-bottom: 0;
-
+			margin-bottom:0;
+			.checkout-orange-button {
+				padding: 10px 10px;
+				width:200px;
+				font-size: 16px;
+			}
+			h3 {
+				font-size:14px;
+	  	}
 		}
 		.block_300 {
 			width: 100%;
 			border: 0;
 			padding: 0;
-
 			.marginT_10 {
 				margin: 10px 0 20px;
 				float: left;
@@ -2415,7 +2428,6 @@
 		}
 	}
 
-
 	.cartHeader{
 		position: relative;
 		height: auto;
@@ -2436,6 +2448,8 @@
 			h2{
 				margin: 0 0 5px;
 				line-height: 1.1;
+				font-size: 12px;
+				font-weight:bold;
 			}
 		}
 	}
@@ -2848,14 +2862,22 @@
 	.productPair{
 		.detaileft {
 			float: left;
-			width: 100%;
+			width: 33%;
 			text-align: center;
 			margin-bottom: 20px;
+			margin-right: 10px;
 		}
 		.detailRight{
-			width: 100%;
+			width: 58%;
 			padding-bottom: 20px;
 			padding-left: 0;
+			h1 {
+				font-size:12px;
+				font-weight:normal;
+			}
+			table tbody td select {
+				margin-left: 10px;
+			}
 		}
 	}
 	.new-blog-wrap .social-likes {
@@ -3393,3 +3415,53 @@
 		}
 	}
 }/*320 mobile device*/
+
+// responsive hacks by James//
+// this should not be here..
+// but the css structure is very dirty that needs a total re-write
+@media screen and (min-width:100px) and (max-width:499px) {
+.checkout-container {
+	 .checkout-left-container {
+		input[type='text'] {
+			width:90%;
+		 }
+	 }
+  }
+	.title-block {
+		.side-title h1 {
+			font-size:14px;
+		}
+	}
+}
+// http://alistapart.com/article/responsive-web-design
+@media screen and (max-width:749px) and (min-width:500px) {
+	.block {
+		.block_570 {
+			width:100% !important;
+		}
+		.block_300 {
+			width: 100%;
+			float:left;
+			clear:both;
+		}
+	}
+	.block_300 {
+		width:100%;
+	}
+.checkout-container {
+	.checkout-left-container {
+		h3 {
+			font-size:15px;
+		}
+		input[type='text'] {
+			width:90%;
+		}
+	}
+ }
+
+.title-block {
+	.side-title h1 {
+		font-size:14px;
+	}
+ }
+}

@@ -1,11 +1,14 @@
 <%= render 'cart_header' %>
+<%= render 'order_summary' %>
+
 <div id="content">
 
   <div class="container shopingSpacing checkout-container">
 
-	 <div class="block">
+<div class="block">
 <h1 class="marginT_20">Checkout</h1>
-<div class="block_570 float_left checkout-left-container">
+
+<div id="address-box" class="block_570 float_left checkout-left-container">
  <form>
 
   <h3>Your Shipping Address</h3>
@@ -70,27 +73,7 @@
 	</form>
 </div><!-- block_570 ends -->
 
-<div class="block_300 float_right border_l paddingL_20 bordered_box">
-  <h4>Order Summary</h4>
-  <p class="marginB_10">You have 2 items in your shopping cart</p>
-
-  <div class="block border_b border_t paddingTB_5">
-    <p>Order Number<span class="float_right txt_bold Order_number">H03676406641</span></p>
-  </div>
-  <div class="block border_b paddingTB_5">
-    <p>Item Total<span class="float_right txt_bold">$173.09 USD</span></p>
-  </div>
-  <div class="block border_b paddingTB_5">
-    <p>Shipping<span class="float_right txt_bold">$8.00 USD</span></p>
-  </div>
-
-  <div class="block paddingTB_5">
-    <p class="txt_bold">Order Total <span class="float_right">$181.09 USD</span></p>
-  </div>
-
-</div>
-
-<div class="block_300 float_right border_l paddingL_20 bordered_box">
+<div id="signup_box" class="block_300 float_right border_l paddingL_20 bordered_box">
   <h4>Have an account?</h4>
   <p class="marginB_10">Sign in for faster checkout(optional)</p>
 
@@ -115,3 +98,11 @@
 
 </div><!-- end of #content -->
 <%= render 'footer' %>
+<!--  this will position the content on a page based on the screen size; for the end users convinience-->
+<script type="text/javascript">
+   if (document.documentElement.clientWidth > 640) {
+     $("#top_order_summary").remove().insertBefore($("#signup_box"));
+   }else{
+    $("#top_order_summary").remove().insertBefore($("#address-box"));
+   }
+</script>
