@@ -11346,3 +11346,85 @@ div.poptip p {
 .checkout-banner .hide-shoppingcart-banner:hover {
   color: red;
 }
+.storePopup {
+  background: #f7f7f7;
+  padding: 0;
+  max-width: 360px !important;
+}
+.storePopup h4 {
+  color: #990000;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.storePopup,
+.storePopup a {
+  color: #4c4c4c;
+}
+.storePopup a,
+.storePopup a:hover {
+  text-decoration: underline;
+}
+.medal {
+  padding: 0px 5px;
+  display: inline-block;
+  text-align: center;
+  font-size: 14px;
+  vertical-align: text-bottom;
+}
+.medal img {
+  padding-bottom: 10px;
+}
+.np {
+  padding: 0px;
+}
+.nlp {
+  padding-left: 0px;
+}
+.nrp {
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+}
+.p_15 {
+  padding: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.plr_10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.p_8 {
+  clear: both;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.ptb_20 {
+  clear: both;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.store_header {
+  font-size: 16px;
+  background: #eaeaea;
+  padding: 15px;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.store_footer a {
+  text-decoration: none;
+  font-size: 11px;
+}
+.border_bottom {
+  border-bottom: solid 1px #ddd;
+}
+.overlayWrap .popWrap.storePopup .closeBtn {
+  width: 32px;
+  height: 32px;
+  top: 12px !important;
+  background: url(../images/icons/close.png) right top no-repeat;
+}
