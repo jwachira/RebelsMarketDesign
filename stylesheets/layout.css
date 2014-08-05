@@ -11428,3 +11428,48 @@ div.poptip p {
   top: 12px !important;
   background: url(../images/icons/close.png) right top no-repeat;
 }
+.column,
+.columns {
+  float: left;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.one-third.column {
+  width: 380px;
+}
+.one-third.column .headline {
+  font-size: 20px;
+  padding-right: 20px;
+  position: relative;
+  float: left;
+}
+ul.product-list {
+  margin: 0;
+}
+ul.product-list li {
+  margin: 15px 0 0 0;
+  display: block;
+  float: left;
+  width: 100%;
+}
+.product-list img {
+  display: inline;
+  float: left;
+  padding-right: 15px;
+  width: 50%;
+}
+.product-list-desc {
+  display: inline;
+  font-size: 13px;
+  color: #666666;
+  top: 16px;
+  left: 0;
+  position: relative;
+}
+.product-list-desc i {
+  display: block;
+  font-weight: 700;
+  line-height: 24px;
+  color: #606060;
+}
