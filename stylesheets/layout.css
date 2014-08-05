@@ -10133,11 +10133,12 @@ p a:hover {
 }
 .new-blog-wrap h3 {
   font-weight: bold;
-  font-size: 23px;
+  font-size: 20px;
   color: #3c3c3c;
   border: 0;
   padding: 0;
   margin: 0 0 10px;
+  padding-top: 10px;
 }
 .new-blog-wrap h1 {
   font-weight: bold;
@@ -10643,6 +10644,7 @@ p a:hover {
 .popular-single .poplr-info p {
   margin: 0;
   color: #3c3c3c;
+  font-size: 14px;
 }
 .popular-single .poplr-info span {
   font-style: italic;
@@ -11428,8 +11430,7 @@ div.poptip p {
   top: 12px !important;
   background: url(../images/icons/close.png) right top no-repeat;
 }
-.column,
-.columns {
+.column {
   float: left;
   display: inline;
   margin-left: 10px;
