@@ -8357,7 +8357,7 @@ p a:hover {
 }
 .prodctShop .prct_row .singlePrdct {
   float: left;
-  width: 30%;
+  width: 29.5%;
   margin: 0 1.5%;
   border: 1px solid #ddd;
   -webkit-border-radius: 2px;
@@ -8370,7 +8370,7 @@ p a:hover {
   font-weight: bold;
   font-size: 14px;
   color: #7f7f7f;
-  margin: 10px 0 0;
+  margin: 0;
   bottom: 0;
   background: #eee;
   opacity: 0.85;
@@ -8385,7 +8385,8 @@ p a:hover {
 }
 .prodctShop .prct_row .singlePrdct img {
   height: 200px;
-  max-height: 200px;
+  max-height: 266px;
+  max-width: 262px;
 }
 .prodctShop .prct_row .singlePrdct:hover img {
   opacity: 0.8;
