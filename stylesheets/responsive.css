@@ -2537,9 +2537,10 @@
   .popularNow .column .displayInfo .subDetails {
     padding: 7px;
   }
-  .popularNow .column .displayInfo .subDetails h2 {
+  .popularNow .column .displayInfo .subDetails p {
     font-weight: normal;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
   }
   .popularNow .column .displayInfo .subDetails .price {
     float: left;

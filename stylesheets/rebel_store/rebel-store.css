@@ -1,0 +1,195 @@
+.storeHeader {
+  border-bottom: 1px solid #ececec;
+  border-top: 1px solid #ececec;
+  display: table;
+  vertical-align: middle;
+  padding: 10px 0 10px 0;
+  max-width: 1140px;
+  height: 177px;
+  margin-bottom: 20px;
+}
+.storeHeader .storeLogo {
+  float: left;
+  height: 152px;
+  width: 152px;
+  line-height: 137px;
+  margin-right: 2em;
+  text-align: center;
+  border: solid 1px rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+}
+.storeHeader .storeLogo a {
+  display: block;
+}
+.storeHeader .storeLogo img {
+  border: solid 4px #ffffff;
+  vertical-align: middle;
+  border-radius: 2px;
+  max-width: 150px;
+  max-height: 150px;
+}
+.storeHeader .storeInformation {
+  padding-left: 3px;
+  width: 1140px;
+  position: relative;
+  vertical-align: middle;
+  display: table-cell;
+}
+.storeHeader .storeInformation h1 {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding: 0;
+}
+.storeHeader .storeInformation h1 a {
+  font-size: 20px;
+  color: #333;
+  padding-bottom: 0px;
+  margin: 0px 0 10px;
+  font-weight: 600;
+  border: none;
+}
+.storeHeader .storeInformation .introduction {
+  padding-bottom: 5px;
+}
+.storeHeader .storeInformation .introduction p {
+  margin: 0;
+  font-size: 14px;
+  color: #666666;
+}
+.storeHeader .storeInformation .reviews {
+  display: inline-block;
+  font-size: 14px;
+  vertical-align: top;
+}
+.storeHeader .storeInformation .reviews span {
+  color: #b12704;
+  font-size: 12px;
+  font-weight: bold;
+}
+.storeHeader .storeInformation .reviews .review_stars_wrapper {
+  width: 72px;
+  min-width: 72px;
+}
+.storeHeader .simple-box-info {
+  background: none;
+  margin-top: 0;
+  padding-left: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.storeHeader .show-love {
+  background: #b12704 url('images/show-love.png') no-repeat left center;
+  font-weight: normal;
+  font-size: 13px;
+}
+.store-navigation {
+  list-style-type: none;
+  font-size: 14px;
+  padding: 0em 0 1em 0;
+  margin: 0em 0 2.5em 0;
+  border-bottom: 1px solid #ececec;
+}
+.store-navigation li {
+  display: inline-block;
+  margin-right: 2em;
+  font-weight: bold;
+}
+.store-navigation li a {
+  color: #66a8a6;
+}
+@media only screen and (max-width: 480px) {
+  .storeHeader {
+    padding-top: 0px;
+    margin-top: 0px;
+    border: 0px;
+    height: auto;
+  }
+  .storeHeader .storeLogo {
+    display: none;
+  }
+  .storeHeader .storeInformation {
+    width: auto;
+    clear: top;
+    float: left;
+  }
+  .storeHeader .storeInformation .introduction p {
+    font-size: 12px;
+  }
+  .storeHeader .storeInformation h1 a {
+    font-size: 12px;
+  }
+}
+.mainContentWide {
+  width: 100%;
+}
+.mainContentWide .column-3 {
+  width: 18.5%;
+}
+#minimal-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 30px;
+  width: 100%;
+  min-width: 1200px;
+  z-index: 10003;
+  background: #fafafa;
+  border-top: 1px solid #cccccc;
+  margin-top: 0px;
+}
+#minimal-footer .footer-content {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  margin: auto;
+  color: #888888;
+}
+#minimal-footer .footer-content .footer-links {
+  padding: 5px 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1em;
+  height: 20px;
+}
+#minimal-footer .footer-content .footer-links a {
+  line-height: 20px;
+  vertical-align: top;
+  margin-right: 15px;
+  color: #7a7a7a;
+  position: relative;
+}
+.shopping-preferences {
+  height: 60px;
+  background: #34495E;
+  color: #ffffff;
+  background: #f2f2f2;
+  cursor: pointer;
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+.shopping-preferences h3 {
+  font-size: 20px;
+  color: #333333;
+  line-height: 17px;
+  margin-left: 20px;
+  padding: 14px;
+}
+.shopping-preferences .btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 14%;
+  margin-left: 20px;
+}
+.shopping-preferences .btn-primary {
+  color: #ffffff;
+  background-color: #b12704;
+}
