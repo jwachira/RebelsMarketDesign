@@ -2187,7 +2187,7 @@
     box-sizing: border-box;
     /* Opera/IE 8+ */
     padding-right: 0px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
   .block .block_570 .checkout-orange-button {
     padding: 10px 10px;

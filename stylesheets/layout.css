@@ -8368,12 +8368,11 @@ p a:hover {
   margin-top: 30px;
 }
 .prodctShop .prct_row {
-  text-align: center;
   margin-bottom: 30px;
 }
 .prodctShop .prct_row .singlePrdct {
   float: left;
-  width: 30%;
+  width: 29.5%;
   margin: 0 1.5%;
   border: 1px solid #ddd;
   -webkit-border-radius: 2px;
@@ -8386,7 +8385,7 @@ p a:hover {
   font-weight: bold;
   font-size: 14px;
   color: #7f7f7f;
-  margin: 10px 0 0;
+  margin: 0;
   bottom: 0;
   background: #eee;
   opacity: 0.85;
@@ -8400,8 +8399,8 @@ p a:hover {
   border: none;
 }
 .prodctShop .prct_row .singlePrdct img {
-  height: 200px;
-  max-height: 200px;
+  max-height: 266px;
+  width: 100%;
 }
 .prodctShop .prct_row .singlePrdct:hover img {
   opacity: 0.8;
@@ -10149,11 +10148,12 @@ p a:hover {
 }
 .new-blog-wrap h3 {
   font-weight: bold;
-  font-size: 23px;
+  font-size: 20px;
   color: #3c3c3c;
   border: 0;
   padding: 0;
   margin: 0 0 10px;
+  padding-top: 10px;
 }
 .new-blog-wrap h1 {
   font-weight: bold;
@@ -10659,6 +10659,7 @@ p a:hover {
 .popular-single .poplr-info p {
   margin: 0;
   color: #3c3c3c;
+  font-size: 14px;
 }
 .popular-single .poplr-info span {
   font-style: italic;
