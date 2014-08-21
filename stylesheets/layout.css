@@ -6539,7 +6539,7 @@ h6 {
   width: 100%;
   height: 100%;
   position: fixed;
-  z-index: 199;
+  z-index: 999;
   left: 0;
   top: 0;
 }
@@ -6547,7 +6547,7 @@ h6 {
   position: fixed;
   width: 100%;
   height: 1px;
-  z-index: 200;
+  z-index: 1000;
   top: 70px;
   left: 0;
 }
