@@ -1626,6 +1626,9 @@ h1 {
   color: #6a6767;
   position: relative;
 }
+.blogSection .blogWrap .leftWing .textsheet p {
+  text-align: left;
+}
 .blogSection .blogWrap .leftWing .textsheet h1 {
   margin: 0 0 10px;
   color: #454545;

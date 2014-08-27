@@ -32,8 +32,7 @@
       <html class="no-js gt-ie9" lang="en">
   <![endif]-->
     <link href="../stylesheets/layout.css" rel="stylesheet" type="text/css" />
-    <link href="../stylesheets/rebel_store/rebel-store.css" rel="stylesheet" media="screen">
-    <link href="../stylesheets/navigation/minimal-header.css" rel="stylesheet" media="screen">
+    <link href="../stylesheets/mobile/screen.css" rel="stylesheet" media="screen">
     <link type="text/css" media="screen" rel="stylesheet" href="../stylesheets/responsive-tables.css" />
     <script src="../javascripts/css_browser_selector.js" type="text/javascript"></script>
     <link href="../stylesheets/custom.css" rel="stylesheet" media="screen">
@@ -41,45 +40,60 @@
     <link href="../stylesheets/responsive.css" rel="stylesheet" media="screen">
     <script src="../javascripts/masonry.pkgd.min.js" type="text/javascript"></script>
 
-
-
   </head>
 <body>
-<div id="header">
-  <div class="header-content">
-    <div class="header-left">
-      <a id="new-logo" href="/" class="left"></a>
+
+<div class="mobile-nav">
+    <div class="login-bar">
+        <div class="welcom-txt">Welcome</div>
+        <a href="" class="register-btn">Register</a>
+        <a href="" class="sign-up-btn">Sign In</a>
+    </div>
+    <!-- non-login user ends -->
+    <div class="login-bar">
+        <div class="welcom-txt">Welcome, <span>Kanyenje</span></div>
+        <a href="" class="sign-up-btn">Logout</a>
+    </div>
+    <!-- Login users ends -->
+    <div class="mobile-menu">
+      <ul>
+          <li><a href="#">Woman</a></li>
+          <li><a href="#">Man</a></li>
+          <li><a href="#">Artwork</a></li>
+          <li><a href="#">Clothing</a></li>
+          <li><a href="#">Decor</a></li>
+          <li><a href="#">Gadgets</a></li>
+          <li><a href="#">House-ware</a></li>
+          <li><a href="#">Jewery &amp; Accessories</a></li>
+          <li><a href="#">Sell</a></li>
+      </ul>
     </div>
 
-    <div class="header-right">
-      <div class="login-btn">
-        Sign In
-      </div>
-    </div>
-  </div>
+    <!-- Menu ends -->
 </div>
-<div class="subheader-banner">
-  <div class="sub-navigation">
-    <ul>
-      <li>Women</li>
-      <li>Men</li>
-      <li>
-        Jewelry
-        <ul>
-          <li>Necklaces</li>
-          <li>Bracelets</li>
-          <li>Earrings</li>
-        </ul>
-      </li>
-      <li>Blog</li>
-      <li>Contact</li>
-    </ul>
-  </div>
 
-  <div class="header-dropdown-banner">
-    <h3>Welcome to RebelsMarket. The place to Buy & Sell Alternative Inspired Items</h3>
-    <h3>Welcome to RebelsMarket. The place to discover the most exciting things for your life</h3>
-  </div>
+<section class="visible-content">
+
+  <div class="faux-header clearfix">
+    <section class="block-one clearfix">
+        <div class="menu-icon"></div>
+        <div class="mobi-logo">
+           <a href=""><img src="../images/rebel-logo.png"></a>
+        </div>
+        <div class="search-trigger"></div>
+        <a class="cart-icon-mobi" href="">
+           <span>30</span>
+        </a>
+    </section>
+
+    <section class="block-two">
+        <div class="mobileSearch">
+            <form action="">
+                <input type="text" placeholder="Search...">
+                  <input type="submit" value="Go">
+              </form>
+          </div>
+    </section>
+
 </div>
-<div class="clearfix">
-</div>
+<!-- Mobile header ends -->
