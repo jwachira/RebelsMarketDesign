@@ -1,4 +1,4 @@
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 499px) {
   .review_stars_wrapper a span {
     color: #B12704;
     float: right;
@@ -11,44 +11,96 @@
     min-height: 40px;
     border-bottom: 1px solid #ebecee;
     background-color: #f5f7f8;
-    padding: 10px 0 0 10px;
+    padding: 10px 10px 0 10px;
+    text-align: center;
   }
-  .navigate-back a {
-    color: #B12704;
-  }
-  .navigate-back .product-price {
-    font-weight: bold;
-    color: #B12704;
-    float: right;
-    margin-right: 10px;
-  }
-  .mobile-header {
-    width: 100%;
-    margin: 10px 0;
-    color: #333;
-  }
-  .mobile-header .product-title {
-    font-size: 14px;
-    font-weight: normal;
-    width: 70%;
+  .navigate-back a img {
+    width: 20px;
+    height: 20px;
+    clear: both;
     display: inline-block;
-    float: left;
-    margin-bottom: 10px;
-  }
-  .mobile-header .product-price {
-    width: 30%;
-    color: #B12704;
-    display: inline-block;
-    float: right;
-    font-weight: bold;
-    font-size: 14px;
   }
   .pricing,
   .ship-count {
     border: none;
     margin: 0;
+    margin-top: 10px;
   }
   .select-quantity {
     margin: 0 !important;
+  }
+  .select-quantity .catCol {
+    margin: 0;
+  }
+  .info-half {
+    padding: 5px;
+  }
+  .reviews {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ebecee;
+    padding-bottom: 5px;
+  }
+  .reviews a span {
+    float: right;
+    font-weight: bold;
+    vertical-align: top;
+  }
+  .reviews .review-link {
+    float: left;
+    color: #333;
+    font-weight: bold;
+  }
+  .reviews .review-link a {
+    color: #333;
+  }
+  .product-price {
+    font-weight: bold;
+    color: #333;
+    float: right;
+  }
+  .store-section {
+    border: 1px solid #ebecee;
+    background-color: #f5f7f8;
+    font-weight: bold;
+    padding: 4px;
+    margin-top: 15px;
+  }
+  .store-section .store-name {
+    font-size: 14px;
+  }
+  .store-section .store-name span a {
+    color: #665;
+    text-decoration: underline;
+  }
+  .store-section .store-name .store-links a {
+    display: block;
+  }
+  .product-details .favorites {
+    margin-bottom: 5px;
+  }
+  .product-details .title {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+  }
+  .product-details table tr.bold td {
+    font-weight: bold;
+  }
+  .product-details table td {
+    border: 1px solid #d8dae4;
+    padding: 10px;
+  }
+  .product-review-title a {
+    color: #333;
+  }
+  .product-review-title span {
+    font-weight: bold;
+    float: right;
+  }
+  .bx-wrapper .bx-next {
+    right: -20px !important;
+  }
+  .bx-wrapper .bx-prev {
+    left: -30px !important;
   }
 }

@@ -41,6 +41,25 @@
   width: 0;
   height: 0;
 }
+.review-stars {
+  background-image: url("../../images/icons/reviews-stars.png");
+  background-repeat: no-repeat;
+  background-size: 400px 19px;
+  -webkit-background-size: 400px 19px;
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height: 18px;
+}
+.star-5 {
+  background-position: -5px 0px;
+}
+.star-4 {
+  background-position: -21px 0px;
+}
+.star-3 {
+  background-position: -37px 0px;
+}
 h1 {
   color: #3c3c3c;
   border-bottom: #b2b2b2 dotted 1px;
