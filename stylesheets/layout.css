@@ -386,7 +386,8 @@ h1 {
   margin-bottom: 0;
 }
 .popularNow .column .displayInfo .subDetails p a {
-  font-weight: normal;
+  font-weight: bold;
+  font-size: 13px;
 }
 .popularNow .column .displayInfo .subDetails h2 {
   margin: 0;
@@ -6539,7 +6540,7 @@ h6 {
   width: 100%;
   height: 100%;
   position: fixed;
-  z-index: 999;
+  z-index: 199;
   left: 0;
   top: 0;
 }
