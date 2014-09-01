@@ -1,4 +1,28 @@
 @media screen and (max-width: 499px) {
+  #mobile-nav-icon {
+    margin-right: 5px;
+    display: table-cell;
+    vertical-align: middle;
+    color: #8d8d8d;
+    line-height: 18px;
+    float: left;
+    cursor: pointer;
+    position: relative;
+    font-size: 28px;
+    margin-top: -4px;
+  }
+  #mobile-logo {
+    float: left;
+    margin-left: 5px;
+    margin-top: -3px;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #mobile-logo img {
+    width: 110px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
   .review_stars_wrapper a span {
     color: #B12704;
     float: right;

@@ -1,7 +1,8 @@
 // including plugins
-var gulp = require('gulp'),
-    less = require("gulp-less"),
-    watch = require("gulp-watch");
+var gulp      = require('gulp'),
+    less      = require("gulp-less"),
+    concat    = require('gulp-concat'),
+    watch     = require("gulp-watch");
 
 
 var paths = {
@@ -20,6 +21,7 @@ var paths = {
 gulp.task('compile-less', function () {
     gulp.src(paths.src.less) // path to your file
     .pipe(less())
+    // .pipe(concat('screen.css'))
     .pipe(gulp.dest(paths.dest.css));
 });
 
