@@ -248,6 +248,31 @@
 	padding:12px 0 9px;
 	margin-top:30px;
 }
+.selling-points {
+ background-color:black;
+}
+.selling-points {
+  height:27px
+}
+.selling-points ul li {
+  color:#fff;
+  margin-top:20px;
+  font-family:'HelveticaNeueLTStd77BoldCondensed';
+  display:inline;
+  font-size:20px;
+  border-right: 1px solid #ddd;
+  padding:0 20px;
+  line-height:34px;
+}
+.selling-points ul li:last-child {
+  border:none;
+}
+.selling-points ul li a {
+  display:inline;
+}
+.casualBanner h1 {
+  font-family:'HelveticaNeueLTStd77BoldCondensed';
+}
 
 /*#2c5987*/
 /* === SCREEN 1200 === */
