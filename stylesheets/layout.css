@@ -11530,63 +11530,29 @@ ul.product-list li {
   text-align: center;
   font-family: 'Helvetica Neue Bold';
 }
-.sitewide-banner {
-  z-index: 1000;
-  background: #191818;
-  height: auto;
-  padding: 3px 0px;
+.searchFilter .incentives {
+  padding-top: 0px;
 }
-.sitewide-banner .sitewide-banner-wrap {
-  width: 1120px;
-  margin-left: auto;
-  margin-right: auto;
-  height: 20px;
+.searchFilter .incentives input[type="text"] {
+  width: 200px;
+  padding: 4px;
+  background: #fff;
+  border-radius: 0;
 }
-.sitewide-banner .sitewide-banner-wrap .right {
-  float: right;
-}
-.sitewide-banner .sitewide-banner-wrap .left {
-  float: left;
-}
-.sitewide-banner .sitewide-banner-wrap ul {
-  right: 40px;
-}
-.sitewide-banner .sitewide-banner-wrap ul li {
-  display: inline-block;
-  padding: 0px 5px;
-}
-.sitewide-banner .sitewide-banner-wrap ul li a {
-  color: #888;
-  font-size: 14px;
-}
-.sitewide-banner .sitewide-banner-wrap p {
-  display: block;
-  width: 93.75%;
-  max-width: 940px;
-  margin: 0px auto;
-  padding: 5px 0;
-  font-size: 15px;
+.searchFilter .incentives a {
   color: #333;
+  text-decoration: underline;
+}
+.searchFilter form label {
+  font-size: 16px;
+}
+.searchFilter .incentive-button {
+  border-bottom: 0px;
   text-align: center;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-}
-section.coupons {
-  margin-bottom: 10px;
-  padding: 9px;
-  float: left;
-  width: 100%;
-  display: block;
-  clear: both;
-  background: #efefef;
-  border-radius: 3px;
-}
-section.coupons .coupon-offer {
-  font-size: 14px;
-  font-weight: 500;
-  color: #dd0017;
-  text-transform: uppercase;
-}
-section.coupons .coupon-expire a {
-  padding-left: 10px;
+  background: #e73f3a;
+  border: 0;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5px 8px;
 }
